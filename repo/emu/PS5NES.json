@@ -3,14 +3,14 @@
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5NESX/main/nes/sce_sys/icon0.png",
   "description": "Native NES emulator for PS5 using the FCEUmm core with the PS5SX2 cover-flow interface. Supports NES, UNF and UNIF ROMs, ZIP archives, internal storage, USB, NFSv3 shares, automatic box-art downloads, battery saves, save states and configurable controls.",
-  "size_bytes": 8690000,
-  "download_url": "https://github.com/Yahballon/PS5NESX/releases/download/v1.0.0.9/PPSA99204.rar",
+  "size_bytes": 9107893,
+  "download_url": "https://github.com/Yahballon/PS5NESX/releases/download/v1.0.0.9/PPSA99204.zip",
   "title_id": "PPSA99204",
-  "version": "v1.0.0.9",
+  "version": "1.0.0.9",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/Yahballon/PS5NESX/releases/tag/v1.0.0.9",
-  "sha256": "1e459d5734429cddd67c0ff268ec27a7d7c6eed115efd32f67c672a5d68fc390",
+  "sha256": "3e8762b2e2e5b15c09a7f005915dae89fa1c30928ec7f95130b2b25b76acf399",
   "author": "YAHBALLON"
 }

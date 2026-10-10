@@ -1,16 +1,16 @@
 {
   "name": "PS5 GBAX",
   "type": "emulator",
-  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5GBAx/main/gba/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5GBAX/main/gba/sce_sys/icon0.png",
   "description": "Native Game Boy Advance emulator for PS5 using mGBA 0.10.5 with the PS5SX2 cover-flow interface. Supports GBA ROMs and ZIP archives from internal storage, USB and NFSv3 shares, automatic box-art downloads, save states, battery saves, fast forward, configurable controls and 4K graphics modes.",
-  "size_bytes": 8990000,
-  "download_url": "https://github.com/Yahballon/PS5N64X/releases/download/v.1.0.0.7/PPSA99206.zip",
+  "size_bytes": 9421239,
+  "download_url": "https://github.com/Yahballon/PS5GBAX/releases/download/v1.0.0.1/PPSA99209.zip",
   "title_id": "PPSA99209",
-  "version": "1.0.0.3",
+  "version": "1.0.0.1",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/Yahballon/PS5N64X/releases/tag/v.1.0.0.7",
-  "sha256": "d9c8d869d0ff1c665db522b2340a0e47285e11a61e5b495b481e712aee699b3c",
+  "source_page": "https://github.com/Yahballon/PS5GBAX/releases/tag/v1.0.0.1",
+  "sha256": "3b8848bf24b9b3f3864d0a126d23d6ccc7aad558a6b17f945f80cfe0d8bd6e25",
   "author": "YAHBALLON"
 }
