@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "3d68f8075f5175f140a61ee19cab9bc234c4495a6e8170d0fcba9535dcd92da1",
-  "commit": "412762d26ac95eb12f3c81dc4b07088ee54c5fc9",
+  "version": "1ceb89c1b82ee45f1abf5c7f5f0d32e4e6be98f1ffdecad8a5a8cfdee1047c1d",
+  "commit": "3caf9aab8c4114b691d0130b2315751d925253e2",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -85,7 +85,7 @@
     },
     {
       "path": "repo/games/ProsperoLichess.json",
-      "sha": "09dc7f497cf06e602539d5afa2fe17220f290ca2"
+      "sha": "8e4e0704a33ae5885576edc5dae2c3402ea7c51a"
     },
     {
       "path": "repo/games/ProsperoPuzzles.json",
