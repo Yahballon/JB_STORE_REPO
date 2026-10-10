@@ -23,18 +23,18 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Create ZIP
-        run: python3 tools/create-repo-zip.py
+      - name: Update version and create ZIP
+        run: python3 tools/update-repo.py
 
-      - name: Commit ZIP to repository
+      - name: Commit version and ZIP to repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- JB_STORE_REPO.zip
+          git add -- repo/version.json JB_STORE_REPO.zip
           if git diff --cached --quiet; then
-            echo "ZIP is already up to date."
+            echo "Version and ZIP are already up to date."
           else
-            git commit -m "Update repository ZIP [skip ci]"
+            git commit -m "Update repository version and ZIP [skip ci]"
             git push
           fi
 

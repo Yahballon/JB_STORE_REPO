@@ -18,6 +18,10 @@ This project is intended exclusively for legitimate homebrew development and dis
 
 Every push runs the **Create repository ZIP** GitHub Actions workflow. It can
 also be started manually under **Actions → Create repository ZIP → Run workflow**.
+The workflow first updates `repo/version.json`, then creates the ZIP containing
+that manifest. The metadata version changes only when the indexed JSON files
+change. Both files are committed together.
+
 The workflow commits `JB_STORE_REPO.zip` to the root of the same branch, so it
 is available directly in the repository. It also uploads the **JB_STORE_REPO**
 artifact to the completed run. Artifacts are retained for 30 days.
@@ -29,7 +33,7 @@ the metadata.
 To create the same ZIP locally, run:
 
 ```sh
-python tools/create-repo-zip.py
+python tools/update-repo.py
 ```
 
 The output is `JB_STORE_REPO.zip` in the repository root. Use `--output PATH` to choose another
