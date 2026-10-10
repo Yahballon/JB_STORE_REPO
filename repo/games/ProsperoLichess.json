@@ -1,0 +1,16 @@
+{
+  "name": "ProsperoLichess",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLichess/main/sce_sys/icon0.png",
+  "description": "Native Lichess chess client for PS5 homebrew. Play online rated or casual games, challenge Stockfish, solve daily and rated puzzles, use offline Puzzle Streak, Storm and Themes, play local Pass & Play, watch Lichess TV and customize boards and pieces in a 4K60 DualSense-friendly interface.",
+  "size_bytes": 45400000,
+  "download_url": "https://github.com/blackbearreloaded/ProsperoLichess/releases/download/01.000.000/PPSA99009.zip",
+  "title_id": "PPSA99009",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/blackbearreloaded/ProsperoLichess/releases/tag/01.000.000",
+  "sha256": "37d4cd3021dffb43a951ce3d888051403c6a099a258bbf0c785f51203c6ef8bb",
+  "author": "BlackBearReloaded"
+}

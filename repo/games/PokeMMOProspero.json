@@ -1,0 +1,16 @@
+{
+  "name": "PokeMMO Prospero",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/Shabbypenguin/PokeMMO-Prospero/main/assets/branding/icon0.png",
+  "description": "Unofficial PokeMMO client launcher and compatibility layer for PS5 homebrew. Downloads and runs the official PokeMMO Linux client on PS5 with DualSense controls, audio, on-screen keyboard, touchpad mouse support, ROM uploads over a local web interface or FTP, per-profile settings and optional Google Drive backup. Requires your own legally obtained compatible ROMs.",
+  "size_bytes": 8560000,
+  "download_url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.1/PPSA98001.zip",
+  "title_id": "PPSA98001",
+  "version": "1.0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/tag/v1.0.1",
+  "sha256": "1c4ce867d890b797a87630042e4cd0c4371eb27ad0bb9dc6171c2fe42020a527",
+  "author": "Shabbypenguin"
+}

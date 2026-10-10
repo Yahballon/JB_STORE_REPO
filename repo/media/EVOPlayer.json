@@ -1,0 +1,16 @@
+{
+  "name": "EVO Player",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/sainsaji/EVO-PLAYER-PS5/main/projects/evoplayer/sce_sys/icon0.png",
+  "description": "Native media player for PS5 homebrew with hardware-accelerated H.264, HEVC and VP9 video decoding at up to 4K, 10-bit HDR support, USB and internal storage browsing, GPU-rendered interface, subtitles, resume support and 5.1/7.1 surround sound testing.",
+  "size_bytes": 18700000,
+  "download_url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.zip",
+  "title_id": "PPSA99039",
+  "version": "0.10.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/tag/v0.10.0",
+  "sha256": "dd7d80dcfbf27af377f4014df4e88ea412988d169785912b10a162e3060cb011",
+  "author": "sainsaji"
+}

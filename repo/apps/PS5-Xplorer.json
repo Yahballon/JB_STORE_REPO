@@ -1,0 +1,17 @@
+{
+  "name": "PS5-Xplorer",
+  "type": "app",
+  "cover_image": "https://pkg-zone.com/images/LAPY20011/cover.png",
+  "description": "File manager for the PS5",
+  "size_bytes": 81264640,
+  "download_url": "https://pkg-zone.com/download/ps5/LAPY20011/1.05",
+  "title_id": "LAPY20011",
+  "version": "1.05",
+  "format": "pkg",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://pkg-zone.com/details/LAPY20011",
+  "author": "Lapy",
+  "content_id": "ED1234-LAPY20011_00-PS4XPLORER200000",
+  "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+}

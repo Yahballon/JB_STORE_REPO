@@ -1,0 +1,16 @@
+{
+  "name": "ProsperoAI",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoAI/01.000.000/sce_sys/icon0.png",
+  "description": "Local LLM chat app for PS5.",
+  "size_bytes": 65361401,
+  "download_url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",
+  "title_id": "PPSA99004",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99004/",
+  "sha256": "19c2bacebf6fb1587b32d458fb5af2fb472d9f3844085993b0f1a30669dc0c69",
+  "author": "BlackBearReloaded"
+}

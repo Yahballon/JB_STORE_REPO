@@ -1,0 +1,16 @@
+{
+  "name": "Prospero Multi Tools",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/SvenGDK/Prospero-Multi-Tools/v1/sce_sys/icon0.png",
+  "description": "Backup manager for PS5: browse and edit PS1 to PS5, PSP and PS Vita backups, install packages and launch PS1/PS2/PSP titles. Needs the unjail payload.",
+  "size_bytes": 3057587,
+  "download_url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
+  "title_id": "PPSA99110",
+  "version": "1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99110/",
+  "sha256": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
+  "author": "SvenGDK"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ProsperoTV",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/01.000.015/sce_sys/icon0.png",
+  "description": "Native IPTV client for PS5.",
+  "size_bytes": 30741834,
+  "download_url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.zip",
+  "title_id": "PPSA99003",
+  "version": "01.000.015",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99003/",
+  "sha256": "3b3780c65fc1e55e86f877ebce076fe7bb19481cd93e0a6177453dbba03ce941",
+  "author": "BlackBearReloaded"
+}

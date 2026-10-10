@@ -1,0 +1,17 @@
+{
+  "name": "Netflix (EU)",
+  "type": "media",
+  "cover_image": "https://pkg-zone.com/images/PPSA01615/cover.png",
+  "description": "PS5 Netflix (EU) app for Netflix-N-Hack",
+  "size_bytes": 93847552,
+  "download_url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00",
+  "title_id": "PPSA01615",
+  "version": "6.00",
+  "format": "pkg",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://pkg-zone.com/details/PPSA01615",
+  "author": "lm",
+  "content_id": "EP4350-PPSA01615_00-NETFLIXGEMINI001",
+  "store_compatibility": "Requires JB STORE 01.000.011 or newer."
+}

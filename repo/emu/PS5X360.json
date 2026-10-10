@@ -1,0 +1,16 @@
+{
+  "name": "PS5X360",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/BrinooTk/PS5X360/main/assets/branding/icon0.png",
+  "description": "Experimental Xbox 360 emulator for PS5 based on Xenia Canary. Features native DualSense input, audio output, RADV Vulkan graphics, cover-flow game library, ISO and GOD/STFS support, per-game settings, community patches, FSR upscaling, CAS sharpening, local achievements and support for up to four local players.",
+  "size_bytes": 17700000,
+  "download_url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7/PPSA50011.zip",
+  "title_id": "PPSA50011",
+  "version": "0.5.7",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/BrinooTk/PS5X360/releases/tag/v0.5.7",
+  "sha256": "6b16fbd1cd9a09d36af3a12e82834ab7bbb8854c423d957bc1a1909bd27cd324",
+  "author": "BrinooTk"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "FPKGi",
+  "type": "app",
+  "cover_image": "https://pkg-zone.com/images/PKGI13337/cover.png",
+  "description": "FPKGi is an open-source PKGi clone for PSP, Vita, and PS3, preserving its UI, \nmusic, and features while supporting modern consoles. It handles custom FPKG \ncontent via .json files, making it perfect for game preservation and personal use.",
+  "size_bytes": 85458944,
+  "download_url": "https://pkg-zone.com/download/ps5/PKGI13337/1.10.0",
+  "title_id": "PKGI13337",
+  "version": "1.10.0",
+  "format": "pkg",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://pkg-zone.com/details/PKGI13337",
+  "author": "ItsJokerZz, Bucanero",
+  "content_id": "ED1633-PKGI13337_00-0000000000000000",
+  "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Itemzflow Game Manager",
+  "type": "app",
+  "cover_image": "https://pkg-zone.com/images/ITEM00001/cover.png",
+  "description": "Itemzflow is a Free and Open source PS4 home menu alternative\nItemzflow expands the beyond limits of Sony's ShellUI",
+  "size_bytes": 62849024,
+  "download_url": "https://pkg-zone.com/download/ps5/ITEM00001/1.14",
+  "title_id": "ITEM00001",
+  "version": "1.14",
+  "format": "pkg",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://pkg-zone.com/details/ITEM00001",
+  "author": "LM",
+  "content_id": "IV0002-ITEM00001_00-STOREUPD00000000",
+  "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+}

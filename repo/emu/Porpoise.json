@@ -1,0 +1,16 @@
+{
+  "name": "Porpoise",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/Main/sce_sys/icon0.png",
+  "description": "Native GameCube and Wii emulator for PS5 powered by Dolphin. Features a controller-friendly game library with cover art, memory-card management, save states, per-game settings, Wii Remote emulation, RetroAchievements and Vulkan rendering.",
+  "size_bytes": 29800000,
+  "download_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.5/Porpoise-2.5.zip",
+  "title_id": "PPSA99764",
+  "version": "2.5",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/tag/v2.5",
+  "sha256": "a6de0af1d2b427cad5f69a32203407115d91b71e8291f92acf2545a5850a7600",
+  "author": "elripalda"
+}

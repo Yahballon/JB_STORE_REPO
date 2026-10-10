@@ -1,0 +1,16 @@
+{
+  "name": "Yamagi Quake II",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ps5-yamagi-quake2/v0.2.0-alpha.1/sce_sys/icon0.png",
+  "description": "Native PS5 port of Yamagi Quake II.",
+  "size_bytes": 58066037,
+  "download_url": "https://github.com/blackbearreloaded/ps5-yamagi-quake2/releases/download/v0.2.0-alpha.1/PPSA99007.zip",
+  "title_id": "PPSA99007",
+  "version": "0.2.0-alpha.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99007/",
+  "sha256": "4fa5da07498fe64ffc67229eed2347e0ddffd5073f1fea248ba5e69307229a70",
+  "author": "BlackBearReloaded"
+}

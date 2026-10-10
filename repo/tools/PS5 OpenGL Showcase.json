@@ -1,0 +1,16 @@
+{
+  "name": "PS5 OpenGL Showcase",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ps5-opengl/464be47c711db2034712f94f4d822f1b18c79ed3/examples/core46-showcase/sce_sys/icon0.png",
+  "description": "Native OpenGL graphics showcase for PS5.",
+  "size_bytes": 18784831,
+  "download_url": "https://github.com/blackbearreloaded/ps5-opengl/releases/download/v1.0.0/ps5-opengl-showcase-1.0.0-PPSA99005.zip",
+  "title_id": "PPSA99005",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99005/",
+  "sha256": "ddfa1fcd580c7b6745ecc6e075fcbb7b5e3180f11b049ade2ced9fc55d37c456",
+  "author": "BlackBearReloaded"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "PS5 Temperature",
+  "type": "tool",
+  "cover_image": "https://pkg-zone.com/images/LAPY20012/cover.png",
+  "description": "PS5's APU Temp",
+  "size_bytes": 56360960,
+  "download_url": "https://pkg-zone.com/download/ps5/LAPY20012/1.00",
+  "title_id": "LAPY20012",
+  "version": "1.00",
+  "format": "pkg",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://pkg-zone.com/details/LAPY20012",
+  "author": "Lapy",
+  "content_id": "ED1234-LAPY20012_00-0000000000000000",
+  "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Capy Mobile",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/khalifa007/CapyMobile/main/sce_sys/icon0.png",
+  "description": "Native J2ME mobile game emulator for PS5 homebrew. Play classic Java phone games from Nokia, Sony Ericsson and other mobile platforms using .jar files, with DualSense controls, audio, saves, configurable phone screen sizes and per-game speed settings.",
+  "size_bytes": 1000000,
+  "download_url": "https://github.com/khalifa007/CapyMobile/releases/download/v0.5.0/CapyMobile-00.005.000.zip",
+  "title_id": "PPSA92280",
+  "version": "0.5.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/khalifa007/CapyMobile/releases/tag/v0.5.0",
+  "sha256": "80b14507838cd835fca794a493cde6b4cf0e7ca923afafaa1bc37c08f8fca6ec",
+  "author": "Khalifa Al-Khatri"
+}

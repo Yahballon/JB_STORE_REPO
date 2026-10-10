@@ -1,0 +1,16 @@
+{
+  "name": "ProsperoLight",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/01.000.070/sce_sys/icon0.png",
+  "description": "Unofficial Moonlight game streaming port for PS5.",
+  "size_bytes": 36383357,
+  "download_url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.070/PPSA99002.zip",
+  "title_id": "PPSA99002",
+  "version": "01.000.070",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99002/",
+  "sha256": "1fece5044d6411b5791b3f891bdb64f36405bd1fc3e68a3cf81f3161fa57e80a",
+  "author": "BlackBearReloaded"
+}

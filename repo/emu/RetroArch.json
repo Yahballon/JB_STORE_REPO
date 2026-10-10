@@ -1,0 +1,16 @@
+{
+  "name": "RetroArch",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/mihawk-99/PS5_RetroArch/v0.5.7-alpha.5/sce_sys/icon0.png",
+  "description": "Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.",
+  "size_bytes": 197867360,
+  "download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.5.7-alpha.5/PS5_RetroArch-v0.5.7-alpha.5.zip",
+  "title_id": "PPSA99169",
+  "version": "0.5.7-alpha.5",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99169/",
+  "sha256": "312fb9f3879a8bc10a5cc894974a1466adb3f4528e3aeb59c12f6fd8257c1f80",
+  "author": "Mihawk"
+}

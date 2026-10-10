@@ -1,0 +1,17 @@
+{
+  "name": "Avatar Changer PS5",
+  "type": "tool",
+  "cover_image": "https://pkg-zone.com/images/LAPY20016/cover.png",
+  "description": "Change your profile picture easier than ever",
+  "size_bytes": 64552960,
+  "download_url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00",
+  "title_id": "LAPY20016",
+  "version": "1.00",
+  "format": "pkg",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://pkg-zone.com/details/LAPY20016",
+  "author": "Lapy",
+  "content_id": "ED1234-LAPY20016_00-0000000000000000",
+  "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+}

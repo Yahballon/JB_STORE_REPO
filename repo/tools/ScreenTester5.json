@@ -1,0 +1,16 @@
+{
+  "name": "ScreenTester5",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Marice/ScreenTester5/main/sce_sys/icon0.png",
+  "description": "Native PS5 screen testing utility for checking dead or stuck pixels, backlight uniformity, banding and display geometry. Includes solid color screens, color bars, grayscale, gradients, pixel-grid patterns and stuck-pixel recovery modes.",
+  "size_bytes": 1180000,
+  "download_url": "https://github.com/Marice/ScreenTester5/releases/download/01.000.000/PPSA69420.zip",
+  "title_id": "PPSA69420",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Marice/ScreenTester5/releases/tag/01.000.000",
+  "sha256": "49a5c6d7bbb08f5a1539feb65b7fd2b537b6d7b304bdd3eed1c923e4ccbec8fd",
+  "author": "Marice"
+}

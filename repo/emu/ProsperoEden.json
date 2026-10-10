@@ -1,0 +1,16 @@
+{
+  "name": "ProsperoEden",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoEden/v1.000.040/sce_sys/icon0.png",
+  "description": "Unofficial Eden emulator port for PS5.",
+  "size_bytes": 37634750,
+  "download_url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.000.040/ProsperoEden-v1.000.040.zip",
+  "title_id": "PPSA99008",
+  "version": "1.000.040",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://homebrew.page/app/PPSA99008/",
+  "sha256": "4866875e2b7abd2c9184d87a57eecbfd03e2c91cd1e3084ae4d7552b34eed974",
+  "author": "BlackBearReloaded"
+}

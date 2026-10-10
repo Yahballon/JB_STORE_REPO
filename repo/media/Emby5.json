@@ -1,0 +1,16 @@
+{
+  "name": "Emby5",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/bornaradusin/Emby5/main/app/sce_sys/icon0.png",
+  "description": "Native Emby media client for PS5 homebrew. Connect to your own Emby server to browse and play movies, TV shows and music with Direct Play, Direct Stream, server-side transcoding, 4K HDR playback, subtitles, multiple audio tracks, resume support and a native DualSense-friendly interface.",
+  "size_bytes": 25300000,
+  "download_url": "https://github.com/bornaradusin/Emby5/releases/download/0.1.5/Emby5-0.1.5.zip",
+  "title_id": "PPSA99515",
+  "version": "0.1.5",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/bornaradusin/Emby5/releases/tag/0.1.5",
+  "sha256": "94112f71bbf1c59bcc72bc4fb39e91c2b5c1eed6b678524d83b776fb3709f268",
+  "author": "bornaradusin"
+}
