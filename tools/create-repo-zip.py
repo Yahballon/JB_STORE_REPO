@@ -3,14 +3,14 @@
 
 import argparse
 from pathlib import Path
-from zipfile import ZIP_DEFLATED, ZipFile
+from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
 
 def main():
     root = Path(__file__).resolve().parents[1]
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "--output", type=Path, default=root / "dist" / "JB_STORE_REPO.zip"
+        "--output", type=Path, default=root / "JB_STORE_REPO.zip"
     )
     output = parser.parse_args().output.resolve()
     source = root / "repo"
@@ -22,7 +22,11 @@ def main():
     output.parent.mkdir(parents=True, exist_ok=True)
     with ZipFile(output, "w", compression=ZIP_DEFLATED) as archive:
         for path in files:
-            archive.write(path, path.relative_to(root).as_posix())
+            entry = ZipInfo(path.relative_to(root).as_posix())
+            entry.compress_type = ZIP_DEFLATED
+            entry.create_system = 3
+            entry.external_attr = 0o100644 << 16
+            archive.writestr(entry, path.read_bytes())
     print(f"Created {output} ({len(files)} files)")
 
 

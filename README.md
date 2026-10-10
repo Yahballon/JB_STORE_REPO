@@ -16,8 +16,9 @@ This project is intended exclusively for legitimate homebrew development and dis
 
 Every push runs the **Create repository ZIP** GitHub Actions workflow. It can
 also be started manually under **Actions → Create repository ZIP → Run workflow**.
-Download the **JB_STORE_REPO** artifact from the completed run; it contains
-`JB_STORE_REPO.zip`. Artifacts are retained for 30 days.
+The workflow commits `JB_STORE_REPO.zip` to the root of the same branch, so it
+is available directly in the repository. It also uploads the **JB_STORE_REPO**
+artifact to the completed run. Artifacts are retained for 30 days.
 
 The ZIP contains the complete `repo/` directory, including `version.json`, with
 the `repo/` folder preserved. It does not download the applications linked in
@@ -29,7 +30,7 @@ To create the same ZIP locally, run:
 python tools/create-repo-zip.py
 ```
 
-The output is `dist/JB_STORE_REPO.zip`. Use `--output PATH` to choose another
+The output is `JB_STORE_REPO.zip` in the repository root. Use `--output PATH` to choose another
 location. The script can be run from any working directory.
 
 ## Purpose
