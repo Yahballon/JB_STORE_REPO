@@ -1,7 +1,9 @@
 <p align="center">
 
 # JAILBREAK STORE REPO
-
+<p align="center">
+  <img src="screenshots/backgrounds.png" alt="PS5NES game shelf">
+</p>
 **Community repository for open-source PlayStation 5 homebrew applications.**
 
 </p>
