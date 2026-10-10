@@ -77,7 +77,7 @@ Projects must have appropriate redistribution rights.
 
 ## No warez
 
-**Warez is strictly prohibited.**
+**Warez is strictly prohibited !!!**
 
 JB_STORE_REPO does **not** accept, distribute, index or intentionally link to pirated commercial software.
 
