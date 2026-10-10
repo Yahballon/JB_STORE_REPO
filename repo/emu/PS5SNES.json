@@ -1,16 +1,16 @@
 {
   "name": "PS5SNES",
   "type": "emulator",
-  "cover_image": "https://raw.githubusercontent.com/Globaleliteee/PS5SNES/main/snes/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5SNES/main/snes/sce_sys/icon0.png",
   "description": "Native Super Nintendo emulator for PS5 using the bsnes-mercury balanced core with the PS5SX2 cover-flow interface. Supports SFC, SMC, SWC and FIG ROMs, ZIP archives, internal storage, USB, NFSv3 shares, automatic box-art downloads, battery saves, save states and configurable controls.",
   "size_bytes": 8670000,
-  "download_url": "https://github.com/Globaleliteee/PS5SNES/releases/download/1.0.0.7/PPSA99205.zip",
+  "download_url": "https://github.com/Yahballon/PS5SNES/releases/download/1.0.0.7/PPSA99205.zip",
   "title_id": "PPSA99205",
   "version": "1.0.0.7",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/Globaleliteee/PS5SNES/releases/tag/1.0.0.7",
+  "source_page": "https://github.com/Yahballon/PS5SNES/releases/tag/1.0.0.7",
   "sha256": "f3f12e45ddd667cca8942824882187f4a2aa1922af16dd3151647196b6faa2b6",
-  "author": "YAHBALLON / Globaleliteee"
+  "author": "YAHBALLON"
 }
