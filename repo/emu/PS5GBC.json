@@ -1,16 +1,16 @@
 {
-  "name": "PS5GBC",
+  "name": "PS5 GBCX",
   "type": "emulator",
-  "cover_image": "https://raw.githubusercontent.com/Globaleliteee/PS5GBC/main/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5GBCX/main/sce_sys/icon0.png",
   "description": "Native Game Boy and Game Boy Color emulator for PS5 using mGBA 0.10.5 with the PS5SX2 cover-flow interface. Supports GB and GBC ROMs, ZIP archives, internal storage, USB and NFSv3 shares, automatic box-art downloads, SRAM and RTC saves, save states, fast forward, configurable controls and Vulkan output up to 4K.",
   "size_bytes": 8870000,
-  "download_url": "https://github.com/Globaleliteee/PS5GBC/releases/download/v1.0.0.3/PPSA99210.zip",
+  "download_url": "https://github.com/Yahballon/PS5GBCX/releases/download/v.1.0.0.1/PPSA99210.zip",
   "title_id": "PPSA99210",
-  "version": "1.0.0.3",
+  "version": "1.0.0.1",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/Globaleliteee/PS5GBC/releases/tag/v1.0.0.3",
-  "sha256": "871e2fd831b62cd7275e92f564c7ec7bc7691986a562d13fb0ec2f36165ca368",
-  "author": "YAHBALLON / Globaleliteee"
+  "source_page": "https://github.com/Yahballon/PS5GBCX/releases/tag/v.1.0.0.1",
+  "sha256": "c81d9a1f9ec5d57a816a256caee6f3a5bc73cb7ffd4d2aae3e2d39cfadc02f2e",
+  "author": "YAHBALLON"
 }
