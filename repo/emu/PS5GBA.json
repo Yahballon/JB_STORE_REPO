@@ -1,5 +1,5 @@
 {
-  "name": "PS5GBA",
+  "name": "PS5 GBAX",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5GBAx/main/gba/sce_sys/icon0.png",
   "description": "Native Game Boy Advance emulator for PS5 using mGBA 0.10.5 with the PS5SX2 cover-flow interface. Supports GBA ROMs and ZIP archives from internal storage, USB and NFSv3 shares, automatic box-art downloads, save states, battery saves, fast forward, configurable controls and 4K graphics modes.",

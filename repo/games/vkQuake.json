@@ -1,5 +1,5 @@
 {
-  "name": "vkQuake",
+  "name": "vk Quake",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/mihawk-99/PS5_vkQuake/main/sce_sys/icon0.png",
   "description": "Native vkQuake port for PS5 homebrew using Vulkan through the PS5 RADV/PS5_Vulkan stack. Features native DualSense controls, stereo AudioOut sound, 4K output and support for up to 120 FPS. Requires your own legally obtained Quake game data.",

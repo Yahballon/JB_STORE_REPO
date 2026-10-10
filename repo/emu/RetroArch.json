@@ -1,5 +1,5 @@
 {
-  "name": "RetroArch",
+  "name": "Retro Arch",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/mihawk-99/PS5_RetroArch/v0.5.7-alpha.5/sce_sys/icon0.png",
   "description": "Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.",

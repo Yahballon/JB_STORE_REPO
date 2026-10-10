@@ -1,5 +1,5 @@
 {
-  "name": "PS5SX2",
+  "name": "PS5 SX2",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/Swordpdf/PS5SX2/vk-285-117/bin/resources/icons/AppIconLarge.png",
   "description": "PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.",
