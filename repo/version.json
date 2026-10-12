@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2ba0f585006420695c06215d41b72d66dedc17934180b9d8bf2d9dcd1827c73a",
-  "commit": "6242e3370856ea33cbcf2abb7364f88e5b032730",
+  "version": "db84a430091c4e1d76d3e7c149d2bff34a08153b8091e8ba4e6dfbbe76d45cc0",
+  "commit": "838bef8d904366a22d1d1fb596e1b305628fbfb5",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -142,6 +142,10 @@
     {
       "path": "repo/media/ProsperoTV.json",
       "sha": "d8238f2fc910cad68ee0f43e66b73b2869cbfe83"
+    },
+    {
+      "path": "repo/media/vlcforps5.json",
+      "sha": "c4ca37b9946a21a2717da0ed5ff9583ccb9be7f1"
     },
     {
       "path": "repo/tools/Avatar Changer PS5.json",
