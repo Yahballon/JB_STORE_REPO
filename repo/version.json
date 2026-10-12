@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "600bc0509b37311ba08bf934454bde9cc004d02019f64d1e7110f237f498c0ef",
-  "commit": "1ce324a608b570d39dbba571f861227fa5e52480",
+  "version": "4b8751c9bc4226b2262c4914a5b3639e9d38f0c2ae895e412b6710fc01a104ba",
+  "commit": "56de31920c3bfbd7959a4fa2d2b4051f96df51e8",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -30,6 +30,10 @@
     {
       "path": "repo/apps/ProsperoWin.json",
       "sha": "0a3a2cabb7f1f51e78b406963455ad43d73bef7e"
+    },
+    {
+      "path": "repo/apps/forwardermanager.json",
+      "sha": "a96f14b30b9a72c07e37ae50d5b6c62c4c789b1a"
     },
     {
       "path": "repo/emu/PS5GBA.json",
