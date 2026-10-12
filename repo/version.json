@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "db84a430091c4e1d76d3e7c149d2bff34a08153b8091e8ba4e6dfbbe76d45cc0",
-  "commit": "838bef8d904366a22d1d1fb596e1b305628fbfb5",
+  "version": "1f33c71edebc9f736c0c696d52d50e4ae2acf71623a8a4efd7e1ca74874de554",
+  "commit": "a53706c36d7b026866601ccb1ee769273e0f875f",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -38,6 +38,10 @@
     {
       "path": "repo/apps/steamremoteplay.json",
       "sha": "dd26ab4dfcd6183427a92a52356652f7eaf1fcce"
+    },
+    {
+      "path": "repo/apps/surroundsoundstudio.json",
+      "sha": "a2eb183534fa920ffde2a27cc7fcde4fe3305b02"
     },
     {
       "path": "repo/emu/PS5GBA.json",
