@@ -1,0 +1,16 @@
+{
+  "name": "Surround Sound Studio",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/sainsaji/PS5-Audio-Passthrough-Research/main/sample-app/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew audio testing app for HDMI passthrough and surround-sound diagnostics. Supports Dolby Digital, Dolby Digital Plus including Atmos, DTS, DTS-HD, AAC, Dolby TrueHD and Linear PCM, with speaker tests, 5.1/7.1 sequences, a 3D sound field and DualSense microphone calibration.",
+  "size_bytes": 19000000,
+  "download_url": "https://github.com/sainsaji/PS5-Audio-Passthrough-Research/releases/download/01.000.003/PPSA99051.zip",
+  "title_id": "PPSA99051",
+  "version": "01.000.003",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/sainsaji/PS5-Audio-Passthrough-Research/releases/tag/01.000.003",
+  "sha256": "fcb4e3cb794d36b30b9dee9ed86f0eea317e7c0071d193c18d9a07734e7beb69",
+  "author": "sainsaji"
+}
