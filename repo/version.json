@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "4b8751c9bc4226b2262c4914a5b3639e9d38f0c2ae895e412b6710fc01a104ba",
-  "commit": "56de31920c3bfbd7959a4fa2d2b4051f96df51e8",
+  "version": "c3a8947850fbe15ca593e8a40eebc22f436984c2d574c15bc006d6acbfc67b69",
+  "commit": "cd25b7d654787be33008b39820ef300a8acd575b",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -102,6 +102,10 @@
     {
       "path": "repo/games/doom.json",
       "sha": "44b2a7e4f7bbfd417689a81f9be344a70e3a8dac"
+    },
+    {
+      "path": "repo/games/medievaltennis.json",
+      "sha": "3a8b0393e4488a8a0ae8dc330ea5ae5c5d4839a2"
     },
     {
       "path": "repo/games/vkQuake.json",
