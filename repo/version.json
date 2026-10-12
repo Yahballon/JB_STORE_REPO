@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2a6c6886b65094199a0e218c572eb8452c67758604173d5ff3ecbeadbca1a1d5",
-  "commit": "7b462d92e449a386167a47d1cbb00194beca3c3f",
+  "version": "db15d5c619bd2ef2a2b8639dff7c024f4a7209f4a9e515b659ddf0bf426a4ec5",
+  "commit": "1a32135dfa5dc9f29ab37612d23f1df69c7c4b96",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -178,6 +178,10 @@
     {
       "path": "repo/tools/ScreenTester5.json",
       "sha": "298ddc31e54eb82c38cdca4cc9c752c15c89a98b"
+    },
+    {
+      "path": "repo/tools/driftcheck.json",
+      "sha": "7094f77bed9ff5274f429a89a5e566de601ab4bd"
     },
     {
       "path": "repo/tools/ps5clean.json",
