@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "c0ac4d18f92332b644b1666f7c816a73797fa096de279d96bb5d89324da33b19",
-  "commit": "7d2bd7fdd8a45f254628ff8acadd9e7cc24f8463",
+  "version": "2ba0f585006420695c06215d41b72d66dedc17934180b9d8bf2d9dcd1827c73a",
+  "commit": "6242e3370856ea33cbcf2abb7364f88e5b032730",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -34,6 +34,10 @@
     {
       "path": "repo/apps/forwardermanager.json",
       "sha": "a96f14b30b9a72c07e37ae50d5b6c62c4c789b1a"
+    },
+    {
+      "path": "repo/apps/steamremoteplay.json",
+      "sha": "dd26ab4dfcd6183427a92a52356652f7eaf1fcce"
     },
     {
       "path": "repo/emu/PS5GBA.json",
