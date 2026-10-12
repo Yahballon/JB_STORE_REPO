@@ -1,0 +1,16 @@
+{
+  "name": "Drift Check",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/felipemelchior/driftcheck5/main/sce_sys/icon0.png",
+  "description": "Native PS5 DualSense diagnostic tool for checking analog stick drift, circularity, trigger values, buttons, touchpad input and motion sensors. Includes a 3-second rest test with drift severity and suggested deadzone values.",
+  "size_bytes": 124000,
+  "download_url": "https://github.com/felipemelchior/driftcheck5/releases/download/01.000.000/PPSA98766.zip",
+  "title_id": "PPSA98766",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/felipemelchior/driftcheck5/releases/tag/01.000.000",
+  "sha256": "06fa838c0747ea25075876e28df9c684d17988938b82707c9592f1d2c217c86c",
+  "author": "felipemelchior"
+}
