@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "1f33c71edebc9f736c0c696d52d50e4ae2acf71623a8a4efd7e1ca74874de554",
-  "commit": "a53706c36d7b026866601ccb1ee769273e0f875f",
+  "version": "2d0e4062320f3ded6e752493c15cedd61a59816369250e4914e050a82b668e17",
+  "commit": "e22582726645de2352604bea07bac0a753b4161c",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -30,6 +30,10 @@
     {
       "path": "repo/apps/ProsperoWin.json",
       "sha": "0a3a2cabb7f1f51e78b406963455ad43d73bef7e"
+    },
+    {
+      "path": "repo/apps/cryptotracker.json",
+      "sha": "5dcab29eda8ac4a5f41cc3d88e1d85b5167d7551"
     },
     {
       "path": "repo/apps/forwardermanager.json",
