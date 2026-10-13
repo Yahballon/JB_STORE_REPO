@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2d0e4062320f3ded6e752493c15cedd61a59816369250e4914e050a82b668e17",
-  "commit": "e22582726645de2352604bea07bac0a753b4161c",
+  "version": "4df89b7161e56281f18d140e5bba0402590dacae3860bbe9a61b9fc94051687a",
+  "commit": "8dc5c7bbb74c28210f1b5537d5dd2ab61cbaf7d4",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -206,6 +206,10 @@
     {
       "path": "repo/tools/ps5clean.json",
       "sha": "c890ef040cc71ba80193545e35b507b64c6536f3"
+    },
+    {
+      "path": "repo/tools/wwwspeedtest.json",
+      "sha": "cddbdac5955fc58c4d543de54eb5277c862d6e5a"
     }
   ]
 }
