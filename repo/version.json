@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "4df89b7161e56281f18d140e5bba0402590dacae3860bbe9a61b9fc94051687a",
-  "commit": "8dc5c7bbb74c28210f1b5537d5dd2ab61cbaf7d4",
+  "version": "396c1bfc1d514218be9497470e1cf63417524735c9fe62353c98a03fc803f684",
+  "commit": "d1497703ca3040678abef23bf4da2c43ee70ac5b",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -33,7 +33,7 @@
     },
     {
       "path": "repo/apps/cryptotracker.json",
-      "sha": "5dcab29eda8ac4a5f41cc3d88e1d85b5167d7551"
+      "sha": "c1db3a187a6ed24695b7712ddaf7782d0ac47479"
     },
     {
       "path": "repo/apps/forwardermanager.json",
