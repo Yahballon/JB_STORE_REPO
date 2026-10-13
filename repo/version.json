@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "396c1bfc1d514218be9497470e1cf63417524735c9fe62353c98a03fc803f684",
-  "commit": "d1497703ca3040678abef23bf4da2c43ee70ac5b",
+  "version": "a24cc618cc381ece4fb9f89e21558882a5b8dc3d292cc8383dca3e9c26455a03",
+  "commit": "6483a1cb6d9ee94b4b5d80720e884ef6be3a3880",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -117,7 +117,7 @@
     },
     {
       "path": "repo/games/medievaltennis.json",
-      "sha": "3a8b0393e4488a8a0ae8dc330ea5ae5c5d4839a2"
+      "sha": "2466b15295516590933973380434120c1be94b7f"
     },
     {
       "path": "repo/games/quake3arena.json",
