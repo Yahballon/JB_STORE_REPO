@@ -1,0 +1,16 @@
+{
+  "name": "OpenNOW PS5",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/Portablelle/OpenNOW-PS5/0.1/sce_sys/icon0.png",
+  "description": "Experimental native PS5 homebrew client for GeForce NOW. Supports NVIDIA device authentication, game and store catalog access, native H.264 and HEVC Main10 hardware video decoding, GPU presentation, Opus audio, DualSense input, selectable streaming profiles up to 4K120 targets, virtual keyboard and mouse controls, persistent login and selectable Stereo, 5.1 and 7.1 audio modes. Requires a GeForce NOW account and a compatible PS5 homebrew environment.",
+  "size_bytes": 27728978,
+  "download_url": "https://github.com/Portablelle/OpenNOW-PS5/releases/download/0.1/OpenNOW-PS5-0.1.zip",
+  "title_id": "PPSA99082",
+  "version": "0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Portablelle/OpenNOW-PS5/releases/tag/0.1",
+  "sha256": "34c773dedda97d1503144eee50f9234ff1b4170a6ff68ed0bb0f59dd2ba87309",
+  "author": "Portablelle / OpenCloudGaming"
+}
