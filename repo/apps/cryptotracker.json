@@ -1,7 +1,7 @@
 {
   "name": "Crypto Tracker",
   "type": "app",
-  "cover_image": null,
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/Crypto-Tracker/refs/heads/main/sce_sys/icon0.png",
   "description": "Native PS5 homebrew cryptocurrency market tracker with live USD prices, 7-day sparklines, detailed price and market statistics, historical charts, cryptocurrency logos and persistent pinned favourites. Market data is fetched securely from CoinGecko. The app is for market tracking only and does not include wallets, trading or financial transactions.",
   "size_bytes": 10254350,
   "download_url": "https://github.com/Yahballon/Crypto-Tracker/releases/download/v0.3.0/PPSA99442.zip",
