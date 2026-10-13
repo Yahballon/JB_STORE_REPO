@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "bbc2696630e52d13c16eec779087708dd46964e08d03037c423cb101d91723aa",
-  "commit": "6b721d6448a69a6416b00f114b818d6cadca0e7c",
+  "version": "baf603c399d866a8f9075ff4f577880a47d55bb87ae66fe64371972f0340c181",
+  "commit": "4f420ec59fa8c6e38802e3efabe9ed66a558ed36",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -98,6 +98,10 @@
     {
       "path": "repo/emu/SwanStationPS5.json",
       "sha": "b049791f05dcaaf91ce106189c1dd8d0abb33f81"
+    },
+    {
+      "path": "repo/emu/ps5cemuhar.json",
+      "sha": "2389ae3fc5ab9ab99090d9034817703bb1755a67"
     },
     {
       "path": "repo/emu/psxs5.json",
