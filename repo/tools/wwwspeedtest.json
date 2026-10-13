@@ -1,0 +1,16 @@
+{
+  "name": "WWW Speedtest",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5_WWW_SPEEDTEST/main/appname/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew internet speed test with real HTTPS download and upload measurements, animated speedometer, live Mbps graphs, connection latency and jitter, selectable international test servers with country flags, local and remote socket IP information, persistent test history and DualSense navigation.",
+  "size_bytes": 8529725,
+  "download_url": "https://github.com/Yahballon/PS5_WWW_SPEEDTEST/releases/download/www-speedtest-v0.5.0/PPSA99573.zip",
+  "title_id": "PPSA99573",
+  "version": "0.5.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/PS5_WWW_SPEEDTEST/releases/tag/www-speedtest-v0.5.0",
+  "sha256": "790a89c71ef23892405b6789822f3b9e054e6f596b337dfdd05afe4dc56d1a97",
+  "author": "YAHBALLON"
+}
