@@ -1,7 +1,7 @@
 {
   "name": "Medieval Tennis",
   "type": "game",
-  "cover_image": null,
+  "cover_image": "https://raw.githubusercontent.com/STL1te/MedievalTennis/refs/heads/master/Assets/Art/Logos/malcorp_logo.png",
   "description": "Native medieval-themed ping pong game for PS5 homebrew. Play against the computer or a friend locally, with one or two DualSense controllers, dynamic ball speed and return angles, first-to-10 scoring and 30 music tracks during matches.",
   "size_bytes": 102000000,
   "download_url": "https://github.com/STL1te/MedievalTennis/releases/download/01.000.000/PPSA28319.zip",
