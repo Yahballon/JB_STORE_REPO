@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "9507520e4f87425b3f655c537a7a35ce893dbaade210db835f3ff71338db2554",
-  "commit": "d79f6d614cbbb5057ac2d74e2594536b77e2750d",
+  "version": "f97b38bca63b8404d6f2fc868e8b3437d0af89b819dab0ff63fee7710067b52b",
+  "commit": "7a57bcc18b1210d9a129722e84f5681f0f6ac4d7",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -98,6 +98,10 @@
     {
       "path": "repo/emu/SwanStationPS5.json",
       "sha": "b049791f05dcaaf91ce106189c1dd8d0abb33f81"
+    },
+    {
+      "path": "repo/emu/xpsemu.json",
+      "sha": "d2f7942ce9290cadb70efbc00235a13aa10493d3"
     },
     {
       "path": "repo/games/CapyMobile.json",
