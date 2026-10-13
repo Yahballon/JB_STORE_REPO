@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "c543748b2d5e4b5ba39c105e6dc6679f2bfcb0f69c5752ba7c03d8ac889629ba",
-  "commit": "6370f8198aae0ca20c805563d02f2372e9c234ae",
+  "version": "9507520e4f87425b3f655c537a7a35ce893dbaade210db835f3ff71338db2554",
+  "commit": "d79f6d614cbbb5057ac2d74e2594536b77e2750d",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -42,6 +42,10 @@
     {
       "path": "repo/apps/payloadlauncherx.json",
       "sha": "ae0cb34e09d801f521a102c5878e94e22567ecf5"
+    },
+    {
+      "path": "repo/apps/pshare.json",
+      "sha": "24345ab96273f430cb778c793581491dab973ed4"
     },
     {
       "path": "repo/apps/steamremoteplay.json",
