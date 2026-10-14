@@ -1,0 +1,16 @@
+{
+  "name": "PS5LM Plus",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/abhi245y/PS5LM/v0.8.3/ps5/app/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew app for running GGUF large language models locally on the console using llama.cpp and Vulkan GPU acceleration. Includes a TV dashboard, local model library, Hugging Face model downloads, automatic memory and context planning, persistent download queue, system monitoring, llama.cpp web chat and OpenAI-compatible and Anthropic-compatible APIs for devices on the local network.",
+  "size_bytes": 37067695,
+  "download_url": "https://github.com/abhi245y/PS5LM/releases/download/v0.8.3/ps5lm-app-v0.8.3.zip",
+  "title_id": "PPSA99581",
+  "version": "0.8.3",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/abhi245y/PS5LM/releases/tag/v0.8.3",
+  "sha256": "42acffcacc33f371b10a4cfaa6ede0100a677231de171712b9a879bc104b6ef9",
+  "author": "abhi245y / Mert Cobanov"
+}
