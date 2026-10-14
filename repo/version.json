@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "84380105f7e7418aca1ee1e541a96d6855aa73f8e3a7369aa5611ad11e83f87d",
-  "commit": "288ea606fe748fe2c0359e0a6055fb3625ff0860",
+  "version": "cfe48190a82a2775cfeb032c09e592e22d244e609df7dee083b1be3b8824b8eb",
+  "commit": "55f5383ee4650145388e4d95e94ad458f0fc2ef5",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -194,6 +194,10 @@
     {
       "path": "repo/media/ProsperoTV.json",
       "sha": "d8238f2fc910cad68ee0f43e66b73b2869cbfe83"
+    },
+    {
+      "path": "repo/media/twispero.json",
+      "sha": "dec4db3ca3bd8c313139ec2bc486d6a8e638f7be"
     },
     {
       "path": "repo/media/vlcforps5.json",
