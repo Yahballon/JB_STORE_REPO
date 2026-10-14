@@ -1,5 +1,6 @@
 {
   "name": "Syobon Action",
+  "git": "https://github.com/kvaps/syobon-action-ps5/",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/kvaps/syobon-action-ps5/01.001.000/sce_sys/icon0.png",
   "description": "Native PS5 homebrew port of Syobon Action, also known as Cat Mario, based on the OpenSyobonAction SDL rewrite. Features DualSense controls, music and sound effects, pause menu, hidden stage selection and the original deliberately unfair platforming gameplay, scaled from 480x420 to 1080p while preserving the original aspect ratio.",

@@ -1,5 +1,6 @@
 {
   "name": "VLC for PS5",
+  "git": "https://github.com/ZiZc3/VLC/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/ZiZc3/VLC/main/ps5/sce_sys/icon0.png",
   "description": "Native VLC media player port for PS5 homebrew with a controller-first interface. Plays H.264, HEVC, AV1, VP9, VC-1 and many other formats up to 4K, with subtitles, playlists, SMB and DLNA network shares, HLS/DASH streams, IPTV, internet radio, DVD and Blu-ray support, music playback and phone or PC remote access.",

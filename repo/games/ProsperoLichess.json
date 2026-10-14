@@ -1,5 +1,6 @@
 {
   "name": "Prospero Lichess",
+  "git": "https://github.com/blackbearreloaded/ProsperoLichess/",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLichess/main/sce_sys/icon0.png",
   "description": "Native Lichess chess client for PS5 homebrew. Play online rated or casual games, challenge Stockfish, solve daily and rated puzzles, use offline Puzzle Streak, Storm and Themes, play local Pass & Play, watch Lichess TV and customize boards and pieces in a 4K60 DualSense-friendly interface.",

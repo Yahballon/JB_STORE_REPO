@@ -1,5 +1,6 @@
 {
   "name": "Ruffle Flash",
+  "git": "https://github.com/ZiZc3/Ruffle-Flash-PS5/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/ZiZc3/Ruffle-Flash-PS5/1.2.0/ps5/sce_sys/icon0.png",
   "description": "Native PS5 Flash emulator based on Ruffle for running SWF games and applications. Features a controller-friendly game library, per-game controls, cover art, USB mouse and keyboard support, an in-game quick menu, themes, badges, play-time tracking, search, saves and on-screen keyboard support. Requires your own SWF files.",

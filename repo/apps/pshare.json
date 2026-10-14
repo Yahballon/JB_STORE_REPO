@@ -1,5 +1,6 @@
 {
   "name": "P Share",
+  "git": "https://github.com/StonedModder/PShare/",
   "type": "app",
   "cover_image": "https://raw.githubusercontent.com/StonedModder/PShare/1.0/sce_sys/icon0.png",
   "description": "Native PS5 homebrew capture sharing and media gallery app. Automatically sends new screenshots and video clips to Discord, Telegram, catbox.moe, USB storage, SMB network shares and other upload services. Includes per-game routing, background uploads, capture history with QR codes, a full media gallery and built-in video playback with H.264, HEVC, VP9 and AV1 support.",

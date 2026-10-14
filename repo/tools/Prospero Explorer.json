@@ -1,5 +1,6 @@
 {
   "name": "Prospero Explorer",
+  "git": "https://github.com/SvenGDK/Prospero-Explorer/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/SvenGDK/Prospero-Explorer/v1.0/sce_sys/icon0.png",
   "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network.",

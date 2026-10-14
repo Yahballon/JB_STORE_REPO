@@ -1,5 +1,6 @@
 {
   "name": "Steam Remote Play",
+  "git": "https://github.com/jmelovich/Steam-Link-PS5/",
   "type": "app",
   "cover_image": "https://raw.githubusercontent.com/jmelovich/Steam-Link-PS5/main/sce_sys/icon0.png",
   "description": "Unofficial native Steam Remote Play client for PS5 homebrew. Discovers PCs running Steam on the local network, pairs with a PIN and streams Steam Big Picture with hardware-decoded H.264 video up to 1080p60, stereo audio and DualSense controller support.",

@@ -1,5 +1,6 @@
 {
   "name": "PS5 CLEAN",
+  "git": "https://github.com/Yahballon/PS5CLEAN/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5CLEAN/main/sce_sys/icon0.png",
   "description": "Experimental PS5 homebrew fan utility with a sci-fi dashboard, timed high/low cooling pulses, selectable cycle duration and pulse interval, live CPU temperature, measured fan duty and automatic restoration of the original cooling target when the cycle stops.",

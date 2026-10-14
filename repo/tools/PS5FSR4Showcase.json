@@ -1,5 +1,6 @@
 {
   "name": "PS5 FSR4 Showcase",
+  "git": "https://github.com/blackbearreloaded/ps5-fsr4/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ps5-fsr4/main/examples/fsr4_showcase/sce_sys/icon0.png",
   "description": "Experimental FSR 4.1.1 showcase and benchmarking tool for PS5 homebrew. Demonstrates native Vulkan compute upscaling with multiple quality modes at 1080p, 1440p and 4K, split-screen comparisons against bilinear and native rendering, magnification views and built-in performance benchmarks.",

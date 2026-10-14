@@ -1,5 +1,6 @@
 {
   "name": "Prospero Vibrate",
+  "git": "https://github.com/SvenGDK/Prospero-Vibrate/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/SvenGDK/Prospero-Vibrate/v1.0/sce_sys/icon0.png",
   "description": "Controller vibration studio for PS5 with live motor control, preset patterns, a custom pattern editor and timed playback.",

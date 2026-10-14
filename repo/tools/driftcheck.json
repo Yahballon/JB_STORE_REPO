@@ -1,5 +1,6 @@
 {
   "name": "Drift Check",
+  "git": "https://github.com/felipemelchior/driftcheck5/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/felipemelchior/driftcheck5/main/sce_sys/icon0.png",
   "description": "Native PS5 DualSense diagnostic tool for checking analog stick drift, circularity, trigger values, buttons, touchpad input and motion sensors. Includes a 3-second rest test with drift severity and suggested deadzone values.",

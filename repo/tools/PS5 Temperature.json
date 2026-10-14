@@ -1,5 +1,6 @@
 {
   "name": "PS5 Temperature",
+  "git": "https://github.com/Yahballon/JB_STORE_REPO/",
   "type": "tool",
   "cover_image": "https://pkg-zone.com/images/LAPY20012/cover.png",
   "description": "PS5's APU Temp",

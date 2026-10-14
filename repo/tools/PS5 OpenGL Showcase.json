@@ -1,5 +1,6 @@
 {
   "name": "PS5 OpenGL Showcase",
+  "git": "https://github.com/blackbearreloaded/ps5-opengl/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ps5-opengl/464be47c711db2034712f94f4d822f1b18c79ed3/examples/core46-showcase/sce_sys/icon0.png",
   "description": "Native OpenGL graphics showcase for PS5.",

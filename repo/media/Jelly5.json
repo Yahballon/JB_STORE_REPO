@@ -1,5 +1,6 @@
 {
   "name": "Jelly 5",
+  "git": "https://github.com/02dnot/Jelly5/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/02dnot/Jelly5/main/app/sce_sys/icon0.png",
   "description": "Native Jellyfin and Emby media client for PS5 homebrew with a custom liquid-glass interface, hardware-decoded 4K HDR playback, H.264, HEVC and AV1 support, subtitles, multiple audio tracks, Jellyfin SyncPlay, HDMI audio bitstreaming, music playback, Seerr integration and DualSense-friendly controls.",

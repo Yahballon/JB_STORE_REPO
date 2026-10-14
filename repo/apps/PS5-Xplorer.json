@@ -1,5 +1,6 @@
 {
   "name": "PS5 Xplorer",
+  "git": "https://github.com/Yahballon/JB_STORE_REPO/",
   "type": "app",
   "cover_image": "https://pkg-zone.com/images/LAPY20011/cover.png",
   "description": "File manager for the PS5",

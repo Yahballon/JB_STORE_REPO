@@ -1,5 +1,6 @@
 {
   "name": "XPS emu",
+  "git": "https://github.com/ZiZc3/XPSemu/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/ZiZc3/XPSemu/Alpha-2.1/ps5/sce_sys/icon0.png",
   "description": "Native original Xbox emulator for PS5 based on xemu. Features Vulkan rendering through RADV, DualSense support for up to four players, an Xbox-style game library with cover art, per-game settings, game patches, language selection, save repair and USB game support. Requires your own legally obtained Xbox MCPX boot ROM, BIOS and XISO game images.",

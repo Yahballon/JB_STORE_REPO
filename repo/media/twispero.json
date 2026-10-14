@@ -1,5 +1,6 @@
 {
   "name": "Twispero TwitchTv",
+  "git": "https://github.com/unicxrn/twispero/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/unicxrn/twispero/v1.0.0/app/projects/evoplayer/sce_sys/icon0.png",
   "description": "Native PS5 homebrew Twitch client for watching live streams, past broadcasts, highlights, uploads and clips using the console's hardware video decoder. Features selectable stream quality, resume playback, Twitch chat beside or over the video, emotes and badges including 7TV, BetterTTV and FrankerFaceZ, channel browsing, search, followed channels, live notifications, QR-code login and chat messaging.",

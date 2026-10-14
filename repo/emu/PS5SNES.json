@@ -1,5 +1,6 @@
 {
   "name": "PS5 SNESX",
+  "git": "https://github.com/Yahballon/PS5SNESX/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5SNESX/main/snes/sce_sys/icon0.png",
   "description": "Native Super Nintendo emulator for PS5 using the bsnes-mercury balanced core with the PS5SX2 cover-flow interface. Supports SFC, SMC, SWC and FIG ROMs, ZIP archives, internal storage, USB, NFSv3 shares, automatic box-art downloads, battery saves, save states and configurable controls.",

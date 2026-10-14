@@ -1,5 +1,6 @@
 {
   "name": "Prospero Puzzles",
+  "git": "https://github.com/blackbearreloaded/ProsperoPuzzles/",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoPuzzles/01.000.010/sce_sys/icon0.png",
   "description": "Collection of puzzle games for PS5.",

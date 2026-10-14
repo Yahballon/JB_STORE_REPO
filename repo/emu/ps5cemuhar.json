@@ -1,5 +1,6 @@
 {
   "name": "PS5CEMU HAR",
+  "git": "https://github.com/premohq/PS5CEMU-HAR/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/premohq/PS5CEMU-HAR/v3.5.0/sce_sys/icon0.png",
   "description": "Native PS5 homebrew emulator suite combining Cemu for Wii U and Azahar for Nintendo 3DS. Features Vulkan rendering through RADV, DualSense controls and motion, Wii U GamePad touchpad support, 3DS touch-screen emulation, graphic packs, save states, cheats, amiibo support, multiplayer, game libraries, 120 Hz output and per-game settings. Requires your own legally obtained game dumps, keys and system files where required.",

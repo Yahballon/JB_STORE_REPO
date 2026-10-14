@@ -1,5 +1,6 @@
 {
   "name": "Kodi",
+  "git": "https://github.com/VivaLaVent/kodi-ps5/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/VivaLaVent/kodi-ps5/0.9/title/sce_sys/icon0.png",
   "description": "Unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.",

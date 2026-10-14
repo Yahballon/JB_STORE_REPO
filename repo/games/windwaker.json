@@ -1,5 +1,6 @@
 {
   "name": "Wind Waker",
+  "git": "https://github.com/griches/PS5_SwitchWaker/",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/griches/PS5_SwitchWaker/v1.0.3/ps5/sce_sys/icon0.png",
   "description": "Native PS5 homebrew port of SwitchWaker for playing The Wind Waker from your own supported GameCube disc image. Uses RADV with Aurora, Dawn WebGPU and SDL3, targets 4K at 60 FPS, supports DualSense controls, save data and optional HD texture packs. Requires a legally obtained USA disc image in ISO, GCM or CISO format.",

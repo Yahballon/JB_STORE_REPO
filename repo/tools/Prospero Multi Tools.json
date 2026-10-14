@@ -1,5 +1,6 @@
 {
   "name": "Prospero Multi Tools",
+  "git": "https://github.com/SvenGDK/Prospero-Multi-Tools/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/SvenGDK/Prospero-Multi-Tools/v1/sce_sys/icon0.png",
   "description": "Backup manager for PS5: browse and edit PS1 to PS5, PSP and PS Vita backups, install packages and launch PS1/PS2/PSP titles. Needs the unjail payload.",

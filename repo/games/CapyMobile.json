@@ -1,5 +1,6 @@
 {
   "name": "Capy Mobile",
+  "git": "https://github.com/khalifa007/CapyMobile/",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/khalifa007/CapyMobile/main/sce_sys/icon0.png",
   "description": "Native J2ME mobile game emulator for PS5 homebrew. Play classic Java phone games from Nokia, Sony Ericsson and other mobile platforms using .jar files, with DualSense controls, audio, saves, configurable phone screen sizes and per-game speed settings.",

@@ -1,5 +1,6 @@
 {
   "name": "Prospero Win",
+  "git": "https://github.com/mpereiraesaa/prospero-win/",
   "type": "app",
   "cover_image": "https://raw.githubusercontent.com/mpereiraesaa/prospero-win/main/sce_sys/icon0.png",
   "description": "Windows compatibility runtime for PS5 homebrew based on Wine. Runs supported 32-bit and 64-bit Windows games and applications locally on PS5 with Direct3D 8-11 through DXVK/Vulkan, OpenGL support, DualSense controls, keyboard and mouse support, audio output and per-game launcher profiles.",

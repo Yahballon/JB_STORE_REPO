@@ -1,5 +1,6 @@
 {
   "name": "PS5 N64X",
+  "git": "https://github.com/Yahballon/PS5N64X/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5N64X/main/n64/sce_sys/icon0.png",
   "description": "Nintendo 64 emulator for PS5 using the ParaLLEl N64 core. Supports .z64, .v64 and .n64 ROMs, ZIP files, USB and internal storage, NFS shares, cover flow, save states and controller saves.",

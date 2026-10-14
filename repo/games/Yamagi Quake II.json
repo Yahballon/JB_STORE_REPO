@@ -1,5 +1,6 @@
 {
   "name": "Yamagi QuakeII",
+  "git": "https://github.com/blackbearreloaded/ps5-yamagi-quake2/",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ps5-yamagi-quake2/v0.2.0-alpha.1/sce_sys/icon0.png",
   "description": "Native PS5 port of Yamagi Quake II.",

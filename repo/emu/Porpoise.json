@@ -1,5 +1,6 @@
 {
   "name": "Porpoise DolphinPS5",
+  "git": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/v3.0/sce_sys/icon0.png",
   "description": "Native GameCube and Wii emulator for PS5 based on Dolphin. Features a controller-friendly game library with cover art, Vulkan rendering, save states and memory cards, RetroAchievements, per-game settings, Wii MotionPlus through the DualSense gyroscope, FSR 1 upscaling, widescreen options, HD texture packs, cheats and patches, screenshots, SMB/NFS network game libraries and Wii online services including Wiimmfi and WiiLink.",

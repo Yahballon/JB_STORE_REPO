@@ -1,5 +1,6 @@
 {
   "name": "Forwarder Manager",
+  "git": "https://github.com/heydemoura/ps5-forwarder-manager/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/heydemoura/ps5-forwarder-manager/00.001.002/sce_sys/icon0.png",
   "description": "Native PS5 homebrew tool for creating, editing and deleting home-screen forwarders. Launch emulators and other apps with custom ROM paths and arguments, choose local artwork or fetch covers from SteamGridDB, add background art and selection music, and generate ShadowMountPlus-compatible forwarder tiles directly on the console.",

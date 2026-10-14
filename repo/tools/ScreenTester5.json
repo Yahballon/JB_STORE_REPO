@@ -1,5 +1,6 @@
 {
   "name": "ScreenTester5",
+  "git": "https://github.com/Marice/ScreenTester5/",
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/Marice/ScreenTester5/main/sce_sys/icon0.png",
   "description": "Native PS5 screen testing utility for checking dead or stuck pixels, backlight uniformity, banding and display geometry. Includes solid color screens, color bars, grayscale, gradients, pixel-grid patterns and stuck-pixel recovery modes.",

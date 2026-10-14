@@ -1,5 +1,6 @@
 {
   "name": "PS5 X360",
+  "git": "https://github.com/BrinooTk/PS5X360/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/BrinooTk/PS5X360/main/assets/branding/icon0.png",
   "description": "Experimental Xbox 360 emulator for PS5 based on Xenia Canary. Features native DualSense input, audio output, RADV Vulkan graphics, cover-flow game library, ISO and GOD/STFS support, per-game settings, community patches, FSR upscaling, CAS sharpening, local achievements and support for up to four local players.",

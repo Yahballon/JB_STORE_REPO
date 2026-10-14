@@ -1,5 +1,6 @@
 {
   "name": "PS5 NESX",
+  "git": "https://github.com/Yahballon/PS5NESX/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5NESX/main/nes/sce_sys/icon0.png",
   "description": "Native NES emulator for PS5 using the FCEUmm core with the PS5SX2 cover-flow interface. Supports NES, UNF and UNIF ROMs, ZIP archives, internal storage, USB, NFSv3 shares, automatic box-art downloads, battery saves, save states and configurable controls.",

@@ -1,5 +1,6 @@
 {
   "name": "Prospero TV",
+  "git": "https://github.com/blackbearreloaded/ProsperoTV/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/01.000.015/sce_sys/icon0.png",
   "description": "Native IPTV client for PS5.",

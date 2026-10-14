@@ -1,5 +1,6 @@
 {
   "name": "Prospero Eden",
+  "git": "https://github.com/blackbearreloaded/ProsperoEden/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoEden/v1.000.040/sce_sys/icon0.png",
   "description": "Unofficial Eden emulator port for PS5.",

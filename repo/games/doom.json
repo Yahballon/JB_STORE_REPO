@@ -1,5 +1,6 @@
 {
   "name": "DOOM",
+  "git": "https://github.com/lowbit/ps5-doom/",
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/lowbit/ps5-doom/master/sce_sys/icon0.png",
   "description": "Native DOOM source port for PS5 based on id Software's original linuxdoom-1.10. Features GPU rendering through AGC and VideoOut, DualSense controls with analog sticks and rumble, AudioOut sound, FM music synthesis, save support and a launcher for importing your own WAD files from local storage, a PC or phone browser, URLs, ZIP, 7Z and RAR archives.",

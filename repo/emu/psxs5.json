@@ -1,5 +1,6 @@
 {
   "name": "PSX S5",
+  "git": "https://github.com/SynoPiia/PSXS5/",
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/SynoPiia/PSXS5/v2.0.0/sce_sys/icon0.png",
   "description": "Native PlayStation emulator for PS5 with two emulation cores: Beetle PSX HW with Vulkan GPU rendering and PCSX-ReARMed. Supports internal resolutions up to 16x, PGXP geometry correction, save states, memory cards, RetroAchievements, automatic cheats, cover art, per-game settings, scanlines, quick resume and USB game storage. Requires your own game images and, for Beetle PSX HW, your own regional PlayStation BIOS dump.",
