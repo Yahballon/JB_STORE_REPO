@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "64b5f3a5f8b2eda6ee7468b51e93bc526f5ea8931a32faea4d4d9449aa0bd5f4",
-  "commit": "e458131c0dd5eda440f7610affdbae617200dd98",
+  "version": "84380105f7e7418aca1ee1e541a96d6855aa73f8e3a7369aa5611ad11e83f87d",
+  "commit": "288ea606fe748fe2c0359e0a6055fb3625ff0860",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -158,6 +158,10 @@
     {
       "path": "repo/games/quake3arena.json",
       "sha": "221996c5460881f15486a4297466c9d395c99f77"
+    },
+    {
+      "path": "repo/games/syobonaction.json",
+      "sha": "93cab4b5f8865e51bfff6a3b37bf5637c67b0462"
     },
     {
       "path": "repo/games/vkQuake.json",
