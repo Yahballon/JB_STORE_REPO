@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "da675b89d4ca8be0a5b55daf72068775e1df1dab09fabfbc738f6d43217fa9d2",
-  "commit": "945c014bd50eb9b924a5588c448848af59537ac1",
+  "version": "1bbde6e7074726d917ba55f9474788822ad6d9e112aa232e08cb003925dd7aec",
+  "commit": "3b9a8ad505206d60b43e744e1c352ef3ed8702fc",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -30,6 +30,10 @@
     {
       "path": "repo/apps/ProsperoWin.json",
       "sha": "0a3a2cabb7f1f51e78b406963455ad43d73bef7e"
+    },
+    {
+      "path": "repo/apps/cdplayer.json",
+      "sha": "277ecee0284b73d0e545270568af86bc347e3f83"
     },
     {
       "path": "repo/apps/cryptotracker.json",
