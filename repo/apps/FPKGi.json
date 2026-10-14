@@ -1,6 +1,6 @@
 {
   "name": "FPKGi",
-  "git": "https://github.com/Yahballon/JB_STORE_REPO/",
+  "git": null,
   "type": "app",
   "cover_image": "https://pkg-zone.com/images/PKGI13337/cover.png",
   "description": "FPKGi is an open-source PKGi clone for PSP, Vita, and PS3, preserving its UI, \nmusic, and features while supporting modern consoles. It handles custom FPKG \ncontent via .json files, making it perfect for game preservation and personal use.",
