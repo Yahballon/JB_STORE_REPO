@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "0efc3de388dbab9c497c1d76676230e230ea0401b675c35e10e56fd04e249ecd",
-  "commit": "1e4830f2b89b4cfb0540961712118eec98981110",
+  "version": "0caa18b8ded57cd49aa0ac37e6203dd4d2d335753bb3a371f27c991ede4bba2d",
+  "commit": "efb3905d563cfa9768c53c74d56f5d2f5ea158d4",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -58,6 +58,10 @@
     {
       "path": "repo/apps/payloadlauncherx.json",
       "sha": "52e67dc176a4c7cbdfc74838d50ab782ffd567f4"
+    },
+    {
+      "path": "repo/apps/playden.json",
+      "sha": "886e6dd24e7dd371bb4e520e571dc5421c045d5a"
     },
     {
       "path": "repo/apps/ps5lmplus.json",
