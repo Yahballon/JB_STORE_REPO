@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "48b56f0b73b4f2bc3ef6d446b85292cddd8491c4cc581175c6055a47194204cc",
-  "commit": "94255a7e2b76465988e46837dd76ae78c08ae620",
+  "version": "2890703ac3a93004d43deaa6e6f002a8d5d627deae532f629eada671a4bec155",
+  "commit": "89a52ffc1e69ae5d5c77536d36ea2350fb2e5ba7",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -150,6 +150,10 @@
     {
       "path": "repo/games/doom.json",
       "sha": "1f3f488b0d60a31ff54e497b5bf12beea30c0cad"
+    },
+    {
+      "path": "repo/games/dusklight.json",
+      "sha": "3a6ca7b76d300085f7c0b286d8a6aa4f227828ca"
     },
     {
       "path": "repo/games/medievaltennis.json",
