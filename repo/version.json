@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "860fb49c21b4da6402b88663bddc7a80bd2cf12b7b12a0b2a14732f9e1ced6f4",
-  "commit": "05c469eea98869c1b5cd70312318aaa2e82fcd0f",
+  "version": "4407edb7cb34856ba0af587915f48477d497694cd16e828eee25814df5645ed3",
+  "commit": "4d901a1eaf2791ddf99b79912c9bbb9981fa06ff",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -166,6 +166,10 @@
     {
       "path": "repo/games/raptorcalloftheshadows.json",
       "sha": "c54895324fa05d322e25e0204a118cb454458078"
+    },
+    {
+      "path": "repo/games/rush2recompiled.json",
+      "sha": "47d33c3a63b624d69bf73f97b104a469c2493cc6"
     },
     {
       "path": "repo/games/shipofharkinian.json",
