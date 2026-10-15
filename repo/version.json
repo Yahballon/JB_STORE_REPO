@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "0caa18b8ded57cd49aa0ac37e6203dd4d2d335753bb3a371f27c991ede4bba2d",
-  "commit": "efb3905d563cfa9768c53c74d56f5d2f5ea158d4",
+  "version": "605210dc33c88d7eeb63f8651d294380d0d3836f83d0c10d1acfaf081145d2c1",
+  "commit": "5d1f887fe6abf54d55569035c14693004cc2bf05",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -30,6 +30,10 @@
     {
       "path": "repo/apps/ProsperoWin.json",
       "sha": "1cb0a03611fbd1e0032756aaa95be2073e0a4279"
+    },
+    {
+      "path": "repo/apps/audiobookreader.json",
+      "sha": "0064a0bc06c651428369a6f6e2ebdcc7634ccee5"
     },
     {
       "path": "repo/apps/cdplayer.json",
