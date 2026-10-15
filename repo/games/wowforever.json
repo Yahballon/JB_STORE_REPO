@@ -1,0 +1,17 @@
+{
+  "name": "WoW Forever",
+  "git": "https://github.com/BeLikeBrett/WoWPS5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/BeLikeBrett/WoWPS5/v0.1.1/app/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew port for running the World of Warcraft: Forever Windows client directly on a jailbroken PS5 through Wine, vkd3d-proton and Vulkan. Supports login, character selection, gameplay, sound, the game's native controller UI, DualSense touchpad mouse control, USB keyboard and mouse, PS5 on-screen keyboard input and uncapped rendering. Requires your own World of Warcraft installation and account; no game data is included.",
+  "size_bytes": 374533472,
+  "download_url": "https://github.com/BeLikeBrett/WoWPS5/releases/download/v0.1.1/WoWForever-PS5.zip",
+  "title_id": "PPSA99220",
+  "version": "0.1.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/BeLikeBrett/WoWPS5/releases/tag/v0.1.1",
+  "sha256": "9508024228197902a9ffab5b2aab5b4072194877f8e5c0f1fcee6aee40a5cdfd",
+  "author": "BeLikeBrett"
+}
