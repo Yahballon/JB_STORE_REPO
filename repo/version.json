@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "f112b74cf487255954482647388fb5c2510dad4448f6104073522cb30f8f4a4e",
-  "commit": "990acb1c80905a17e0d141a7cab98234126bc359",
+  "version": "573dba501bc13721c43c2cf0555d0a941189d721a68f7128eb8c1c85ef5a81b8",
+  "commit": "e4d634ce9c0d48791429236625c9270b99a14483",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -272,12 +272,20 @@
       "sha": "f0d826567a135c9144c2fbe2bf71f7e2ea653624"
     },
     {
+      "path": "repo/media/regie5.json",
+      "sha": "68d7f40e35845fee710c355f0739f375b94a70d0"
+    },
+    {
       "path": "repo/media/spot5.json",
       "sha": "5e046b54393dfa68cf45f60f8ada9ef9e3869ca1"
     },
     {
       "path": "repo/media/stremioplus.json",
       "sha": "da70c979fd664ea342547110d50e85598b7cb284"
+    },
+    {
+      "path": "repo/media/symphonystation5.json",
+      "sha": "4c7e98263753315807d3ae6b2fd8b25c1c3c9dd4"
     },
     {
       "path": "repo/media/twispero.json",
