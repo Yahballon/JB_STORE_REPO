@@ -1,0 +1,17 @@
+{
+  "name": "Audiobook Reader",
+  "git": "https://github.com/Yahballon/PS5_Audiobook_Reader/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5_Audiobook_Reader/v0.2.5/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew M4B audiobook player with a controller-first bookshelf interface, embedded and companion cover artwork, live chapter tracking, chapter navigation, resume playback, favorites, listening progress, local and USB audiobook libraries, asynchronous transfers with progress and retry support, native FFmpeg AAC decoding and SDL2 audio output.",
+  "size_bytes": 19767336,
+  "download_url": "https://github.com/Yahballon/PS5_Audiobook_Reader/releases/download/v0.2.5/PPSA99784.zip",
+  "title_id": "PPSA99784",
+  "version": "0.2.5",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/PS5_Audiobook_Reader/releases/tag/v0.2.5",
+  "sha256": "4e2ece8ec9b3d9e921e6724c3d2837d002c9a418ae18f911d5e7985ce74167bd",
+  "author": "YAHBALLON"
+}
