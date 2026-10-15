@@ -1,0 +1,17 @@
+{
+  "name": "The Simpsons Game",
+  "git": "https://github.com/LoZazaMastro/TheSimpsonsGame-PS5-Builder/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/LoZazaMastro/TheSimpsonsGame-PS5-Builder/v3.10.6/prospero/sce_sys/icon0.png",
+  "description": "PS5 homebrew port builder for The Simpsons Game using your own Xbox 360 game files. Supports ISO, XISO and extracted game sources, 4K rendering options, FSR 1, FXAA, configurable shadows, anisotropic filtering, color settings, DualSense controls and an in-game quick menu. Experimental frame generation can target up to 120 FPS output when the required optional files are supplied. Original game files are not included.",
+  "size_bytes": 222405413,
+  "download_url": "https://github.com/LoZazaMastro/TheSimpsonsGame-PS5-Builder/releases/download/v3.10.6/TheSimpsonsGame-PS5-Builder-v3.10.6-Source.zip",
+  "title_id": "PPSA74207",
+  "version": "3.10.6",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/LoZazaMastro/TheSimpsonsGame-PS5-Builder/releases/tag/v3.10.6",
+  "sha256": "af518c36ba5f7dfd3ed7f37238fa53c7b031e1002863ec4c88f1821943ce86f1",
+  "author": "LoZazaMastro"
+}
