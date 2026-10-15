@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "453692a6aaf1881353fc42e28635f1d1d728eeaca32996ec90bb80df7b8f5b73",
-  "commit": "5bca1232ca71879394f175bfcf78d486de2b1449",
+  "version": "7c74e640e09e57c0c3f126b8a9dfd9efc36b4d70b3ce20a014745d3c37b27640",
+  "commit": "77ef14bf4a0c35a6a5a4a1e9e033360ed3bbf8df",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -105,7 +105,7 @@
     },
     {
       "path": "repo/emu/RetroArch.json",
-      "sha": "ae6f9c46563440ad41ef07df16b475a966c05422"
+      "sha": "d8bd1db829ee67db76a890a64a6c657ba48f5f5d"
     },
     {
       "path": "repo/emu/SwanStationPS5.json",
