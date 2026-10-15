@@ -1,0 +1,17 @@
+{
+  "name": "Links Awakening",
+  "git": "https://github.com/mshivam019/la-ps5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/mshivam019/la-ps5/v0.1.0/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew port of Link's Awakening with 1080p rendering and 4K FSR1-upscaled output, DualSense controls, PlayStation button prompts, native audio and movie playback, a controller-operated launcher, touchpad settings menu, background shader compilation and persistent shader caches. Requires game files prepared from your own Switch version 1.0.0 base-game dump; game dumps, keys, generated game code and saves are not included.",
+  "size_bytes": 12437393,
+  "download_url": "https://github.com/mshivam019/la-ps5/releases/download/v0.1.0/PPSA99670.zip",
+  "title_id": "PPSA99670",
+  "version": "0.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mshivam019/la-ps5/releases/tag/v0.1.0",
+  "sha256": "fa46808a12b972909050617dfc99e92bbe77a67265abf0108fc475670f01d53a",
+  "author": "mshivam019"
+}
