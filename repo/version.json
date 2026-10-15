@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "4407edb7cb34856ba0af587915f48477d497694cd16e828eee25814df5645ed3",
-  "commit": "4d901a1eaf2791ddf99b79912c9bbb9981fa06ff",
+  "version": "2996fd5b1be1030a69dbfb3442b5551ce963f420ccc34c5ef95381ea6d9baa2b",
+  "commit": "b2f814a5e0c9b512d4402b908628a9da527e60c0",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -158,6 +158,10 @@
     {
       "path": "repo/games/medievaltennis.json",
       "sha": "88142e9322b6158ab8a92e5afa5a67c89c55179c"
+    },
+    {
+      "path": "repo/games/morrowind.json",
+      "sha": "8564367f18fabfddf1928dee183d73636b35ca87"
     },
     {
       "path": "repo/games/quake3arena.json",
