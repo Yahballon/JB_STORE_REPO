@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "42fdad532bae1507ad4a644d6018d4eb2633e944c53ffa5052c3dd41fa548b0e",
-  "commit": "9ad37ff8676c094eddac805ca730d96ae67e7db7",
+  "version": "89d1b357b89d4226fbf91c662e56cec61d71b16d285ae2062dbf7e2dd199ba7a",
+  "commit": "0dc360f0902abf50e68166c13d90030bf5c2dc13",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -60,6 +60,10 @@
       "sha": "65b7f9752ecb88f4f94ba20c5a59b42b2e89cff1"
     },
     {
+      "path": "repo/apps/rommps.json",
+      "sha": "0c5c2d9d2b46c9f4d1419585a8964a2c08a226f8"
+    },
+    {
       "path": "repo/apps/steamremoteplay.json",
       "sha": "bdbf763a6faa30977a1d69e3542d906917b536fc"
     },
@@ -110,6 +114,10 @@
     {
       "path": "repo/emu/SwanStationPS5.json",
       "sha": "c0668898709ac797e90d425ce0f22f1c4a012ed4"
+    },
+    {
+      "path": "repo/emu/pico8.json",
+      "sha": "8d192a0fba3bc1788b041e7aa0cf4e8290eaa069"
     },
     {
       "path": "repo/emu/ps5cemuhar.json",
@@ -172,6 +180,10 @@
       "sha": "8564367f18fabfddf1928dee183d73636b35ca87"
     },
     {
+      "path": "repo/games/oot64native.json",
+      "sha": "f9795fe305d71eb6acd25388ce3d27a86abd8b7f"
+    },
+    {
       "path": "repo/games/openrct2.json",
       "sha": "f190035a8cf7fc7afe75c7a499ee2a89d1efc3af"
     },
@@ -190,6 +202,10 @@
     {
       "path": "repo/games/shipofharkinian.json",
       "sha": "ff9147e0b2d2051f3abb1ff0d175c80d923011d7"
+    },
+    {
+      "path": "repo/games/supertuxkart.json",
+      "sha": "5941f5d3082342a6ec3508a21fb73fe5085d970c"
     },
     {
       "path": "repo/games/syobonaction.json",
