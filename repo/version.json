@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "fee78adda901bc34e094ba4bb5146a40b97705b934f5ed8ae2829130eb216e91",
-  "commit": "1076b361a9c6bd13ca843c26029af20db5a4b9e3",
+  "version": "860fb49c21b4da6402b88663bddc7a80bd2cf12b7b12a0b2a14732f9e1ced6f4",
+  "commit": "05c469eea98869c1b5cd70312318aaa2e82fcd0f",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -162,6 +162,10 @@
     {
       "path": "repo/games/quake3arena.json",
       "sha": "21234efdd91244e5e874fa233722f602b17c1294"
+    },
+    {
+      "path": "repo/games/raptorcalloftheshadows.json",
+      "sha": "c54895324fa05d322e25e0204a118cb454458078"
     },
     {
       "path": "repo/games/shipofharkinian.json",
