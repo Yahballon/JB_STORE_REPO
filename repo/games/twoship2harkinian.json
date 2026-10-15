@@ -1,0 +1,17 @@
+{
+  "name": "2 Ship 2 Harkinian (Majora's Mask)",
+  "git": "https://github.com/mshivam019/tmm64-ps5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/mshivam019/tmm64-ps5/v1.1.0/ps5/art/icon0.png",
+  "description": "Native Majora's Mask engine project for homebrew PS5 consoles; original game data required.",
+  "download_url": "https://github.com/mshivam019/tmm64-ps5/releases/download/v1.1.0/PPSA99621.zip",
+  "title_id": "PPSA99621",
+  "version": "v1.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mshivam019/tmm64-ps5",
+  "sha256": "1b53678522e2c2f453c186ecb7af863abdf27a8b2515f8af4f1b43c8fcb17722",
+  "author": "mshivam019",
+  "license": "GPL-3.0"
+}
