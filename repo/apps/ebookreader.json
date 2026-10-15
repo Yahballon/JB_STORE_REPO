@@ -1,0 +1,17 @@
+{
+  "name": "PS5 Ebook Reader",
+  "git": "https://github.com/Yahballon/PS5_Ebook_Reader/",
+  "type": "app",
+  "cover_image": "https://img.icons8.com/ios7/1200/amazon-kindle.jpg",
+  "description": "Native PS5 homebrew ebook and comic reader with support for EPUB, PDF text preview, CBR and CBZ. Features a TV-friendly bookshelf interface, real book and comic covers, EPUB illustrations, DualSense navigation, favorites, persistent reading progress, single and double-page layouts, zoom and pan up to 400%, USB book discovery and importing, resumable transfers, loading progress bars and exit confirmation.",
+  "size_bytes": 6651410,
+  "download_url": "https://github.com/Yahballon/PS5_Ebook_Reader/releases/download/ebook-reader-v0.2.6/PPSA99741.zip",
+  "title_id": "PPSA99741",
+  "version": "0.2.6",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/PS5_Ebook_Reader/releases/tag/ebook-reader-v0.2.6",
+  "sha256": "25c6158761490fcb632379a1dd1808a9e0b3b9df5a680c4384af9e3010446aba",
+  "author": "YAHBALLON"
+}
