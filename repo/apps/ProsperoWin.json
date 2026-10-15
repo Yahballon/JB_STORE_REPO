@@ -4,14 +4,14 @@
   "type": "app",
   "cover_image": "https://raw.githubusercontent.com/mpereiraesaa/prospero-win/v0.2.0/sce_sys/icon0.png",
   "description": "Windows compatibility runtime for PS5 homebrew based on Wine. Runs supported 32-bit and 64-bit Windows games and applications locally on PS5 with Direct3D 8-11 through DXVK/Vulkan, OpenGL support, DualSense controls, keyboard and mouse support, audio output and per-game launcher profiles.",
-  "size_bytes": 132000000,
+  "size_bytes": 147168457,
   "download_url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip",
   "title_id": "PPSA99995",
   "version": "0.2.0",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/mpereiraesaa/prospero-win/releases/tag/v0.1.1",
+  "source_page": "https://github.com/mpereiraesaa/prospero-win",
   "sha256": "7585efc624c2f8077c0d579a045ef808129a7b0bc525a9dd9c5c6db0c51626ca",
   "author": "mpereiraesaa"
 }

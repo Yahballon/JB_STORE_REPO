@@ -1,0 +1,17 @@
+{
+  "name": "Wind Waker HD",
+  "git": "https://github.com/mshivam019/ww-ps5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/mshivam019/ww-ps5/ps5-v0.1.2/ps5/art/catalog-icon.png",
+  "description": "Port of a Wind Waker HD game engine; user-provided legally obtained files are required.",
+  "size_bytes": 7990303,
+  "download_url": "https://github.com/mshivam019/ww-ps5/releases/download/ps5-v0.1.2/PPSA99641.zip",
+  "title_id": "PPSA99641",
+  "version": "ps5-v0.1.2",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mshivam019/ww-ps5",
+  "sha256": "8c04cb3d4e8c4158b79bfd27e63670c15433f596e1c362090ef56c20d6cd1ac1",
+  "author": "mshivam019"
+}

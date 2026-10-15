@@ -1,0 +1,17 @@
+{
+  "name": "Super Mario Sunshine",
+  "git": "https://github.com/griches/PS5_Sunshine/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_Sunshine/v0.10.0/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 port of a Super Mario Sunshine game engine; requires user-owned game resources.",
+  "size_bytes": 21219138,
+  "download_url": "https://github.com/griches/PS5_Sunshine/releases/download/v0.10.0/Sunshine-PS5-v0.10.0.zip",
+  "title_id": "PPSA99312",
+  "version": "0.10.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_Sunshine",
+  "sha256": "854c4a5d853ffb4e1061f76afd3bba2dd6cca0daa09ffe6dfadc38271042bb99",
+  "author": "Gary Riches"
+}

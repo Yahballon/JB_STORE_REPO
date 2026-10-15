@@ -4,14 +4,14 @@
   "type": "tool",
   "cover_image": "https://raw.githubusercontent.com/jmelovich/ps5-gyroaim/v1.0.2/app/sce_sys/icon0.png",
   "description": "Experimental PS5 homebrew gyro-aiming tool that turns DualSense gyroscope movement into stick input for supported running games. Includes a native control panel, per-game profiles, live tuning from a phone or PC, drift calibration, smoothing, acceleration, trigger/button activation and optional startup through Payload Manager.",
-  "size_bytes": 203000,
+  "size_bytes": 233499,
   "download_url": "https://github.com/jmelovich/ps5-gyroaim/releases/download/v1.0.2/PPSA99510.zip",
   "title_id": "PPSA99510",
   "version": "1.0.2",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/jmelovich/ps5-gyroaim/releases/tag/v1.0.0",
+  "source_page": "https://github.com/jmelovich/ps5-gyroaim",
   "sha256": "b748ef79e0296fc33ef2b648d6ee4d6e70c622b708a629ca076ac8e9aeec243a",
   "author": "jmelovich"
 }

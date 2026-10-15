@@ -1,0 +1,17 @@
+{
+  "name": "Nuvio PS5",
+  "git": "https://github.com/bilawalriaz/nuvio-ps5-homebrew/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/bilawalriaz/nuvio-ps5-homebrew/v0.1.0-alpha.7/assets/icon.png",
+  "description": "Experimental media playback application for PS5.",
+  "size_bytes": 26003629,
+  "download_url": "https://github.com/bilawalriaz/nuvio-ps5-homebrew/releases/download/v0.1.0-alpha.7/PPSA99997.zip",
+  "title_id": "PPSA99997",
+  "version": "0.1.0-alpha.7",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/bilawalriaz/nuvio-ps5-homebrew",
+  "sha256": "8c56ca5149d39fab1e4e4f8650f25e20d49e655374769765dca8c30ae2385eca",
+  "author": "Bilawal Riaz"
+}

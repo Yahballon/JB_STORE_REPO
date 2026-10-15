@@ -1,0 +1,17 @@
+{
+  "name": "ccleste",
+  "git": "https://github.com/darkxex/PS5_Celeste/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/darkxex/PS5_Celeste/master/dist/PPSA59322/sce_sys/icon0.png",
+  "description": "PS5 adaptation of the open-source Celeste Classic platformer.",
+  "size_bytes": 28183235,
+  "download_url": "https://github.com/darkxex/PS5_Celeste/releases/download/1.00/PPSA59322.zip",
+  "title_id": "PPSA59322",
+  "version": "1.00",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/darkxex/PS5_Celeste",
+  "sha256": "96861b81c1fbaac818080d1bf958b575e6b44d2c258684e1931f2940cee2fb43",
+  "author": "AngelXex"
+}

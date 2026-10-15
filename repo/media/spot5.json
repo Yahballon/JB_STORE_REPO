@@ -3,7 +3,8 @@
   "git": "https://github.com/abhi245y/spot5/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/abhi245y/spot5/v1.1.0/sce_sys/icon0.png",
-  "description": "Music streaming client for homebrew PS5.",
+  "description": "Music streaming client for PS5 homebrew.",
+  "size_bytes": 10594238,
   "download_url": "https://github.com/abhi245y/spot5/releases/download/v1.1.0/PPSA99061.zip",
   "title_id": "PPSA99061",
   "version": "1.1.0",
@@ -12,6 +13,5 @@
   "supported_by_store": true,
   "source_page": "https://github.com/abhi245y/spot5",
   "sha256": "af10d43f274db036ba2835dbc5f429cab416c028a6247023c8f6bd7076600c6c",
-  "author": "abhi245y",
-  "license": "GPL-3.0-or-later"
+  "author": "abhi245y"
 }

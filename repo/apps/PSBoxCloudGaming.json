@@ -4,14 +4,14 @@
   "type": "app",
   "cover_image": "https://raw.githubusercontent.com/RafaelNGP/xbox-cloud-gaming-ps5/v0.9.6/ps5/sce_sys/icon0.png",
   "description": "Native Xbox Cloud Gaming (xCloud) client for PS5 homebrew. Sign in with your Microsoft account, browse Game Pass and owned cloud games, and stream supported titles at up to 1080p60 with audio using the DualSense as an Xbox controller.",
-  "size_bytes": 9740000,
+  "size_bytes": 10702328,
   "download_url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v0.9.6/PPSA99810.zip",
   "title_id": "PPSA99810",
   "version": "0.9.6",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/tag/v0.3.0",
+  "source_page": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5",
   "sha256": "38905620c2de7abe44b2c0061a6496342c4a7211bef23412460685ea92d7a8a3",
   "author": "RafaelNGP"
 }

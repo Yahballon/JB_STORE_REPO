@@ -3,7 +3,8 @@
   "git": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/HandshakeHackin/Nuvio-maxd-releases/v0.5.23-native-experimental/sce_sys/icon0.png",
-  "description": "Experimental PS5 media player.",
+  "description": "Experimental native media playback client for PS5.",
+  "size_bytes": 40259669,
   "download_url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.23-native-experimental/PPSA99288.zip",
   "title_id": "PPSA99288",
   "version": "0.5.23-native-experimental",
@@ -12,6 +13,5 @@
   "supported_by_store": true,
   "source_page": "https://github.com/HandshakeHackin/Nuvio-maxd-releases",
   "sha256": "614920dfbdfc19eefd10ac44241837b54a42e49dd73a70ae6d7a8651079bde01",
-  "author": "HandshakeHackin",
-  "license": "GPL-3.0"
+  "author": "HandshakeHackin"
 }

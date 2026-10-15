@@ -3,7 +3,8 @@
   "git": "https://github.com/mortaljinx/mortalfin/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/mortaljinx/mortalfin/1.0.0-beta.4/ps5/sce_sys/icon0.png",
-  "description": "Jellyfin media client on PS5.",
+  "description": "Jellyfin-compatible native media client for PS5.",
+  "size_bytes": 41326134,
   "download_url": "https://github.com/mortaljinx/mortalfin/releases/download/1.0.0-beta.4/Mortalfin-1.0.0-beta.4.zip",
   "title_id": "PPSA99141",
   "version": "1.0.0-beta.4",
@@ -12,6 +13,5 @@
   "supported_by_store": true,
   "source_page": "https://github.com/mortaljinx/mortalfin",
   "sha256": "b19a3a379a1625b53def1f8f556ab0f31e7f62d3e2f90e93a1f0e71dbb9fc55c",
-  "author": "mortaljinx",
-  "license": "GPL-3.0"
+  "author": "mortaljinx"
 }

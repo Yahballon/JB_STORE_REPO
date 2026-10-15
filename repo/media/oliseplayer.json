@@ -1,0 +1,17 @@
+{
+  "name": "OliSe Player",
+  "git": "https://github.com/Marice/OliSePlayer/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/Marice/OliSePlayer/02.001.000/sce_sys/icon0.png",
+  "description": "Tracker-style music player with radio streams of MOD, XM, S3M and IT modules.",
+  "size_bytes": 12456020,
+  "download_url": "https://github.com/Marice/OliSePlayer/releases/download/02.001.000/PPSA01153.zip",
+  "title_id": "PPSA01153",
+  "version": "02.001.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Marice/OliSePlayer",
+  "sha256": "3711b359f91fb572acd9385c4a027f5324da0d9d8734c382080073a2a7f68c7b",
+  "author": "Marice"
+}

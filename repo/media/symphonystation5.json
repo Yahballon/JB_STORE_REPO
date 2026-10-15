@@ -3,7 +3,8 @@
   "git": "https://github.com/TsvetomirGT/SymphonyStation5/",
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/TsvetomirGT/SymphonyStation5/refs/heads/main/sce_sys/icon0.png",
-  "description": "PS5 homebrew music playback app.",
+  "description": "Native Navidrome music client for homebrew-enabled PS5.",
+  "size_bytes": 12682118,
   "download_url": "https://github.com/TsvetomirGT/SymphonyStation5/releases/download/v0.1.0/SymphonyStation5-v0.1.0.zip",
   "title_id": "PPSA17641",
   "version": "v0.1.0",
@@ -12,6 +13,5 @@
   "supported_by_store": true,
   "source_page": "https://github.com/TsvetomirGT/SymphonyStation5",
   "sha256": "5327e36b9a57776a7bb7a32a16865d54b28be3b1622280c4dbc9e6ee469e2993",
-  "author": "TsvetomirGT",
-  "license": "GPL-3.0"
+  "author": "TsvetomirGT"
 }

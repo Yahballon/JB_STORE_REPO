@@ -4,14 +4,14 @@
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/Swordpdf/PS5SX2/vk-285-171/bin/resources/icons/AppIconLarge.png",
   "description": "PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.",
-  "size_bytes": 16951407,
+  "size_bytes": 18523969,
   "download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-171/PS5SX2-vk-285-171.zip",
   "title_id": "PPSA99203",
   "version": "vk-285-171",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://homebrew.page/app/PPSA99203/",
+  "source_page": "https://github.com/Swordpdf/PS5SX2",
   "sha256": "226ac24866f0b94566c0680c3b99c0d5abfe8030723f5b28dae20af039c76963",
   "author": "Sword"
 }

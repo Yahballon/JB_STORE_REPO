@@ -4,14 +4,14 @@
   "type": "media",
   "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoRadio/01.000.010/sce_sys/icon0.png",
   "description": "Internet radio player for PS5.",
-  "size_bytes": 31793609,
+  "size_bytes": 18233463,
   "download_url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.010/PPSA99001.zip",
   "title_id": "PPSA99001",
   "version": "01.000.010",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://homebrew.page/app/PPSA99001/",
+  "source_page": "https://github.com/blackbearreloaded/ProsperoRadio",
   "sha256": "413011fcaf2cee3b1ce796388f3c9b13d3a0ac2e1a1a2b5bc5bba1adcd0fc020",
   "author": "BlackBearReloaded"
 }

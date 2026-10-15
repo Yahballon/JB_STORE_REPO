@@ -1,0 +1,17 @@
+{
+  "name": "Mario 64",
+  "git": "https://github.com/griches/PS5_Ghostship/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_Ghostship/v1.0.1/ps5/sce_sys/icon0.png",
+  "description": "Native Super Mario 64 recreation engine for PS5; requires user-provided legally obtained game data.",
+  "size_bytes": 24177004,
+  "download_url": "https://github.com/griches/PS5_Ghostship/releases/download/v1.0.1/Mario64-PS5-v1.0.1.zip",
+  "title_id": "PPSA99310",
+  "version": "1.0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_Ghostship",
+  "sha256": "87ebee05437a3d28afe7c9fffd83bcc5d000e5fa5e0202e5c799ec2e8eac40fb",
+  "author": "Gary Riches"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cloud Play",
+  "git": "https://github.com/tertiumndatur/ps5-cloud-play/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/tertiumndatur/ps5-cloud-play/v1.0.0/sce_sys/icon0.png",
+  "description": "Cloud gaming frontend for PlayStation 5.",
+  "size_bytes": 11293232,
+  "download_url": "https://github.com/tertiumndatur/ps5-cloud-play/releases/download/v1.0.0/CloudPlay-PS5.zip",
+  "title_id": "PPSA99600",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/tertiumndatur/ps5-cloud-play",
+  "sha256": "fa47dd13c4ec4c8f1acf8ae41cc38f1411710b40c4853cddd65b135dc45ebb70",
+  "author": "tertiumndatur"
+}
