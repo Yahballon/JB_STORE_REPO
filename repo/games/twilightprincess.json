@@ -1,0 +1,17 @@
+{
+  "name": "Twilight Princess (Dusklight)",
+  "git": "https://github.com/mshivam019/dusklight-ps5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/mshivam019/dusklight-ps5/ps5-v0.1.0/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 port of Dusklight for Twilight Princess, based on the reverse-engineered GameCube reimplementation. Features native Vulkan rendering with a 4K output surface, capped 60 FPS frame interpolation, DualSense controls, PlayStation button prompts, save support and optional HD textures. Requires your own supported USA GameCube game dump; no game data, saves, keys or texture packs are included.",
+  "size_bytes": 26620913,
+  "download_url": "https://github.com/mshivam019/dusklight-ps5/releases/download/ps5-v0.1.0/PPSA99640.zip",
+  "title_id": "PPSA99640",
+  "version": "ps5-v0.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mshivam019/dusklight-ps5/releases/tag/ps5-v0.1.0",
+  "sha256": "df097143111f3758b195ce21e2051b8c4f7ef78a2f392d88b3b5fb12d9780a4b",
+  "author": "mshivam019"
+}
