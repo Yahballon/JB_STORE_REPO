@@ -11,10 +11,20 @@ from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
 def update_version(root):
     files = []
+    title_ids = {}
     for folder in ("apps", "games", "media", "tools", "emu"):
         for path in sorted((root / "repo" / folder).rglob("*.json")):
             data = path.read_bytes()
-            json.loads(data)
+            metadata = json.loads(data)
+            title_id = str(metadata.get("title_id", "")).strip().upper()
+            if title_id:
+                previous = title_ids.get(title_id)
+                if previous is not None:
+                    raise ValueError(
+                        f"Duplicate title_id {title_id}: "
+                        f"{previous.relative_to(root)} and {path.relative_to(root)}"
+                    )
+                title_ids[title_id] = path
             blob = b"blob " + str(len(data)).encode() + b"\0" + data
             files.append({
                 "path": path.relative_to(root).as_posix(),
