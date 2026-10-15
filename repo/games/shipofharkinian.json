@@ -1,0 +1,17 @@
+{
+  "name": "Ship of Harkinian (Vulkan)",
+  "git": "https://github.com/damiantw/PS5_Shipwright/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/damiantw/PS5_Shipwright/01.000.000/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew port of Ship of Harkinian, the PC port of The Legend of Zelda: Ocarina of Time. Runs with Vulkan rendering, DualSense controls, PlayStation button prompts, right-stick free camera, save support, mods and HD texture packs. Renders at 4K and supports 60 FPS frame interpolation. Requires your own legally dumped supported Ocarina of Time ROM, which can be converted on the console; no game ROM data is included.",
+  "size_bytes": 43592508,
+  "download_url": "https://github.com/damiantw/PS5_Shipwright/releases/download/01.000.000/PPSA99320.zip",
+  "title_id": "PPSA99320",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/damiantw/PS5_Shipwright/releases/tag/01.000.000",
+  "sha256": "82782f43c5951e0fd82b97d6580f60a75ee2d1d1ad74816594d1652bb72a0a24",
+  "author": "damiantw"
+}
