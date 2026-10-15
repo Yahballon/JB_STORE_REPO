@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "ee59b22397097ff2c4879e935e52a80dc0b3c027c44ed044576751c7aa317076",
-  "commit": "5b60428eb41bc4dd4e3d87d7673f49e97bef77d7",
+  "version": "42fdad532bae1507ad4a644d6018d4eb2633e944c53ffa5052c3dd41fa548b0e",
+  "commit": "9ad37ff8676c094eddac805ca730d96ae67e7db7",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -152,6 +152,10 @@
       "sha": "1f3f488b0d60a31ff54e497b5bf12beea30c0cad"
     },
     {
+      "path": "repo/games/doom3bfg.json",
+      "sha": "b7e073bc85ac5d19ece003fd4a8e9d74e091f65f"
+    },
+    {
       "path": "repo/games/dusklight.json",
       "sha": "3a6ca7b76d300085f7c0b286d8a6aa4f227828ca"
     },
@@ -198,6 +202,10 @@
     {
       "path": "repo/games/twilightprincess.json",
       "sha": "3faf265f7601a88811f52a17c9c2b55cbbccbc1c"
+    },
+    {
+      "path": "repo/games/twoship2harkinian.json",
+      "sha": "e10f181f7188706efe410159f343f347e4f1fcd8"
     },
     {
       "path": "repo/games/vkQuake.json",
