@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "e737d039595372ff5beed2bdc7359f31cb20ce544f2ea85b77915c495ab23ce0",
-  "commit": "196ce8f55a0ba07dfecca24015f91003d329cc34",
+  "version": "0efc3de388dbab9c497c1d76676230e230ea0401b675c35e10e56fd04e249ecd",
+  "commit": "1e4830f2b89b4cfb0540961712118eec98981110",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -258,6 +258,10 @@
     {
       "path": "repo/games/windwakerhd.json",
       "sha": "0feed4149d466cc9bfb708f2912c22167a2eb6e6"
+    },
+    {
+      "path": "repo/games/wowforever.json",
+      "sha": "d5d57c7ed0a1fda102e0fcd55501750e89bb69ef"
     },
     {
       "path": "repo/games/xashps5.json",
