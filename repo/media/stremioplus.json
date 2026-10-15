@@ -1,0 +1,17 @@
+{
+  "name": "Stremio Plus",
+  "git": "https://github.com/LoZazaMastro/Stremio-Plus/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/LoZazaMastro/Stremio-Plus/0.5.6/app/sce_sys/icon0.png",
+  "description": "Media discovery client for PS5.",
+  "download_url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.5.6/PPSA74126.zip",
+  "title_id": "PPSA74126",
+  "version": "0.5.6",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/LoZazaMastro/Stremio-Plus",
+  "sha256": "b7be8ee7ab57dcde02635bd1f811ecb8518c861b6cba2c0cc0a87a7e03f9f78a",
+  "author": "LoZazaMastro",
+  "license": "GPL-3.0"
+}
