@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "89d1b357b89d4226fbf91c662e56cec61d71b16d285ae2062dbf7e2dd199ba7a",
-  "commit": "0dc360f0902abf50e68166c13d90030bf5c2dc13",
+  "version": "f112b74cf487255954482647388fb5c2510dad4448f6104073522cb30f8f4a4e",
+  "commit": "990acb1c80905a17e0d141a7cab98234126bc359",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -260,8 +260,24 @@
       "sha": "b894d710a0ec71f6a27e0ddb0ed47ec21496d36c"
     },
     {
+      "path": "repo/media/mortalfin.json",
+      "sha": "9f43060fc14a49063454956205d0746de45e761e"
+    },
+    {
+      "path": "repo/media/nuviomaxd.json",
+      "sha": "c130df5e83d0b5d18dca0b4ba87b8496df2a45da"
+    },
+    {
       "path": "repo/media/olisemusic.json",
       "sha": "f0d826567a135c9144c2fbe2bf71f7e2ea653624"
+    },
+    {
+      "path": "repo/media/spot5.json",
+      "sha": "5e046b54393dfa68cf45f60f8ada9ef9e3869ca1"
+    },
+    {
+      "path": "repo/media/stremioplus.json",
+      "sha": "da70c979fd664ea342547110d50e85598b7cb284"
     },
     {
       "path": "repo/media/twispero.json",
