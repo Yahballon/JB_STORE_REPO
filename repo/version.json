@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2996fd5b1be1030a69dbfb3442b5551ce963f420ccc34c5ef95381ea6d9baa2b",
-  "commit": "b2f814a5e0c9b512d4402b908628a9da527e60c0",
+  "version": "e0c4f94a1ee6ffcb9b3880ca52b2656bc0ba2f6f5649bb618472910a5bf35f40",
+  "commit": "cff8292c25d9e415bf65574788630b00a5158b1b",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -154,6 +154,10 @@
     {
       "path": "repo/games/dusklight.json",
       "sha": "3a6ca7b76d300085f7c0b286d8a6aa4f227828ca"
+    },
+    {
+      "path": "repo/games/linksawakening.json",
+      "sha": "a0476627b0423b0bd51683b142020e8cd9d1ed84"
     },
     {
       "path": "repo/games/medievaltennis.json",
