@@ -1,0 +1,17 @@
+{
+  "name": "Dusk light",
+  "git": "https://github.com/griches/PS5_Dusklight/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_Dusklight/v1.0.0/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew port of Dusklight, a reverse-engineered reimplementation of a classic GameCube adventure. Uses Aurora and Dawn WebGPU with RADV Vulkan rendering, supports DualSense controls, save data, texture replacements and asset-only mods. Requires your own legally obtained GameCube disc image in ISO or CISO format; no game data is included.",
+  "size_bytes": 37970858,
+  "download_url": "https://github.com/griches/PS5_Dusklight/releases/download/v1.0.0/Dusklight-PS5-v1.0.0.zip",
+  "title_id": "PPSA99305",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_Dusklight/releases/tag/v1.0.0",
+  "sha256": "343f8829803ecba03e8cf3168f543543771e6511dfec4e6761c60bb6f4ab8e8d",
+  "author": "Gary Riches"
+}
