@@ -1,0 +1,17 @@
+{
+  "name": "Raptor: Call of the Shadows",
+  "git": "https://github.com/ChaDea1/RaptorPS5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/ChaDea1/RaptorPS5/v0.2.0-beta.4/sce_sys/icon0.png",
+  "description": "Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls, pilot saves, edition detection and an optional first-launch download of the free Apogee shareware. Supports your own full-game files and episode packs, controller-based text input and an in-game controls reference. No registered game data or personal saves are included.",
+  "size_bytes": 1391096,
+  "download_url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v0.2.0-beta.4/raptor-ps5-v0.2.0-beta.4.zip",
+  "title_id": "PPSA94002",
+  "version": "0.2.0-beta.4",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/ChaDea1/RaptorPS5/releases/tag/v0.2.0-beta.4",
+  "sha256": "ce06b3950016e51353a1b46c02ead47896f29c64e012900d7555f54ad4ac2588",
+  "author": "ChaDea1"
+}
