@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "d733289d3929a5e514092faac6f134fa64c81be134a5837eaa7680aef0dec2d7",
-  "commit": "5a74537922d96737ec488234bb05a6bbbe5384f9",
+  "version": "dd343115fb23c594203a2f3d05a288ac250bf8f1cb42770193c5b38b5daf7501",
+  "commit": "0e9376f41c2974d237a979a1883aec2f63d90010",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -168,6 +168,10 @@
       "sha": "8564367f18fabfddf1928dee183d73636b35ca87"
     },
     {
+      "path": "repo/games/openrct2.json",
+      "sha": "f190035a8cf7fc7afe75c7a499ee2a89d1efc3af"
+    },
+    {
       "path": "repo/games/quake3arena.json",
       "sha": "21234efdd91244e5e874fa233722f602b17c1294"
     },
@@ -204,6 +208,10 @@
       "sha": "53c5673a7c35e0f160987b7843408c00ea1d1a54"
     },
     {
+      "path": "repo/games/xashps5.json",
+      "sha": "c27e04fa925541d294cf9740001aebb0fa234629"
+    },
+    {
       "path": "repo/media/EVOPlayer.json",
       "sha": "ec7febfcfbf8d419519a661379c4414ec64b1eea"
     },
@@ -226,6 +234,10 @@
     {
       "path": "repo/media/ProsperoTV.json",
       "sha": "f84afa128dce324fa59c56b976cb6cd6f02c185f"
+    },
+    {
+      "path": "repo/media/olisemusic.json",
+      "sha": "f0d826567a135c9144c2fbe2bf71f7e2ea653624"
     },
     {
       "path": "repo/media/twispero.json",
