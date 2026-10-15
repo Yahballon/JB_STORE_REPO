@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "e512ae89e05e3f0a48d1ee0a2f5ce0a62d5ece4c902debbb692246ba57645901",
-  "commit": "0621d39739558f52ee752253cb0bbe261aca59dd",
+  "version": "9f0c12e5d3c62ccbbafe9199b97d44c450b7588bb46097d29c317913a9dda6c8",
+  "commit": "cacf48f98f64e8bff13dca53747cbd45e572fc92",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -42,6 +42,10 @@
     {
       "path": "repo/apps/cryptotracker.json",
       "sha": "7c2e2e508b5e0b86ac547c70b9f5b3dcbacab7eb"
+    },
+    {
+      "path": "repo/apps/ebookreader.json",
+      "sha": "0af726429013c97c1b347b1a37255f5a1dc1fff3"
     },
     {
       "path": "repo/apps/forwardermanager.json",
