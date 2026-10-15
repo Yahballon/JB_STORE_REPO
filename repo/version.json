@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "f74812914dd319428b1bfa23717585f018602a8e093c01cdc0317b04dd7e781f",
-  "commit": "480b8ab71316075e76af0eb83dc3be27d44aa043",
+  "version": "453692a6aaf1881353fc42e28635f1d1d728eeaca32996ec90bb80df7b8f5b73",
+  "commit": "5bca1232ca71879394f175bfcf78d486de2b1449",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -33,7 +33,7 @@
     },
     {
       "path": "repo/apps/cdplayer.json",
-      "sha": "db5443a07ddc418889c7cac0e5f93bb7fb4acf0e"
+      "sha": "f55abf8a119cff6a3b8e0a5b5d977e7dec340758"
     },
     {
       "path": "repo/apps/cryptotracker.json",
@@ -89,7 +89,7 @@
     },
     {
       "path": "repo/emu/PS5SX2.json",
-      "sha": "67bf1abe5cf671b1d4bafc2ade55bb89ccf4f680"
+      "sha": "5eebb9a0bf387a752ab96c6a5e441a20d296a442"
     },
     {
       "path": "repo/emu/PS5X360.json",
