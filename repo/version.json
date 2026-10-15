@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "8597a9fb79148f9472e2ff0e1929de2069f1d977f4bb21838f8770e03baba560",
-  "commit": "f1b5d548ae957f78324a2e1743359a1f0e9727bf",
+  "version": "f74812914dd319428b1bfa23717585f018602a8e093c01cdc0317b04dd7e781f",
+  "commit": "480b8ab71316075e76af0eb83dc3be27d44aa043",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -17,11 +17,11 @@
     },
     {
       "path": "repo/apps/PSBoxCloudGaming.json",
-      "sha": "3ab122fedbf525006e7107157b8d7b37a1623537"
+      "sha": "a6db1b2a3daf94f6f22cfe290ff0b93f3544ffbf"
     },
     {
       "path": "repo/apps/ProsperoAI.json",
-      "sha": "d4ed9111a496ba34b2ee993b8a57670bea7ba529"
+      "sha": "8c1135f142bd339fa55da41f0af80d47843e4c6b"
     },
     {
       "path": "repo/apps/ProsperoLight.json",
@@ -29,7 +29,7 @@
     },
     {
       "path": "repo/apps/ProsperoWin.json",
-      "sha": "3f406846483b2de7e7fdcafc2cc3171cf569e647"
+      "sha": "9ce903eb11caae81819e474d093643aeca866ac9"
     },
     {
       "path": "repo/apps/cdplayer.json",
