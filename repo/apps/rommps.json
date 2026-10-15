@@ -1,0 +1,17 @@
+{
+  "name": "RommPS",
+  "git": "https://github.com/s0liton/RommPS/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/s0liton/RommPS/v1.2.0/platform/ps5/app/rommps/ps5/sce_sys/icon0.png",
+  "description": "Client for browsing a self-hosted RomM library on PS5.",
+  "download_url": "https://github.com/s0liton/RommPS/releases/download/v1.2.0/PPSA76677.zip",
+  "title_id": "PPSA76677",
+  "version": "1.2.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/s0liton/RommPS",
+  "sha256": "84f8c7302abaff307d5eceac56f49f8950fcbfb96ff4637c5031ef603e571485",
+  "author": "s0liton",
+  "license": "GPL-3.0"
+}
