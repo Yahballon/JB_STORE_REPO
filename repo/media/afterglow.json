@@ -1,0 +1,17 @@
+{
+  "name": "afterglow",
+  "git": "https://github.com/DevvNirvana/afterglow/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/DevvNirvana/afterglow/01.000.006/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew internet radio and music visualizer with more than 220 stations across 17 genres, full-screen animated visualizer scenes, live BPM synchronization, Ogg Vorbis and Opus stream support, station logos, crossfading and USB My Music playback. Also includes custom visual presets and a controller-operated command box.",
+  "size_bytes": 41940547,
+  "download_url": "https://github.com/DevvNirvana/afterglow/releases/download/01.000.006/PPSA47770.zip",
+  "title_id": "PPSA47770",
+  "version": "1.0.6",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/DevvNirvana/afterglow/releases/tag/01.000.006",
+  "sha256": "3c6d57ab42829577ccfde9a7f530ec8e3860e456f1c1244f93a1341d4969e47f",
+  "author": "DevvNirvana"
+}
