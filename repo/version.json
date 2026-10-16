@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "990213ea2b35f9e066101b95d220bb2e885af65677ad42fce7b9da57e88ef562",
-  "commit": "4b4573c4c4e38bc61de7ee49d756007a4b75e72b",
+  "version": "36c861067703d5f8017ae22de7aab3c24dc5ae2c83452127ac35556e20c8aca7",
+  "commit": "291a0a6ae849b4171d086b5e801f84dcb55c47e6",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -190,6 +190,10 @@
     {
       "path": "repo/games/dusklight.json",
       "sha": "3a6ca7b76d300085f7c0b286d8a6aa4f227828ca"
+    },
+    {
+      "path": "repo/games/foreverlauncher.json",
+      "sha": "ba365a03824309027c93cfb025b7372c473bd023"
     },
     {
       "path": "repo/games/linksawakening.json",
