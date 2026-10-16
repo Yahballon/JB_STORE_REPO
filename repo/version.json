@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "f151249c8ea119aa2183961ecb00374f0d7ea41300667f0408c7b3e2a6d7a675",
-  "commit": "39a88d1cb35f892d23296947aaa3d2e74ed4bad3",
+  "version": "de664a461d1a200f58771c8875c5fd74dae549731fce0ee835349d050aa5a2c0",
+  "commit": "9b7ef0e6080b2ca7590aa91504fc29a5973186c4",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -398,6 +398,10 @@
     {
       "path": "repo/tools/ps5vr.json",
       "sha": "425ebb424ddc6fdc0578e702243ea638087a1ca5"
+    },
+    {
+      "path": "repo/tools/signalcompanion.json",
+      "sha": "887e69df9730d487ef7111ad9836a3508b42fd90"
     },
     {
       "path": "repo/tools/wwwspeedtest.json",
