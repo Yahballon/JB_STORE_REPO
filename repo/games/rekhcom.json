@@ -1,0 +1,17 @@
+{
+  "name": "ReKH CoM",
+  "git": "https://github.com/darkxex/ReKHCom-PS5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/darkxex/ReKHCom-PS5/ps5-v1.0.1/port/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 homebrew port of Kingdom Hearts: Chain of Memories for Game Boy Advance. Supports European, US and Japanese cartridge versions in a single app, with Vulkan rendering, audio and PS5 controller input. The correct region is detected from the ROM you provide. Requires your own legally obtained GBA cartridge dump; no ROM or original game data is included.",
+  "size_bytes": 20465994,
+  "download_url": "https://github.com/darkxex/ReKHCom-PS5/releases/download/ps5-v1.0.1/PPSA98511.zip",
+  "title_id": "PPSA98511",
+  "version": "ps5-v1.0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/darkxex/ReKHCom-PS5/releases/tag/ps5-v1.0.1",
+  "sha256": "7d2a7b716e6f3cf2e5adc3b8c6fbb0bcc7a6edb1c03e9edf5abe830f9a5f44cf",
+  "author": "AngelXex"
+}
