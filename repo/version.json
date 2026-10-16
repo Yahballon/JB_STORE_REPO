@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "36c861067703d5f8017ae22de7aab3c24dc5ae2c83452127ac35556e20c8aca7",
-  "commit": "291a0a6ae849b4171d086b5e801f84dcb55c47e6",
+  "version": "5e543a530b54b5764b30cb9cea4d5f8dc19c99cf520d6644182d4a1a048f6d5f",
+  "commit": "cb11703a4437d03025e27dc16067bf5573aacc00",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -310,6 +310,10 @@
     {
       "path": "repo/media/afterglow.json",
       "sha": "17db385464301c89a4bf332863c883aa51bbb6a8"
+    },
+    {
+      "path": "repo/media/mediaplayerclassic.json",
+      "sha": "114af66d536e84c627286bc8323ff2cf5f41d5b3"
     },
     {
       "path": "repo/media/mortalfin.json",
