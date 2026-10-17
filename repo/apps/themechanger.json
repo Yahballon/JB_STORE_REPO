@@ -1,0 +1,17 @@
+{
+  "name": "Theme Changer",
+  "git": "https://github.com/Yahballon/ThemeChanger/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/ThemeChanger/themechanger-v0.3.21/homebrew/themechanger/assets/icon0.png",
+  "description": "Native PS5 homebrew wallpaper manager with an integrated LiveShell engine. Browse, search, download and manage thousands of MotionBGS animated wallpapers, preview and apply downloaded backgrounds, manage persistent wallpaper storage and use integrated Signal Companion controls and diagnostics. Includes controller-friendly search and tags, downloaded-wallpaper library, engine handover, settings and background playback controls.",
+  "size_bytes": 9528949,
+  "download_url": "https://github.com/Yahballon/ThemeChanger/releases/download/themechanger-v0.3.21/PPSA99891.zip",
+  "title_id": "PPSA99891",
+  "version": "0.3.21",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/ThemeChanger/releases/tag/themechanger-v0.3.21",
+  "sha256": "f75fc00d332426693e38d3945086bd76e63a96d6269c265a995153f5d23bdb29",
+  "author": "YAHBALLON"
+}
