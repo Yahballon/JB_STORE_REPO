@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "c03d6ab5a9597653ace0b45c102c64d56c9581344c317582ec496cdffd078926",
-  "commit": "d7b1260261be704b1703ad839d6acd17df328828",
+  "version": "6981329191ca1a9993d1b8a30f1b63faca8a0840176a5ed52b244272e59f511e",
+  "commit": "cbfe0355a5fd988a39ed8ce3f608803f743814db",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -17,7 +17,7 @@
     },
     {
       "path": "repo/apps/PSBoxCloudGaming.json",
-      "sha": "c41659c07494511dd5db7f148658e985485f880c"
+      "sha": "de726bca8a2874b769a707e46f7c52c31d787bc0"
     },
     {
       "path": "repo/apps/ProsperoAI.json",
@@ -25,7 +25,7 @@
     },
     {
       "path": "repo/apps/ProsperoLight.json",
-      "sha": "b98289fdd01eba4a8259528b21f075c40da7f8c6"
+      "sha": "272420f7f5a25ea74460dc5a6d59bcb63249cc94"
     },
     {
       "path": "repo/apps/ProsperoWin.json",
@@ -68,8 +68,12 @@
       "sha": "886e6dd24e7dd371bb4e520e571dc5421c045d5a"
     },
     {
+      "path": "repo/apps/ps5lm.json",
+      "sha": "e6c27195d0fa4320167775b14e6184152ec74394"
+    },
+    {
       "path": "repo/apps/ps5lmplus.json",
-      "sha": "5322eb228c67461b8a9201c0f727717cdc35b5bc"
+      "sha": "f793fd8481796b2e2d0d583b2af313c42e92c980"
     },
     {
       "path": "repo/apps/pshare.json",
@@ -77,7 +81,7 @@
     },
     {
       "path": "repo/apps/rommps.json",
-      "sha": "7ade8ddd1f043b08f7c4e2117683ce7edeb49aca"
+      "sha": "86e8e13eaacc9ba0a7a67face56cd6a3327d7b31"
     },
     {
       "path": "repo/apps/steamremoteplay.json",
@@ -125,15 +129,15 @@
     },
     {
       "path": "repo/emu/ProsperoEden.json",
-      "sha": "f34ecc9b9b602ddc33b68766ff74ca4a32c16cf1"
+      "sha": "ecc9d7ab00e63a5bf3fa46c8b2a8b4999e60d8d4"
     },
     {
       "path": "repo/emu/RetroArch.json",
-      "sha": "4592e7b14ebd03e0e91c92a22cf06fa5e6ee53de"
+      "sha": "faf8440084df3c87fb66e1279a8f05ace3230aca"
     },
     {
       "path": "repo/emu/SwanStationPS5.json",
-      "sha": "985d81bd0f68b5eb9942207f75abfdbad11ca5b3"
+      "sha": "25b85ab4f7cf9afdf460f07de8b6f662064e831f"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -141,11 +145,15 @@
     },
     {
       "path": "repo/emu/ps5cemuhar.json",
-      "sha": "eb2de3dbc0f22472eb24eb9861b203b1e2f818b3"
+      "sha": "5835668bd0ce39a06c53d91fe84eafd7e7360c7b"
+    },
+    {
+      "path": "repo/emu/psflycast.json",
+      "sha": "8e9de2b0994f1e2e1037c88973ed39af8170322a"
     },
     {
       "path": "repo/emu/psswanstation.json",
-      "sha": "de01774c2c424844f9a589409d5b67e26880e84d"
+      "sha": "4258bbccd21752348250424b904fc47cd4b3425d"
     },
     {
       "path": "repo/emu/psxs5.json",
@@ -196,8 +204,12 @@
       "sha": "3a6ca7b76d300085f7c0b286d8a6aa4f227828ca"
     },
     {
+      "path": "repo/games/eternaldarkness.json",
+      "sha": "d44739cb6bdb8a69a7df4d25ed0c751a198086c8"
+    },
+    {
       "path": "repo/games/foreverlauncher.json",
-      "sha": "ba365a03824309027c93cfb025b7372c473bd023"
+      "sha": "024f26de77488b6fe6d916d88803333d27049723"
     },
     {
       "path": "repo/games/linksawakening.json",
@@ -233,19 +245,23 @@
     },
     {
       "path": "repo/games/raptorcalloftheshadows.json",
-      "sha": "c54895324fa05d322e25e0204a118cb454458078"
+      "sha": "d3d3615e2843290b9eab77fcdeca552e597a1563"
     },
     {
       "path": "repo/games/rekhcom.json",
-      "sha": "523cba76aa522a34e0cdde3ab982faf63af8bb6d"
+      "sha": "2aeaa2d03d9cd99a229ead6e4bcb592f8e2ed8ab"
     },
     {
       "path": "repo/games/rush2recompiled.json",
-      "sha": "47d33c3a63b624d69bf73f97b104a469c2493cc6"
+      "sha": "b3b0bd3623779f5cef5cc4f134c9e31d64d74093"
     },
     {
       "path": "repo/games/shipofharkinian.json",
       "sha": "ff9147e0b2d2051f3abb1ff0d175c80d923011d7"
+    },
+    {
+      "path": "repo/games/spidermanedgeoftime.json",
+      "sha": "39f2508818802daa98487a721064b5a5a339ba3c"
     },
     {
       "path": "repo/games/supertuxkart.json",
@@ -270,6 +286,10 @@
     {
       "path": "repo/games/vkQuake.json",
       "sha": "211d6b6bfac21f8c7ee24cce8ce4db515c644cb4"
+    },
+    {
+      "path": "repo/games/waverace64recompiled.json",
+      "sha": "45aed40230087c8723bc1abce7e69c712df914b4"
     },
     {
       "path": "repo/games/windwaker.json",
@@ -297,7 +317,7 @@
     },
     {
       "path": "repo/media/Jelly5.json",
-      "sha": "c5af16081928eea7586a5b39cfd3f8de6e39d1b6"
+      "sha": "2401c3d550d58a43b803b9150556470fb557a651"
     },
     {
       "path": "repo/media/Kodi.json",
@@ -321,11 +341,11 @@
     },
     {
       "path": "repo/media/mortalfin.json",
-      "sha": "b83cf4c46adf4750defb40a17875675a3c04e793"
+      "sha": "79b1585cea96711e8e0d5e7ed2b21611a50d93cb"
     },
     {
       "path": "repo/media/nuviomaxd.json",
-      "sha": "0119104f63205c5c2d98b8122dc6e9b770ddbe44"
+      "sha": "72ecad959d288255cfc04c89a02e323050d68224"
     },
     {
       "path": "repo/media/nuviops5.json",
@@ -336,8 +356,16 @@
       "sha": "f0d826567a135c9144c2fbe2bf71f7e2ea653624"
     },
     {
+      "path": "repo/media/prosperotube.json",
+      "sha": "d4692127b6009ec7b86df5a55187d53da8b538a6"
+    },
+    {
       "path": "repo/media/regie5.json",
-      "sha": "68d7f40e35845fee710c355f0739f375b94a70d0"
+      "sha": "e4d3948d281b28a5677cc9eab1c86808fc3998e4"
+    },
+    {
+      "path": "repo/media/seedee5.json",
+      "sha": "a11af2cc18a9dd56afc811a50dc42990f3843d39"
     },
     {
       "path": "repo/media/spot5.json",
@@ -408,16 +436,20 @@
       "sha": "6f206cc2bc96938aec45f52989d40102f10e21c6"
     },
     {
+      "path": "repo/tools/prosperothemes.json",
+      "sha": "02ee992faef3dacdab1a701667951731ec973a57"
+    },
+    {
       "path": "repo/tools/ps5clean.json",
       "sha": "3bab6a4f52f13587f187b040f0464ac2f66b5561"
     },
     {
       "path": "repo/tools/ps5vr.json",
-      "sha": "425ebb424ddc6fdc0578e702243ea638087a1ca5"
+      "sha": "7d00a9aa721dc09fd1edd70bd05b1f44ce346f1a"
     },
     {
       "path": "repo/tools/signalcompanion.json",
-      "sha": "887e69df9730d487ef7111ad9836a3508b42fd90"
+      "sha": "ac26eb06c96dae5eff3e86095dca6612c824fcf7"
     },
     {
       "path": "repo/tools/wwwspeedtest.json",
