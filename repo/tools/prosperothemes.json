@@ -1,0 +1,17 @@
+{
+  "name": "Prospero Themes",
+  "git": "https://github.com/Darkatek7/ProsperoThemes/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Darkatek7/ProsperoThemes/01.000.001/ThemeApp/sce_sys/icon0.png",
+  "description": "Custom themes and interface personalization for PS5 homebrew.",
+  "size_bytes": 8375796,
+  "download_url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.001/PPSA90210.zip",
+  "title_id": "PPSA90210",
+  "version": "01.000.001",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Darkatek7/ProsperoThemes",
+  "sha256": "db65cab7f472cf16a0a5e9846c29bd07b5931b671ff6e25ec63bd1d65c3a8eae",
+  "author": "Darkatek7"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Seedee5",
+  "git": "https://github.com/mortaljinx/Seedee5/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/mortaljinx/Seedee5/v1.20/title/sce_sys/icon0.png",
+  "description": "Homebrew audio media player for PS5.",
+  "size_bytes": 30619814,
+  "download_url": "https://github.com/mortaljinx/Seedee5/releases/download/v1.20/Seedee5-1.20.zip",
+  "title_id": "PPSA99142",
+  "version": "1.20",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mortaljinx/Seedee5",
+  "sha256": "f087275c02100e23781a03305a1c39e9e3eac22190fca73012d4671700b651d6",
+  "author": "mortaljinx"
+}

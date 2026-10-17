@@ -1,0 +1,17 @@
+{
+  "name": "PSFlyCast",
+  "git": "https://github.com/Press5elect/PSFlycast/",
+  "type": "emu",
+  "cover_image": "https://raw.githubusercontent.com/Press5elect/PSFlycast/v1.1.0/shell/ps5/sce_sys/icon0.png",
+  "description": "Flycast Dreamcast emulator for PS5; no game images or firmware are included.",
+  "size_bytes": 17903463,
+  "download_url": "https://github.com/Press5elect/PSFlycast/releases/download/v1.1.0/PSFlyCast-v1.1.0.zip",
+  "title_id": "PPSA99247",
+  "version": "1.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Press5elect/PSFlycast",
+  "sha256": "bb3a4798350e1fd3d0cc03218fbe97469bfde09e4d6636af114510d1484c60a0",
+  "author": "Press5elect"
+}

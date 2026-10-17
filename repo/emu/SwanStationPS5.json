@@ -4,14 +4,14 @@
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/darkxex/SwanStationPS5/master/sce_sys/icon0.png",
   "description": "Native PlayStation 1 emulator for PS5 based on SwanStation, using the PSXS5 cover-flow frontend. Features Vulkan GPU rendering up to 16x internal resolution, PGXP geometry correction, RetroAchievements, cheats, save states, quick resume, per-game memory cards, multiple themes, configurable controls and DualSense light-gun support.",
-  "size_bytes": 17371021,
-  "download_url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.3.4/PPSA98510.zip",
+  "size_bytes": 17795393,
+  "download_url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.0/PPSA98510.zip",
   "title_id": "PPSA98510",
-  "version": "1.3.4",
+  "version": "1.4.0",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/darkxex/SwanStationPS5",
-  "sha256": "9a29ac83a06a2476dc75e6db4e7fab8e52d66d573f6bc52b6a25b037e57c9332",
+  "sha256": "65025a8122fedc35f617eaf0f63a8b20231c7926f5df05c06e0987f44cadec11",
   "author": "darkxex"
 }

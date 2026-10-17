@@ -1,0 +1,17 @@
+{
+  "name": "ProsperoTube",
+  "git": "https://github.com/blackbearreloaded/ProsperoTube/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTube/v01.000.000/native/branding/icon0.png",
+  "description": "Unofficial SmartTube-inspired video player for native PS5 homebrew.",
+  "size_bytes": 36938128,
+  "download_url": "https://github.com/blackbearreloaded/ProsperoTube/releases/download/v01.000.000/PPSA99012.zip",
+  "title_id": "PPSA99012",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/blackbearreloaded/ProsperoTube",
+  "sha256": "ba549bd8141e16ddd49f19ffdcbe7ee66572fd72842faf257a433543adf1d4e3",
+  "author": "BlackBearReloaded"
+}

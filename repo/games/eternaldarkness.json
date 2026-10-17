@@ -1,0 +1,17 @@
+{
+  "name": "Eternal Darkness",
+  "git": "https://github.com/griches/PS5_EternalDarkness/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_EternalDarkness/v0.8.0/ps5/sce_sys/icon0.png",
+  "description": "Native 4K GameCube recompilation; requires your own European Eternal Darkness disc.",
+  "size_bytes": 57084036,
+  "download_url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.8.0/EternalDarkness-PS5-0.8.0.zip",
+  "title_id": "PPSA99314",
+  "version": "0.8.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_EternalDarkness",
+  "sha256": "37c27344290ae7992ee8e86a9b59c6eb7c3cd5a4c2e9421a7edf20b6e47d3f82",
+  "author": "Gary Riches"
+}

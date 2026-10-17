@@ -2,16 +2,17 @@
   "name": "Régie5",
   "git": "https://github.com/viviandsx/regie5/",
   "type": "media",
-  "cover_image": "https://raw.githubusercontent.com/viviandsx/regie5/v0.3.2/ps5/app/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/viviandsx/regie5/v0.5.1/ps5/app/sce_sys/icon0.png",
   "description": "PS5 homebrew media application.",
-  "download_url": "https://github.com/viviandsx/regie5/releases/download/v0.3.2/PPSA99520.zip",
+  "download_url": "https://github.com/viviandsx/regie5/releases/download/v0.5.1/PPSA99520.zip",
   "title_id": "PPSA99520",
-  "version": "0.3.2",
+  "version": "0.5.1",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/viviandsx/regie5",
-  "sha256": "482f0a39c0547769fe778c6b139596c839949a0f0345cdf22e32b582d7b82504",
+  "sha256": "75f6fced1dd15c1d16c31d5632c053801374514a23a70ca1fcbbada812abfb2b",
   "author": "Vivian",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "size_bytes": 9673102
 }
