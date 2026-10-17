@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "5e543a530b54b5764b30cb9cea4d5f8dc19c99cf520d6644182d4a1a048f6d5f",
-  "commit": "cb11703a4437d03025e27dc16067bf5573aacc00",
+  "version": "c03d6ab5a9597653ace0b45c102c64d56c9581344c317582ec496cdffd078926",
+  "commit": "d7b1260261be704b1703ad839d6acd17df328828",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -86,6 +86,10 @@
     {
       "path": "repo/apps/surroundsoundstudio.json",
       "sha": "a92f4b14648a080d5237ad0d9d775a9d6500b9fa"
+    },
+    {
+      "path": "repo/apps/themechanger.json",
+      "sha": "d0d2bfaa1d44f0308f7c671bfb57c06e240d635b"
     },
     {
       "path": "repo/emu/PS5GBA.json",
