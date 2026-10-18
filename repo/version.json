@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "34806b2171ea6364e9c328c1b30b3f7b8ce3cf6ba3ea5bb7f804def8e943ab19",
-  "commit": "29f9a1406d18df0d5aaf82292c17849577e1b697",
+  "version": "cd39992569ae41352a4c590d06501b2d303d1b3615fce6a59ef12ef536402cec",
+  "commit": "17077ccd7257d323d12c0a904e003fefbf14f031",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -442,6 +442,10 @@
     {
       "path": "repo/tools/prosperothemes.json",
       "sha": "02ee992faef3dacdab1a701667951731ec973a57"
+    },
+    {
+      "path": "repo/tools/ps5-devbridge.json",
+      "sha": "bb6f9ed43fa069e5e1e5b35536c345d6d4633f3f"
     },
     {
       "path": "repo/tools/ps5clean.json",
