@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "cd39992569ae41352a4c590d06501b2d303d1b3615fce6a59ef12ef536402cec",
-  "commit": "17077ccd7257d323d12c0a904e003fefbf14f031",
+  "version": "2b181434a46e5d11b11470ceeb46e4df59a5671e69a39d3dad067679d5364615",
+  "commit": "b5a5916f7143b4b8e64242287f4687894f650211",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -38,10 +38,6 @@
     {
       "path": "repo/apps/biblereader.json",
       "sha": "afe302fb9df8fc10d6897922df35fbe734f4fc99"
-    },
-    {
-      "path": "repo/apps/cdplayer.json",
-      "sha": "68526fbdaab86c37876c64a69c76cc4a9d076a16"
     },
     {
       "path": "repo/apps/cloudplay.json",
@@ -338,6 +334,10 @@
     {
       "path": "repo/media/afterglow.json",
       "sha": "17db385464301c89a4bf332863c883aa51bbb6a8"
+    },
+    {
+      "path": "repo/media/cdplayer.json",
+      "sha": "9a468189cc82fb380143fa5358d64e3f00719ffe"
     },
     {
       "path": "repo/media/mediaplayerclassic.json",
