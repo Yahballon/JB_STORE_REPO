@@ -1,7 +1,7 @@
 {
   "name": "CD Player",
   "git": "https://github.com/LoZazaMastro/CD-Player/",
-  "type": "app",
+  "type": "media",
   "cover_image": "https://raw.githubusercontent.com/LoZazaMastro/CD-Player/v1.1.0/sce_sys/icon0.png",
   "description": "Native PS5 homebrew audio CD player for compatible external USB optical drives, including Apple USB SuperDrive. Features MusicBrainz album identification, Cover Art Archive artwork, track metadata, 161 audio-reactive visualizers, a ten-band equalizer, gapless playback, volume control, optional stereo-to-7.1 upmix, saved preferences and software disc eject.",
   "size_bytes": 16673405,
