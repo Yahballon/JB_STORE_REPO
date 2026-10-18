@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "6981329191ca1a9993d1b8a30f1b63faca8a0840176a5ed52b244272e59f511e",
-  "commit": "cbfe0355a5fd988a39ed8ce3f608803f743814db",
+  "version": "34806b2171ea6364e9c328c1b30b3f7b8ce3cf6ba3ea5bb7f804def8e943ab19",
+  "commit": "29f9a1406d18df0d5aaf82292c17849577e1b697",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -34,6 +34,10 @@
     {
       "path": "repo/apps/audiobookreader.json",
       "sha": "0064a0bc06c651428369a6f6e2ebdcc7634ccee5"
+    },
+    {
+      "path": "repo/apps/biblereader.json",
+      "sha": "afe302fb9df8fc10d6897922df35fbe734f4fc99"
     },
     {
       "path": "repo/apps/cdplayer.json",
