@@ -1,0 +1,17 @@
+{
+  "name": "PS5 DevBridge",
+  "git": "https://github.com/Yahballon/PS5-DevBridge/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5-DevBridge/main/app/sce_sys/icon0.png",
+  "description": "Native PS5 developer bridge by YAHBALLON for building and testing homebrew on a trusted local network. Background TCP 1337 service with live logs, ELF payload upload, file transfers, controller input automation, screenshots, browser launch, app lifecycle management, staged installation/update, package installer status and opt-in crash diagnostics. Includes a PS5 TV companion app. Requires a jailbroken/homebrew-capable console and existing ELF loader; the LAN service does not use authentication, so run it only on a trusted network.",
+  "size_bytes": 6184867,
+  "download_url": "https://github.com/Yahballon/PS5-DevBridge/releases/download/v.1.0.2.1/PPSA99337.zip",
+  "title_id": "PPSA99337",
+  "version": "1.0.2.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/PS5-DevBridge/releases/tag/v.1.0.2.1",
+  "sha256": "9a9392e0dec178fb6d0eb776cf7a395c0da4a644a589e1179e562ae33bc401b1",
+  "author": "YAHBALLON"
+}
