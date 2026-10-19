@@ -1,0 +1,17 @@
+{
+  "name": "Codex PS5 - Prototype",
+  "git": "https://github.com/Portablelle/Codex-PS5/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Portablelle/Codex-PS5/v0.0.4/sce_sys/icon0.png",
+  "description": "Native PS5 assistant with controller input, local voice transcription and console tools; requires a separate service payload.",
+  "size_bytes": 185616734,
+  "download_url": "https://github.com/Portablelle/Codex-PS5/releases/download/v0.0.4/codex-ps5-0.0.4-Folder.zip",
+  "title_id": "PPSA99105",
+  "version": "0.0.4",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Portablelle/Codex-PS5",
+  "sha256": "b6f8952b72eaa4806baab21634aae950f69a365bee4215a373d750e8f652364b",
+  "author": "Portablelle"
+}

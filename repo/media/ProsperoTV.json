@@ -1,17 +1,17 @@
 {
   "name": "Prospero TV",
-  "git": "https://github.com/blackbearreloaded/ProsperoTV/",
+  "git": "https://github.com/ThatGuyKalvin/ProsperoTV/",
   "type": "media",
-  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/01.000.070/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/ThatGuyKalvin/ProsperoTV/01.000.080/sce_sys/icon0.png",
   "description": "Native IPTV client for PS5.",
-  "size_bytes": 42327706,
-  "download_url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.070/PPSA99003.zip",
+  "size_bytes": 42349553,
+  "download_url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.080/PPSA99003.zip",
   "title_id": "PPSA99003",
-  "version": "01.000.070",
+  "version": "01.000.080",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/blackbearreloaded/ProsperoTV",
-  "sha256": "775b2ece55f0f4591c97eeb6a2c89a91cdcd6540933ac90a3c070c064bc35fea",
-  "author": "BlackBearReloaded"
+  "source_page": "https://github.com/ThatGuyKalvin/ProsperoTV",
+  "sha256": "8a6b89d82c25c3c22a866633312aebc29d8d026c01c791e3934a11ba70c4c064",
+  "author": "ThatGuyKalvin"
 }

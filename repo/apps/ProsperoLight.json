@@ -1,17 +1,17 @@
 {
   "name": "Prospero Light",
-  "git": "https://github.com/blackbearreloaded/ProsperoLight/",
+  "git": "https://github.com/LedyBacer/ProsperoLight/",
   "type": "app",
-  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/01.000.110/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/LedyBacer/ProsperoLight/01.000.110/sce_sys/icon0.png",
   "description": "Unofficial Moonlight game streaming port for PS5.",
   "size_bytes": 36520955,
-  "download_url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.110/PPSA99002.zip",
+  "download_url": "https://github.com/LedyBacer/ProsperoLight/releases/download/01.000.110/PPSA99002.zip",
   "title_id": "PPSA99002",
   "version": "01.000.110",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/blackbearreloaded/ProsperoLight",
+  "source_page": "https://github.com/LedyBacer/ProsperoLight",
   "sha256": "f29935f3bd9d61926c1ea63f8d34019fff19ee993e8d030ee373c004efd974ba",
-  "author": "BlackBearReloaded"
+  "author": "LedyBacer"
 }

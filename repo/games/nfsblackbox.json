@@ -1,0 +1,17 @@
+{
+  "name": "NFS Black Box",
+  "git": "https://github.com/lavavex/nfs-blackbox-ps5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/lavavex/nfs-blackbox-ps5/01.000.000/art/nfs-most-wanted-2005.png",
+  "description": "Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy).",
+  "size_bytes": 327963187,
+  "download_url": "https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.000/PPSA99403.zip",
+  "title_id": "PPSA99403",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/lavavex/nfs-blackbox-ps5",
+  "sha256": "03a69011cfd999b0128799dfd15ae675a251ce79ae803c6230932619f40fe840",
+  "author": "lavavex"
+}

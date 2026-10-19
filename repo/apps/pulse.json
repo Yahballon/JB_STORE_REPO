@@ -1,0 +1,17 @@
+{
+  "name": "Pulse",
+  "git": "https://github.com/shwan-ps5/pulse/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/shwan-ps5/pulse/01.000.000/ps5/art/icon0.png",
+  "description": "A Beat Saber-style rhythm game for PS VR2 and Sense controllers that turns any MP3 into note maps on the console.",
+  "size_bytes": 12864692,
+  "download_url": "https://github.com/shwan-ps5/pulse/releases/download/01.000.000/Pulse-01.000.000.zip",
+  "title_id": "PPSA99993",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/shwan-ps5/pulse",
+  "sha256": "9103d3d61dfcd41f20b5646e42c7c47c3f0a72b422bb0f1ff6b983389dff14fb",
+  "author": "shwan-ps5"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Jewel Case",
+  "git": "https://github.com/SkaRift/JewelCase/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/SkaRift/JewelCase/v1.1.1/sce_sys/icon0.png",
+  "description": "Home-screen ROM launcher that shows every system's games as cartridges and discs with box art and starts each in the right emulator.",
+  "size_bytes": 33235846,
+  "download_url": "https://github.com/SkaRift/JewelCase/releases/download/v1.1.1/PPSA75837.zip",
+  "title_id": "PPSA75837",
+  "version": "1.1.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/SkaRift/JewelCase",
+  "sha256": "4d908862fcb4d4dbb5c9d6d950beeef46fe2755a01c30291cfea9a99ec462fb2",
+  "author": "SkaRift"
+}
