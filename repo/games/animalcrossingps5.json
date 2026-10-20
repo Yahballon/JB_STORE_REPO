@@ -4,7 +4,7 @@
   "type": "game",
   "cover_image": "https://raw.githubusercontent.com/mshivam019/ac-ps5/v1.0.0/ps5/sce_sys/icon0.png",
   "description": "Unofficial native port of Animal Crossing for GameCube; requires your own USA revision 0 game data.",
-  "size_bytes": 11411257,
+  "size_bytes": 11411532,
   "download_url": "https://github.com/mshivam019/ac-ps5/releases/download/v1.0.0/PPSA99660.zip",
   "title_id": "PPSA99660",
   "version": "v1.0.0",
@@ -12,6 +12,6 @@
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/mshivam019/ac-ps5",
-  "sha256": "0ee4300fe53d94111a485d062b4bc6f8c00b252238606fa9cfbaed66472223d2",
+  "sha256": "de3b3ef792973c89556a56f3cce19e5a24b098fb4c1e33e168a526453433b60d",
   "author": "mshivam019"
 }

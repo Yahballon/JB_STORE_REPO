@@ -1,0 +1,17 @@
+{
+  "name": "PayLoader",
+  "git": "https://github.com/Marice/ps5-payloader/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Marice/ps5-payloader/v00.001.000/sce_sys/icon0.png",
+  "description": "A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.",
+  "size_bytes": 19408891,
+  "download_url": "https://github.com/Marice/ps5-payloader/releases/download/v00.001.000/PPSA67670.zip",
+  "title_id": "PPSA67670",
+  "version": "00.001.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Marice/ps5-payloader",
+  "sha256": "c818a6598d5b34268d3ae766e3ca19e4051db08372d5158dac72dbf7565a0d91",
+  "author": "Marice"
+}

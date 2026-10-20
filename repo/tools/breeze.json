@@ -1,0 +1,17 @@
+{
+  "name": "Breeze",
+  "git": "https://github.com/MiladRTX/Breeze/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/MiladRTX/Breeze/v1.9/app/sce_sys/icon0.png",
+  "description": "Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.",
+  "size_bytes": 3471250,
+  "download_url": "https://github.com/MiladRTX/Breeze/releases/download/v1.9/PPSA92878.zip",
+  "title_id": "PPSA92878",
+  "version": "1.9",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/MiladRTX/Breeze",
+  "sha256": "b8b0e01950ca823c8eaac8cd80a3e44ee41731b016ed8ef6c59209d93f887950",
+  "author": "Milad"
+}

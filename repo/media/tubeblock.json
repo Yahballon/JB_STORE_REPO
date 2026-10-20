@@ -1,0 +1,17 @@
+{
+  "name": "TubeBlock",
+  "git": "https://github.com/animatian112/ytps5-sponsorblock/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/animatian112/ytps5-sponsorblock/01.000.157/sce_sys/icon0.png",
+  "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
+  "size_bytes": 27969760,
+  "download_url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.157/SmartTube-PPSA98260.zip",
+  "title_id": "PPSA98260",
+  "version": "01.000.157",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/animatian112/ytps5-sponsorblock",
+  "sha256": "66ce32987a9a7b2bd1f20bd9f91fbef3de24a2f619ff6af15fb4631da60c13d6",
+  "author": "animatian112"
+}
