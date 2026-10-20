@@ -1,0 +1,17 @@
+{
+  "name": "Snake X",
+  "git": "https://github.com/Yahballon/SnakeX/",
+  "type": "game",
+  "cover_image": "https://game-icons.net/icons/ffffff/000000/1x1/lorc/snake.png",
+  "description": "Native offline PS5 homebrew Snake game with Classic, Zen, Sprint and Disco modes. Features a 24x24 grid, animated snake and fruit sprites, local high scores, configurable speed levels, wall settings and multiple fruit styles. Every eaten fruit progressively increases the game speed, while Disco Mode adds smooth neon rainbow effects and animated light bars without rapid strobing.",
+  "size_bytes": 6222849,
+  "download_url": "https://github.com/Yahballon/SnakeX/releases/download/v0.2.0/PPSA99846.zip",
+  "title_id": "PPSA99846",
+  "version": "0.2.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/SnakeX/releases/tag/v0.2.0",
+  "sha256": "93c0a443e3d76ce302a1c00417dcde733023b493e84509a6f2a1e52f1dad030c",
+  "author": "YAHBALLON"
+}
