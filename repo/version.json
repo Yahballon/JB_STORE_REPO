@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "1a39d570013b55758857bb363175782c7035d90c8efb4d3ea3399d4270479049",
-  "commit": "56a204034757128eaa3c08e5b6f01355163bf102",
+  "version": "b38593eadd3225e0ce9cd97ba10e9330d68deaee753b7f98a576052bdae3ef88",
+  "commit": "895aab42306229329ae5b20d8547eeb9204ceade",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -278,6 +278,10 @@
     {
       "path": "repo/games/shipofharkinian.json",
       "sha": "ff9147e0b2d2051f3abb1ff0d175c80d923011d7"
+    },
+    {
+      "path": "repo/games/snakex.json",
+      "sha": "c9f2f7a5351d114fd4e16a14b2574a510af0543b"
     },
     {
       "path": "repo/games/spidermanedgeoftime.json",
