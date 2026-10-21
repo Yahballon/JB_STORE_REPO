@@ -1,0 +1,17 @@
+{
+  "name": "PS5 Uninstaller",
+  "git": "https://github.com/Yahballon/PS5_Uninstaller/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/JB_STORE_REPO/main/repo/assets/ps5-uninstaller-icon.png",
+  "description": "Native PS5 homebrew uninstall and storage management utility by YAHBALLON. Browse installed games, homebrew folders and USB PKG archives in a controller-friendly interface with title artwork, versions, sizes and file locations. Includes native uninstall requests, supported ShadowMountPlus-managed source cleanup, USB folder cleanup, progress feedback, safety confirmations and diagnostic logging. Removing a PKG archive does not uninstall the already installed game.",
+  "size_bytes": 6206947,
+  "download_url": "https://github.com/Yahballon/PS5_Uninstaller/releases/download/v0.1.18/PPSA99986.zip",
+  "title_id": "PPSA99986",
+  "version": "0.1.18",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/PS5_Uninstaller/releases/tag/v0.1.18",
+  "sha256": "40d093c19450bf6c51da49b2560597cfda4b3fa260cb80307a971cc136882f67",
+  "author": "YAHBALLON"
+}
