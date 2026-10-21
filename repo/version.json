@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2e90ad5694946aeecefa1e5c79f3ff4fc029b9ecd97a5806e505a794591a1949",
-  "commit": "5b140b6bb9867bbc6b67c2df89fc01a7872d92f2",
+  "version": "1ef3f67e62f18673a771dd16a8ff4ead92b6127aaab5d7f17e4fa924b02152b6",
+  "commit": "de261d301e1c3271178130d24263dde03eef5e19",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -214,6 +214,10 @@
     {
       "path": "repo/games/doom3bfg.json",
       "sha": "7d41835e6c50693fdff5d8f209bc2b2ca42b7092"
+    },
+    {
+      "path": "repo/games/drinkroulette.json",
+      "sha": "66a9e012836f236cb74690cbb648ea624c0ff635"
     },
     {
       "path": "repo/games/dusklight.json",
