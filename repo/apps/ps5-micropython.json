@@ -1,0 +1,17 @@
+{
+  "name": "PS5 MicroPython",
+  "git": "https://github.com/Yahballon/PS5_MicroPython/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/JB_STORE_REPO/main/repo/assets/ps5-micropython-icon.png",
+  "description": "Native PS5 homebrew Python runner and on-console script editor by YAHBALLON, powered by embedded MicroPython v1.26.1. Browse, create, edit, save and execute .py scripts with a DualSense controller, built-in on-screen keyboard and console output. Reads scripts from /data/PS5MicroPython/scripts/ and USB folders, supports bundled examples, persistent user files and runtime/scan logs.",
+  "size_bytes": 6182701,
+  "download_url": "https://github.com/Yahballon/PS5_MicroPython/releases/download/v0.2.3/PPSA99791.zip",
+  "title_id": "PPSA99791",
+  "version": "0.2.3",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/PS5_MicroPython/releases/tag/v0.2.3",
+  "sha256": "cb6466da1e5fb8cf00e35cbcc327795d2db030560efe87d71f18957b016eb8b3",
+  "author": "YAHBALLON"
+}

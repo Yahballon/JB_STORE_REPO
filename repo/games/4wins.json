@@ -1,0 +1,17 @@
+{
+  "name": "4 WINS",
+  "git": "https://github.com/Yahballon/4Wins/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/4Wins/main/assets/icon0.png",
+  "description": "Native offline PS5 Connect Four game by YAHBALLON with a vibrant neon arcade interface, calibrated 7x6 game board, animated red and yellow pieces, local two-player mode and solo play against an AI bot with Easy, Medium and Hard difficulties. Features DualSense controls, configurable options, rematches, persistent scores and diagnostic logs.",
+  "size_bytes": 7361741,
+  "download_url": "https://github.com/Yahballon/4Wins/releases/download/v0.1.2/PPSA99858.zip",
+  "title_id": "PPSA99858",
+  "version": "0.1.2",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/4Wins/releases/tag/v0.1.2",
+  "sha256": "19b1a9aa1dea4f4646706da6ac8d3d0ee4ac58b9fe6ad59d64c6da229bf6bbcd",
+  "author": "YAHBALLON"
+}
