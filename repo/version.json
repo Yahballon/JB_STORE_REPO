@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "63f865710ac56798a29a5f8ceeb2414a9fb9e418c007ccac3fdbe55da0f04988",
-  "commit": "2f1da47e40975fabf53d8b6c600939a9fa71889d",
+  "version": "f50414b1abc7531e97f0fa5afd43d6f7c99f8789417e88d83854f6c8bed3e00b",
+  "commit": "7e03e2fc9f8112157659efea127becf25ef6d689",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -66,6 +66,10 @@
     {
       "path": "repo/apps/playden.json",
       "sha": "886e6dd24e7dd371bb4e520e571dc5421c045d5a"
+    },
+    {
+      "path": "repo/apps/ps5-micropython.json",
+      "sha": "269b58bfadb7757879c38b3983c39f91a1b97cc7"
     },
     {
       "path": "repo/apps/ps5lm.json",
@@ -178,6 +182,10 @@
     {
       "path": "repo/emu/xpsemu.json",
       "sha": "88663812346c11448a21452de7ee618a6883a23a"
+    },
+    {
+      "path": "repo/games/4wins.json",
+      "sha": "0ef77cef473cf2c90eac434eae7e47c4184880b1"
     },
     {
       "path": "repo/games/CapyMobile.json",
