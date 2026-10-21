@@ -1,7 +1,7 @@
 {
   "name": "Drink Roulette",
   "git": "https://github.com/Yahballon/Drink_Roulette/",
-  "type": "app",
+  "type": "game",
   "cover_image": "https://play-lh.googleusercontent.com/9dNW8NZKds0DnWAtKjImaPqZpSFCOHZLbYbISYSMSx3w0YQ7iCA0GZTbsBEV5pU9it5ZiNeVDqUOVdiXwCd_fg=w240-h480-rw",
   "description": "Native offline PS5 party drinking game for 2 to 8 players with an animated bottle roulette wheel, controller-friendly neon interface and 433 unique challenges. Includes Standard, Wild, Couples, Quickfire and Truth & Dare modes, configurable challenge packs, editable player names and persistent settings. Designed for pass-and-play with a single controller.",
   "size_bytes": 6916969,
