@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "f50414b1abc7531e97f0fa5afd43d6f7c99f8789417e88d83854f6c8bed3e00b",
-  "commit": "7e03e2fc9f8112157659efea127becf25ef6d689",
+  "version": "1fbef2bc9a2384a1f167305bae02121abacda230d521ba26118449dfb9021f5a",
+  "commit": "3545ac199a9110862dcc11a5da62fce1b7898fbd",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -514,6 +514,10 @@
     {
       "path": "repo/tools/ps5-devbridge.json",
       "sha": "bb6f9ed43fa069e5e1e5b35536c345d6d4633f3f"
+    },
+    {
+      "path": "repo/tools/ps5-uninstaller.json",
+      "sha": "909182875c95a5742c3d646863acd95f87148f05"
     },
     {
       "path": "repo/tools/ps5clean.json",
