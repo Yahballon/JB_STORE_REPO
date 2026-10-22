@@ -1,0 +1,17 @@
+{
+  "name": "Halo: Combat Evolved",
+  "git": "https://github.com/thelinkin3000/halo-ce-universal/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/thelinkin3000/halo-ce-universal/build-113/port/ps5/sce_sys/icon0.png",
+  "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
+  "size_bytes": 53166763,
+  "download_url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-113/halo-ps5-release.zip",
+  "title_id": "PPSA99500",
+  "version": "build-113",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/thelinkin3000/halo-ce-universal",
+  "sha256": "794514508eff01338ec9c276736206233fbbe71782713c5c5350df2fa6392f72",
+  "author": "thelinkin3000"
+}

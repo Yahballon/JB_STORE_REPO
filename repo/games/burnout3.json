@@ -1,0 +1,17 @@
+{
+  "name": "Burnout 3",
+  "git": "https://github.com/griches/PS5_Burnout3/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_Burnout3/v0.2.2/ps5/sce_sys/icon0.png",
+  "description": "Burnout 3: Takedown (original Xbox) for PlayStation 5, a port of the Takedawn recompilation running natively at 60 fps with 4x resolution and widescreen. Bring your own USA disc.",
+  "size_bytes": 38575767,
+  "download_url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.2/Burnout3-PS5-0.2.2.zip",
+  "title_id": "PPSA99316",
+  "version": "0.2.2",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_Burnout3",
+  "sha256": "6fbd56d5e67534cfc6679d2072dc3a753a8f976f37627f5670358b5d8f730053",
+  "author": "Gary Riches"
+}

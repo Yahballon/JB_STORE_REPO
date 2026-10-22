@@ -1,0 +1,17 @@
+{
+  "name": "SudokuZen",
+  "git": "https://github.com/Bruce303lee/sudokuzen/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/Bruce303lee/sudokuzen/01.000.010/sce_sys/icon0.png",
+  "description": "A quiet 9x9 Sudoku game for PS5 with six themes, a color-tile mode, animated backdrops, an undo stack, and a demo mode that narrates each solving technique.",
+  "size_bytes": 30411192,
+  "download_url": "https://github.com/Bruce303lee/sudokuzen/releases/download/01.000.010/PPSA50001.zip",
+  "title_id": "PPSA50001",
+  "version": "01.000.010",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Bruce303lee/sudokuzen",
+  "sha256": "4e32913d63f9db2d116b9d18cc6534557f127c8221529a38ac9dc76aadc2093f",
+  "author": "bruce303lee"
+}

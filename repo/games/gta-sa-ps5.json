@@ -1,0 +1,17 @@
+{
+  "name": "GTA San Andreas PS5 Homebrew",
+  "git": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/CHI-GETSU/GTA-SA-PS5-Homebrew/v0.1.0-beta/sahin/sce_sys/icon0.png",
+  "description": "Play classic PC GTA San Andreas on PS5 via Prospero Win, adapted from Sahin; legally obtained game files must be supplied separately, and Joypad mode enables the right-stick camera.",
+  "size_bytes": 306185047,
+  "download_url": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew/releases/download/v0.1.0-beta/GTA-SA-PS5-PPSA99604-TEST.zip",
+  "title_id": "PPSA99604",
+  "version": "v0.1.0-beta",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew",
+  "sha256": "4aa16e1a012d07a92f29d4607e6d13d5a440b40fba4193b8afc9bfc6575206ee",
+  "author": "CHI-GETSU"
+}

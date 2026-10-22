@@ -1,17 +1,17 @@
 {
-  "name": "Quake III Arena",
+  "name": "Quake3e",
   "git": "https://github.com/griches/PS5_Quake3e/",
   "type": "game",
-  "cover_image": "https://raw.githubusercontent.com/griches/PS5_Quake3e/v1.2.0/ps5/sce_sys/icon0.png",
-  "description": "Native Quake III Arena source port for PS5 based on the Quake3e engine with Vulkan rendering through RADV. Supports DualSense controls, USB mouse and keyboard, 1080p, 1440p and 4K output, online server browsing, configurable controls, on-screen keyboard and 48 kHz stereo audio. Requires your own legally obtained Quake III Arena game data.",
-  "size_bytes": 14571740,
-  "download_url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.2.0/Quake3-PS5-v1.2.0.zip",
-  "title_id": "PPSA99303",
-  "version": "1.2.0",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_Quake3e/v1.4.0/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.",
+  "size_bytes": 14594252,
+  "download_url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.4.0/Quake3-PS5-v1.4.0.zip",
+  "title_id": "PPSA99319",
+  "version": "1.4.0",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/griches/PS5_Quake3e",
-  "sha256": "ce5ac7291cf90bfbd167a4b2f55cc071879f8ef45ade054227ac9c5bfe155cbe",
-  "author": "griches"
+  "sha256": "56f337f5066e9c830788504ebce97b992df4a37444a7306a82d011dde5de8d8c",
+  "author": "Gary Riches"
 }

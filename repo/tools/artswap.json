@@ -1,0 +1,17 @@
+{
+  "name": "Art Swap",
+  "git": "https://github.com/griches/PS5_ArtSwap/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_ArtSwap/v1.2.0/ps5/sce_sys/icon0.png",
+  "description": "Change the home-screen icon and background of any title with SteamGridDB art (your own free key), crop it, keep the originals, and rename and refresh homebrew through ShadowMountPlus.",
+  "size_bytes": 39881954,
+  "download_url": "https://github.com/griches/PS5_ArtSwap/releases/download/v1.2.0/PS5_ArtSwap-v1.2.0.zip",
+  "title_id": "PPSA99318",
+  "version": "1.2.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_ArtSwap",
+  "sha256": "d73439a322c46381ca195df752d020327abd48968ef192c8153b49b4e5b2c283",
+  "author": "Gary Riches"
+}

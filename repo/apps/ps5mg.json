@@ -1,0 +1,17 @@
+{
+  "name": "PS5MG",
+  "git": "https://github.com/nikay99/PS5MG/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/nikay99/PS5MG/v0.2.3/sce_sys/icon0.png",
+  "description": "Picture to textured 3D mesh (TRELLIS.2) on the PS5 GPU, with a web page and TV dashboard. Model files not included: one command on your PC fetches and copies them, see the README.",
+  "size_bytes": 30120459,
+  "download_url": "https://github.com/nikay99/PS5MG/releases/download/v0.2.3/PPSA99577.zip",
+  "title_id": "PPSA99577",
+  "version": "0.2.3",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/nikay99/PS5MG",
+  "sha256": "fe935e0dc91f76132116cfeb960f71847b0225f2f722217f35c91d9f661f9f27",
+  "author": "nikay99"
+}

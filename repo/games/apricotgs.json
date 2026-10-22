@@ -1,0 +1,17 @@
+{
+  "name": "ApricotGS",
+  "git": "https://github.com/BaZZtian/PS5-ApricotGS/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/BaZZtian/PS5-ApricotGS/4d05fceefec018041e2f3425e18381724d344a08/sce_sys/icon0.png",
+  "description": "Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.",
+  "size_bytes": 55081033,
+  "download_url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v0.0.1/ApricotGS-v0.0.1-PS5.zip",
+  "title_id": "PPSA99429",
+  "version": "0.0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/BaZZtian/PS5-ApricotGS",
+  "sha256": "6a6e3fb5a2b37f05b87b70c804801d3e548dc222aa8136a8b5c68e2bbbf0dae4",
+  "author": "BaZZtian"
+}

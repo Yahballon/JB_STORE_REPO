@@ -1,0 +1,17 @@
+{
+  "name": "FUTBOL13",
+  "git": "https://github.com/7tg/futbol13/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/7tg/futbol13/01.000.002/art/futbol13.png",
+  "description": "Your own PC copy of Pro Evolution Soccer 2013 as a homebrew app on a jailbroken PS5, through prospero-win, squad updates and commentary mods included (bring your own copy).",
+  "size_bytes": 289058601,
+  "download_url": "https://github.com/7tg/futbol13/releases/download/01.000.002/PPSA99405.zip",
+  "title_id": "PPSA99405",
+  "version": "01.000.002",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/7tg/futbol13",
+  "sha256": "6da4e6d24f5d51579a5ee78982f1c3b238d589cdbc893f101ebc1c2eae8c3fc8",
+  "author": "7tg"
+}
