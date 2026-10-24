@@ -1,17 +1,17 @@
 {
-  "name": "Prospero AI",
-  "git": "https://github.com/blackbearreloaded/ProsperoAI/",
+  "name": "ProsperoAI",
+  "git": "https://github.com/quatrixone/ProsperoAI/",
   "type": "app",
-  "cover_image": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoAI/01.006.000/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/quatrixone/ProsperoAI/main/sce_sys/icon0.png",
   "description": "Local LLM chat app for PS5.",
   "size_bytes": 70568813,
-  "download_url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
+  "download_url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
   "title_id": "PPSA99004",
   "version": "01.006.000",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
-  "source_page": "https://github.com/blackbearreloaded/ProsperoAI",
+  "source_page": "https://github.com/quatrixone/ProsperoAI",
   "sha256": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
   "author": "BlackBearReloaded"
 }

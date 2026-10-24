@@ -1,0 +1,17 @@
+{
+  "name": "Estante",
+  "git": "https://github.com/kauansilvalopes/estante/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/kauansilvalopes/estante/v0.5.0/sce_sys/icon0.png",
+  "description": "Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.",
+  "size_bytes": 6781685,
+  "download_url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.0/Estante-v0.5.0-PPSA99841.zip",
+  "title_id": "PPSA99841",
+  "version": "0.5.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/kauansilvalopes/estante",
+  "sha256": "6a64625f5ebdd8d89b0759ac013af00adad58acecbc33ee3f812fee24c63fecf",
+  "author": "kauansilvalopes"
+}

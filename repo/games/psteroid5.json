@@ -1,0 +1,17 @@
+{
+  "name": "PSteroid5",
+  "git": "https://github.com/futurepr0n/PSteroid5/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/futurepr0n/PSteroid5/01.000.000/ps5/sce_sys/icon0.png",
+  "description": "Vector Asteroids with online high scores, co-op rooms, a shared MMO world with browser players, a public ship hangar and a controller ship editor.",
+  "size_bytes": 9589767,
+  "download_url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.000.000/PPSA77305.zip",
+  "title_id": "PPSA77305",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/futurepr0n/PSteroid5",
+  "sha256": "4ed9d0121f00460bcea681265a4f195fc3cf80a90fdb3bda746f5e5ff8f65410",
+  "author": "futurepr0n"
+}

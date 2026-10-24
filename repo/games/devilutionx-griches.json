@@ -1,0 +1,17 @@
+{
+  "name": "DevilutionX for PlayStation 5",
+  "git": "https://github.com/griches/PS5_DevilutionX/",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_DevilutionX/main/ps5/sce_sys/icon0.png",
+  "description": "A PS5 homebrew build of DevilutionX, the source port of Diablo and Hellfire, as an installed title (PPSA99308) with a controller, a keyboard and a mouse.",
+  "size_bytes": 26497118,
+  "download_url": "https://github.com/griches/PS5_DevilutionX/releases/download/v0.1.0/DevilutionX-PS5-v0.1.0.zip",
+  "title_id": "PPSA99308",
+  "version": "v0.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_DevilutionX",
+  "sha256": "1d8a104320dd3fd6f1de44e32643089bb833e86d3ccd335fc1f9cc6e1f013758",
+  "author": "griches"
+}

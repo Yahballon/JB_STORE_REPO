@@ -1,0 +1,17 @@
+{
+  "name": "PSP5",
+  "git": "https://github.com/tsuramatsu1/psp5/",
+  "type": "emu",
+  "cover_image": "https://raw.githubusercontent.com/tsuramatsu1/psp5/master/sce_sys/icon0.png",
+  "description": "Native PSP port for the ps5 based on PPSSPP.",
+  "size_bytes": 39569154,
+  "download_url": "https://github.com/tsuramatsu1/psp5/releases/download/v1.000.100/PPSA99131.zip",
+  "title_id": "PPSA99131",
+  "version": "v1.000.100",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/tsuramatsu1/psp5",
+  "sha256": "7944efe11211fe0299d4c68234fe3739e0f43f5ef076ee02c55c314828762c97",
+  "author": "tsuramatsu1"
+}
