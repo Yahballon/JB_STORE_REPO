@@ -1,0 +1,17 @@
+{
+  "name": "Chiral-FTP",
+  "git": "https://github.com/Herbrax/Chiral-FTP/",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Herbrax/Chiral-FTP/c93348070bfa5aabe28cf367ea70f64ec9855bc4/platform/ps5/sce_sys/icon0.png",
+  "description": "File manager, FTP server, FTP/SFTP client and browser web app for the PS5, with Quick connect to chiral-ftp on your Switch, Mac, Windows or Linux.",
+  "size_bytes": 2500981,
+  "download_url": "https://github.com/Herbrax/Chiral-FTP/releases/download/v1.1/chiral-ftp-ps5-1.1.zip",
+  "title_id": "PPSA96024",
+  "version": "1.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Herbrax/Chiral-FTP",
+  "sha256": "ff5dcee48e4c853c039af444bb3d16172b1b14dd6a71e948d0715d55f4c9e067",
+  "author": "Herbrax"
+}

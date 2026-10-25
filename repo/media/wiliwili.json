@@ -1,0 +1,17 @@
+{
+  "name": "wiliwili",
+  "git": "https://github.com/carlchina/wiliwili/",
+  "type": "media",
+  "cover_image": "https://raw.githubusercontent.com/carlchina/wiliwili/v1.6.0.1/scripts/ps5/sce_sys/icon0.png",
+  "description": "Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.",
+  "size_bytes": 61193492,
+  "download_url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.1/wiliwili-PS5-v1.6.0.1.zip",
+  "title_id": "PPSA99099",
+  "version": "1.6.0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/carlchina/wiliwili",
+  "sha256": "3929aa2966d4184beae9066315c86c335004f82eb121d3d2ce9cd7140ae4cdba",
+  "author": "xfangfang, carlchina"
+}

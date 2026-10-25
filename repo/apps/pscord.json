@@ -1,0 +1,17 @@
+{
+  "name": "PSCord",
+  "git": "https://github.com/desstannsoft/pscord/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/desstannsoft/pscord/main/docs/cover.webp",
+  "description": "A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.",
+  "size_bytes": 30619679,
+  "download_url": "https://github.com/desstannsoft/pscord/releases/download/v01.000.007/PSCord-01.000.007.zip",
+  "title_id": "PPSA99190",
+  "version": "01.000.007",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/desstannsoft/pscord",
+  "sha256": "a56cc8f00bcf267a7cc5748c00cde21394bae3c572541dc972e979ebbd197983",
+  "author": "desstannsoft"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "TokenStation5",
+  "git": "https://github.com/ThatRetiredDude/TokenStation5/",
+  "type": "app",
+  "cover_image": "https://github.com/ThatRetiredDude/TokenStation5/raw/01.001.000/ps5/sce_sys/icon0.png",
+  "description": "Local AI endpoint for PS5: runs LLMs on the console GPU behind an OpenAI-compatible API, with API keys, Hugging Face model downloads, chat history and search, voice, and web search.",
+  "size_bytes": 9807774,
+  "download_url": "https://github.com/ThatRetiredDude/TokenStation5/releases/download/01.001.000/PPSA99555.zip",
+  "title_id": "PPSA99555",
+  "version": "01.001.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/ThatRetiredDude/TokenStation5",
+  "sha256": "aa2b1003c632455a9b7efaee364247a06a191af0a4caa308599cae23f087d759",
+  "author": "ThatRetiredDude"
+}
