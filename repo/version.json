@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2aea7121f51b28482795a59625b89f21a4a52d34afc43c3329163ac1cde7bb7a",
-  "commit": "7dc339a9094b426ff405028b90658d187831c730",
+  "version": "b1551f61e2cc12128e5a9105cb701d77534d9bfb645386530d6fa650fcc2b607",
+  "commit": "d670fbf2620ebf8c6686ac9c4820a75f05e8f549",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -610,6 +610,10 @@
     {
       "path": "repo/tools/jewelcase.json",
       "sha": "9d71039c6df970b69690d259def5799087613d88"
+    },
+    {
+      "path": "repo/tools/machete-save-game-manager.json",
+      "sha": "4cb99b8c7c4de9a500692c5844c045a8e3978c69"
     },
     {
       "path": "repo/tools/payloader.json",
