@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "841a82f8275d91bedd5a82f80157fd825604f55d462ff338e2241434aa131f1d",
-  "commit": "8a52a2da1e2af5873ada46c308ac4820a4fbee88",
+  "version": "5f95536edae52a6ecc7748fdea65aed1d37581fafbf4ad327237a4817cfcf55d",
+  "commit": "85f87e9a082b3659acc42301df7227e1e7ba4db6",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -174,6 +174,10 @@
     {
       "path": "repo/emu/SwanStationPS5.json",
       "sha": "6743745a801465ab600ccbdeb1521a8ea452d1f8"
+    },
+    {
+      "path": "repo/emu/crux2.json",
+      "sha": "2017789b98046720290c4cedb15d3a58e2763488"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -568,6 +572,10 @@
       "sha": "0c2be9bf48017a9b067fa561870dcf5a7c5f7a1a"
     },
     {
+      "path": "repo/tools/alembic.json",
+      "sha": "5aa0f4f63b71214299b3965dcb40f8519ee59167"
+    },
+    {
       "path": "repo/tools/artswap.json",
       "sha": "0ab45c367b9c4cda427cdefcd667e78aba1dd67b"
     },
@@ -594,6 +602,10 @@
     {
       "path": "repo/tools/home5.json",
       "sha": "355c323fca05fad8c856e84d52b1949cf5bfe9cc"
+    },
+    {
+      "path": "repo/tools/isshelf.json",
+      "sha": "1ba1953c444e339ca36b623e6949c50a23a2eac7"
     },
     {
       "path": "repo/tools/jewelcase.json",
@@ -626,6 +638,10 @@
     {
       "path": "repo/tools/ps5vr.json",
       "sha": "7d00a9aa721dc09fd1edd70bd05b1f44ce346f1a"
+    },
+    {
+      "path": "repo/tools/runescape-launcher.json",
+      "sha": "658f64dbfec7eb5d0f491860631caa0a60c7f82a"
     },
     {
       "path": "repo/tools/signalcompanion.json",
