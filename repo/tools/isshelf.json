@@ -1,0 +1,17 @@
+{
+  "name": "isShelf",
+  "git": "https://github.com/Iswebro/console-shelf-ps5",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/Iswebro/console-shelf-ps5/v0.1.0-beta.1/sce_sys/icon0.png",
+  "description": "Native PS5 library front end with 52 system categories, saved layouts, search, favourites and emulator launch routes.",
+  "size_bytes": 100000000,
+  "download_url": "https://github.com/Iswebro/console-shelf-ps5/releases/download/v0.1.0-beta.1/PPSA99541.zip",
+  "title_id": "PPSA99541",
+  "version": "0.1.0-beta.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://prosperostore.net/app/PPSA99541/",
+  "sha256": "4cca4e0c05b58b74733f8bc4392ba5b26bbd05232dde41932be11093a4ab91d6",
+  "author": "Iswebro"
+}
