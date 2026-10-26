@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "5f95536edae52a6ecc7748fdea65aed1d37581fafbf4ad327237a4817cfcf55d",
-  "commit": "85f87e9a082b3659acc42301df7227e1e7ba4db6",
+  "version": "2aea7121f51b28482795a59625b89f21a4a52d34afc43c3329163ac1cde7bb7a",
+  "commit": "7dc339a9094b426ff405028b90658d187831c730",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -177,7 +177,7 @@
     },
     {
       "path": "repo/emu/crux2.json",
-      "sha": "2017789b98046720290c4cedb15d3a58e2763488"
+      "sha": "505cf45c6b71336541e2c2b136d28799fe1d72af"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -573,7 +573,7 @@
     },
     {
       "path": "repo/tools/alembic.json",
-      "sha": "5aa0f4f63b71214299b3965dcb40f8519ee59167"
+      "sha": "844063a834e0c6ce5fa8595f611084a62c856579"
     },
     {
       "path": "repo/tools/artswap.json",
@@ -605,7 +605,7 @@
     },
     {
       "path": "repo/tools/isshelf.json",
-      "sha": "1ba1953c444e339ca36b623e6949c50a23a2eac7"
+      "sha": "28973f955e781d822eff52078eedc0f136d45ca2"
     },
     {
       "path": "repo/tools/jewelcase.json",
@@ -641,7 +641,7 @@
     },
     {
       "path": "repo/tools/runescape-launcher.json",
-      "sha": "658f64dbfec7eb5d0f491860631caa0a60c7f82a"
+      "sha": "39bd5f04bbc9a3ad46ed55252157a992e805427a"
     },
     {
       "path": "repo/tools/signalcompanion.json",
