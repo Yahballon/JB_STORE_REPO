@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "fad3b7d4d160402d139423b83d1f80dd7061a63d2053e98e2c861f43287df211",
-  "commit": "a26a3744acbd80dc9918f247dbf90ac04c779c57",
+  "version": "841a82f8275d91bedd5a82f80157fd825604f55d462ff338e2241434aa131f1d",
+  "commit": "8a52a2da1e2af5873ada46c308ac4820a4fbee88",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -174,10 +174,6 @@
     {
       "path": "repo/emu/SwanStationPS5.json",
       "sha": "6743745a801465ab600ccbdeb1521a8ea452d1f8"
-    },
-    {
-      "path": "repo/emu/crux2.json",
-      "sha": "82c50eb2714f76dd6e83f4602dea4616fc18505a"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -570,10 +566,6 @@
     {
       "path": "repo/tools/ScreenTester5.json",
       "sha": "0c2be9bf48017a9b067fa561870dcf5a7c5f7a1a"
-    },
-    {
-      "path": "repo/tools/alembic.json",
-      "sha": "691c91882d12ba27654b4b71f95c16825e01e46d"
     },
     {
       "path": "repo/tools/artswap.json",
