@@ -1,0 +1,17 @@
+{
+  "name": "MacheteSaveGameManager",
+  "git": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/main/sce_sys/icon0.png",
+  "description": "Experimental PS5/PS4 save manager. PS5 root keys are not available; cross-console saves use dummy injection and compatibility varies.",
+  "size_bytes": 40242147,
+  "download_url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.10/PPSA99700.zip",
+  "title_id": "PPSA99700",
+  "version": "1.3.10",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager",
+  "sha256": "78e3c0b598981de49dd20b11c6b5e466a3fd8c7a1958826b441aa5d9005d1453",
+  "author": "VenezuelanBiggie24"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "RuneScape Launcher",
+  "git": "https://github.com/bizkut/ps5-runescape",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/bizkut/ps5-runescape/01.000.021/ps5/title/sce_sys/icon0.png",
+  "description": "Experimental Jagex Launcher for Old School RuneScape and RuneLite on PS5 through Wine. Downloads official Jagex files separately.",
+  "size_bytes": 401466003,
+  "download_url": "https://github.com/bizkut/ps5-runescape/releases/download/01.000.021/PPSA99225.zip",
+  "title_id": "PPSA99225",
+  "version": "01.000.021",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/bizkut/ps5-runescape",
+  "sha256": "284c4904759eac4d5104a615d83026f3b1680baed18092c7237cdf405da60770",
+  "author": "bizkut"
+}

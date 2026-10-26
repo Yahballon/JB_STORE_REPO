@@ -1,0 +1,17 @@
+{
+  "name": "Crux2",
+  "git": "https://github.com/Press5elect/Crux2",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/Press5elect/Crux2/v1.0.15/ps5/sce_sys/icon0.png",
+  "description": "PCSX2 emulator for PS5 on RADV, with controller-first library, network shares, USB disc drives and RetroAchievements.",
+  "size_bytes": 32669031,
+  "download_url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.15/Crux2-v1.0.15.zip",
+  "title_id": "PPSA99249",
+  "version": "1.0.15",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Press5elect/Crux2",
+  "sha256": "c7e7415b37a40f9f1e0947a6a1584fe76dcc5260ac1c7760bf9859ce583ca015",
+  "author": "Press5elect"
+}
