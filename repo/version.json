@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2226d0b55dfacc02313d94f1f127e1e741ab694bb72c624bb68933966aae9274",
-  "commit": "3995e7576f44b9c811fb9eeb8c96c1bf580923fa",
+  "version": "fad3b7d4d160402d139423b83d1f80dd7061a63d2053e98e2c861f43287df211",
+  "commit": "a26a3744acbd80dc9918f247dbf90ac04c779c57",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -174,6 +174,10 @@
     {
       "path": "repo/emu/SwanStationPS5.json",
       "sha": "6743745a801465ab600ccbdeb1521a8ea452d1f8"
+    },
+    {
+      "path": "repo/emu/crux2.json",
+      "sha": "82c50eb2714f76dd6e83f4602dea4616fc18505a"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -598,10 +602,6 @@
     {
       "path": "repo/tools/home5.json",
       "sha": "355c323fca05fad8c856e84d52b1949cf5bfe9cc"
-    },
-    {
-      "path": "repo/tools/isshelf.json",
-      "sha": "f7ea2adfff78a6e500a55e84bddc57f834049f6f"
     },
     {
       "path": "repo/tools/jewelcase.json",
