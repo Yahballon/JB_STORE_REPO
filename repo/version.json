@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "b1551f61e2cc12128e5a9105cb701d77534d9bfb645386530d6fa650fcc2b607",
-  "commit": "d670fbf2620ebf8c6686ac9c4820a75f05e8f549",
+  "version": "51f7faa3081a19080a788fc779f19b4956370afd4b857fb138fd75fcb775c6ae",
+  "commit": "bdcdd8b4ffcfee6814422d50d59ed64eec656755",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -74,6 +74,10 @@
     {
       "path": "repo/apps/pc5.json",
       "sha": "390002a2a5ffb07b9d15db0c126db15793315b3a"
+    },
+    {
+      "path": "repo/apps/photo-splat-vr.json",
+      "sha": "14b1fedc8d9da467873d26eb299c47fd82500d74"
     },
     {
       "path": "repo/apps/playden.json",
@@ -178,6 +182,10 @@
     {
       "path": "repo/emu/crux2.json",
       "sha": "505cf45c6b71336541e2c2b136d28799fe1d72af"
+    },
+    {
+      "path": "repo/emu/forgenx.json",
+      "sha": "b04b0782eec9f0fb971a21c1c4f0c20aa67197ae"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -308,6 +316,10 @@
       "sha": "cc93e560a06437b8eabb2069aa6e127249e5acb5"
     },
     {
+      "path": "repo/games/geometry-wars-2.json",
+      "sha": "4a71c16667bd41b58cfca7a10f3588b237797692"
+    },
+    {
       "path": "repo/games/gta-sa-ps5.json",
       "sha": "1d9f3b2a224d7870e2cda28343556a07b03ed977"
     },
@@ -318,6 +330,14 @@
     {
       "path": "repo/games/iwbtg-tribute.json",
       "sha": "3c849bb962eb74b15f8317e62f068abaeb814f0d"
+    },
+    {
+      "path": "repo/games/james-pond-2.json",
+      "sha": "5293ff86c38af8e4d700b62aea5c0409ba5decf1"
+    },
+    {
+      "path": "repo/games/jsrf-unleashed.json",
+      "sha": "9cecff180b50baf1b47c7249e382e8068e1c0332"
     },
     {
       "path": "repo/games/linksawakening.json",
@@ -366,6 +386,10 @@
     {
       "path": "repo/games/rekhcom.json",
       "sha": "0f5c04e09e21b6070a3e6506eb39c2182f42c2b5"
+    },
+    {
+      "path": "repo/games/resot-sands-of-time.json",
+      "sha": "babda79ac05f27454732edb8cc2e08b43f841b58"
     },
     {
       "path": "repo/games/rush2recompiled.json",
