@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "51f7faa3081a19080a788fc779f19b4956370afd4b857fb138fd75fcb775c6ae",
-  "commit": "bdcdd8b4ffcfee6814422d50d59ed64eec656755",
+  "version": "1ad2d26a5ff464858402f335189264c985f3b3eb218f6334a70fbc25cc403365",
+  "commit": "cdf6f771e5bc5381a379592c9805c910600fdb97",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -370,6 +370,10 @@
     {
       "path": "repo/games/openrct2.json",
       "sha": "ad824008009074a6277709f6e853383e3408c9b6"
+    },
+    {
+      "path": "repo/games/prosperocraft.json",
+      "sha": "57dab4f2195d45481e137919554d1e607343327f"
     },
     {
       "path": "repo/games/psteroid5.json",
