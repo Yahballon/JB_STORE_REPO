@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "1ad2d26a5ff464858402f335189264c985f3b3eb218f6334a70fbc25cc403365",
-  "commit": "cdf6f771e5bc5381a379592c9805c910600fdb97",
+  "version": "13ffc493fa6beb297dfa6b311654d3d7514078dc969221e80009f0b065ca83fb",
+  "commit": "8340af92dd88e00e188d3168883fe391577fcee9",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -180,12 +180,24 @@
       "sha": "6743745a801465ab600ccbdeb1521a8ea452d1f8"
     },
     {
+      "path": "repo/emu/beetle-pce.json",
+      "sha": "367a8da7cb377afa8b780f63d712cbd617b07cbd"
+    },
+    {
       "path": "repo/emu/crux2.json",
       "sha": "505cf45c6b71336541e2c2b136d28799fe1d72af"
     },
     {
+      "path": "repo/emu/fbneo.json",
+      "sha": "8e871f555038f38c3f6b3ddd64ca737eabbb1d68"
+    },
+    {
       "path": "repo/emu/forgenx.json",
       "sha": "b04b0782eec9f0fb971a21c1c4f0c20aa67197ae"
+    },
+    {
+      "path": "repo/emu/genesis-plus-gx.json",
+      "sha": "f61212a217951f25b88017ff8228bd7e831e442b"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -218,6 +230,10 @@
     {
       "path": "repo/emu/ruffleflash.json",
       "sha": "005b07c91715188d2bee6654337a27d75e134d2d"
+    },
+    {
+      "path": "repo/emu/snes9x.json",
+      "sha": "6ec9ae8319c2eb0e16d2ae06ed827309a09b6a29"
     },
     {
       "path": "repo/emu/xpsemu.json",
@@ -678,6 +694,10 @@
     {
       "path": "repo/tools/signalcompanion.json",
       "sha": "b8e82b230c163e62475482169cdb90d7ae237536"
+    },
+    {
+      "path": "repo/tools/trophy-manager.json",
+      "sha": "ee12a1a2926d48226aa6d5bea1bcd0a928a784a7"
     },
     {
       "path": "repo/tools/wwwspeedtest.json",
