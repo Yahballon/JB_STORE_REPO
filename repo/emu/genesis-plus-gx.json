@@ -1,0 +1,17 @@
+{
+  "name": "Genesis Plus GX PS5",
+  "git": "https://github.com/MisterTemaki/genplusgxPS5",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/MisterTemaki/genplusgxPS5/main/ps5/app/sce_sys/icon0.png",
+  "description": "Genesis Plus GX (Mega Drive, Sega CD, Master System, Game Gear) as a native PS5 app.",
+  "size_bytes": 79805076,
+  "download_url": "https://github.com/MisterTemaki/genplusgxPS5/releases/download/v2.2.1/GenesisPlusGXPS5-v2.2.1-PPSA99921.zip",
+  "title_id": "PPSA99921",
+  "version": "2.2.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/MisterTemaki/genplusgxPS5",
+  "sha256": "762cff710c536a2d961e7015d6f58f5cbdaa7674d2d8ebbcf1dc73fb4855593b",
+  "author": "MisterTemaki"
+}
