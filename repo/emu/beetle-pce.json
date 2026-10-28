@@ -1,0 +1,17 @@
+{
+  "name": "Beetle PCE PS5",
+  "git": "https://github.com/MisterTemaki/beetlepcePS5",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/MisterTemaki/beetlepcePS5/main/ps5/app/sce_sys/icon0.png",
+  "description": "Beetle PCE (PC Engine, TurboGrafx-16, SuperGrafx, PC Engine CD) as a native PS5 app.",
+  "size_bytes": 27882809,
+  "download_url": "https://github.com/MisterTemaki/beetlepcePS5/releases/download/v1.1.1/BeetlePCEPS5-v1.1.1-PPSA99925.zip",
+  "title_id": "PPSA99925",
+  "version": "1.1.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/MisterTemaki/beetlepcePS5",
+  "sha256": "ce29038a8f1e43a063cd1c0bb1881df9d73a7611c97abeff0bd7928882d7874c",
+  "author": "MisterTemaki"
+}
