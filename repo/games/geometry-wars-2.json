@@ -1,0 +1,17 @@
+{
+  "name": "Geometry Wars 2",
+  "git": "https://github.com/griches/PS5_GeometryWars2",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/griches/PS5_GeometryWars2/v1.0.0/ps5/sce_sys/icon0.png",
+  "description": "Geometry Wars: Retro Evolved 2 (Xbox Live Arcade) for PlayStation 5, a port of the geow2 rebuild: all six modes, local multiplayer for four, 4K at 120 Hz. Bring your own XBLA package.",
+  "size_bytes": 17506197,
+  "download_url": "https://github.com/griches/PS5_GeometryWars2/releases/download/v1.0.0/GeometryWars2-PS5-1.0.0.zip",
+  "title_id": "PPSA99322",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/griches/PS5_GeometryWars2",
+  "sha256": "2f3311932291694478acfe423c1f337683aa2791bfa4036e45fa59e4130c287a",
+  "author": "Gary Riches"
+}

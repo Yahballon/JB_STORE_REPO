@@ -1,0 +1,17 @@
+{
+  "name": "FBNeo PS5",
+  "git": "https://github.com/MisterTemaki/fbneo-ps5",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/MisterTemaki/fbneo-ps5/main/ps5/app/sce_sys/icon0.png",
+  "description": "FinalBurn Neo (arcade) as a native PS5 app.",
+  "size_bytes": 63900308,
+  "download_url": "https://github.com/MisterTemaki/fbneo-ps5/releases/download/v2.1/FBNeoPS5-v2.1-PPSA99924.zip",
+  "title_id": "PPSA99924",
+  "version": "2.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/MisterTemaki/fbneo-ps5",
+  "sha256": "b56ca7ca56d942f3e1855cfd9ed3f9112a0758f8b9313882824d1d817dd48622",
+  "author": "MisterTemaki"
+}

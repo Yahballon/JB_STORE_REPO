@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "b1551f61e2cc12128e5a9105cb701d77534d9bfb645386530d6fa650fcc2b607",
-  "commit": "d670fbf2620ebf8c6686ac9c4820a75f05e8f549",
+  "version": "13ffc493fa6beb297dfa6b311654d3d7514078dc969221e80009f0b065ca83fb",
+  "commit": "8340af92dd88e00e188d3168883fe391577fcee9",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -74,6 +74,10 @@
     {
       "path": "repo/apps/pc5.json",
       "sha": "390002a2a5ffb07b9d15db0c126db15793315b3a"
+    },
+    {
+      "path": "repo/apps/photo-splat-vr.json",
+      "sha": "14b1fedc8d9da467873d26eb299c47fd82500d74"
     },
     {
       "path": "repo/apps/playden.json",
@@ -176,8 +180,24 @@
       "sha": "6743745a801465ab600ccbdeb1521a8ea452d1f8"
     },
     {
+      "path": "repo/emu/beetle-pce.json",
+      "sha": "367a8da7cb377afa8b780f63d712cbd617b07cbd"
+    },
+    {
       "path": "repo/emu/crux2.json",
       "sha": "505cf45c6b71336541e2c2b136d28799fe1d72af"
+    },
+    {
+      "path": "repo/emu/fbneo.json",
+      "sha": "8e871f555038f38c3f6b3ddd64ca737eabbb1d68"
+    },
+    {
+      "path": "repo/emu/forgenx.json",
+      "sha": "b04b0782eec9f0fb971a21c1c4f0c20aa67197ae"
+    },
+    {
+      "path": "repo/emu/genesis-plus-gx.json",
+      "sha": "f61212a217951f25b88017ff8228bd7e831e442b"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -210,6 +230,10 @@
     {
       "path": "repo/emu/ruffleflash.json",
       "sha": "005b07c91715188d2bee6654337a27d75e134d2d"
+    },
+    {
+      "path": "repo/emu/snes9x.json",
+      "sha": "6ec9ae8319c2eb0e16d2ae06ed827309a09b6a29"
     },
     {
       "path": "repo/emu/xpsemu.json",
@@ -308,6 +332,10 @@
       "sha": "cc93e560a06437b8eabb2069aa6e127249e5acb5"
     },
     {
+      "path": "repo/games/geometry-wars-2.json",
+      "sha": "4a71c16667bd41b58cfca7a10f3588b237797692"
+    },
+    {
       "path": "repo/games/gta-sa-ps5.json",
       "sha": "1d9f3b2a224d7870e2cda28343556a07b03ed977"
     },
@@ -318,6 +346,14 @@
     {
       "path": "repo/games/iwbtg-tribute.json",
       "sha": "3c849bb962eb74b15f8317e62f068abaeb814f0d"
+    },
+    {
+      "path": "repo/games/james-pond-2.json",
+      "sha": "5293ff86c38af8e4d700b62aea5c0409ba5decf1"
+    },
+    {
+      "path": "repo/games/jsrf-unleashed.json",
+      "sha": "9cecff180b50baf1b47c7249e382e8068e1c0332"
     },
     {
       "path": "repo/games/linksawakening.json",
@@ -352,6 +388,10 @@
       "sha": "ad824008009074a6277709f6e853383e3408c9b6"
     },
     {
+      "path": "repo/games/prosperocraft.json",
+      "sha": "57dab4f2195d45481e137919554d1e607343327f"
+    },
+    {
       "path": "repo/games/psteroid5.json",
       "sha": "a5de10a3c5894b8e5c0ccac811b66db4ad7c39ee"
     },
@@ -366,6 +406,10 @@
     {
       "path": "repo/games/rekhcom.json",
       "sha": "0f5c04e09e21b6070a3e6506eb39c2182f42c2b5"
+    },
+    {
+      "path": "repo/games/resot-sands-of-time.json",
+      "sha": "babda79ac05f27454732edb8cc2e08b43f841b58"
     },
     {
       "path": "repo/games/rush2recompiled.json",
@@ -650,6 +694,10 @@
     {
       "path": "repo/tools/signalcompanion.json",
       "sha": "b8e82b230c163e62475482169cdb90d7ae237536"
+    },
+    {
+      "path": "repo/tools/trophy-manager.json",
+      "sha": "ee12a1a2926d48226aa6d5bea1bcd0a928a784a7"
     },
     {
       "path": "repo/tools/wwwspeedtest.json",
