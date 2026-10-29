@@ -1,0 +1,17 @@
+{
+  "name": "Forza Horizon for PS5",
+  "git": "https://github.com/mshivam019/fh-ps5",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/mshivam019/fh-ps5/v0.1.0/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 port of Forza Horizon (Xbox 360). Requires game files prepared from your own disc with the release's setup.",
+  "size_bytes": 16289990,
+  "download_url": "https://github.com/mshivam019/fh-ps5/releases/download/v0.1.0/PPSA99690.zip",
+  "title_id": "PPSA99690",
+  "version": "0.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mshivam019/fh-ps5",
+  "sha256": "e39554fca8ce175ad608ba48290eeea053a17e350057e146ad6c7994fad85384",
+  "author": "mshivam019"
+}
