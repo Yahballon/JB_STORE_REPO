@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "13ffc493fa6beb297dfa6b311654d3d7514078dc969221e80009f0b065ca83fb",
-  "commit": "8340af92dd88e00e188d3168883fe391577fcee9",
+  "version": "b53e955b6d7b660a921f16f7c94ecec6d996b17d6861d72d3a9e3fd803a08a26",
+  "commit": "2e29bd4fecdb234aacc011bf5fb95b883e4ab439",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -58,6 +58,10 @@
     {
       "path": "repo/apps/machete-ai-studio.json",
       "sha": "0821adef955e51ef9198da6725fe46bd43539ae9"
+    },
+    {
+      "path": "repo/apps/mihawkos.json",
+      "sha": "cd256b6ca5b737054ef1ec393af9295d0fb56197"
     },
     {
       "path": "repo/apps/opennowps5.json",
@@ -178,6 +182,10 @@
     {
       "path": "repo/emu/SwanStationPS5.json",
       "sha": "6743745a801465ab600ccbdeb1521a8ea452d1f8"
+    },
+    {
+      "path": "repo/emu/arcade-gallery.json",
+      "sha": "c7e429ea0ebfb5f4bd43301335aa9b2a0ffd3d64"
     },
     {
       "path": "repo/emu/beetle-pce.json",
@@ -328,6 +336,10 @@
       "sha": "df881956f6270482fbdf01805126b821c6edfa09"
     },
     {
+      "path": "repo/games/forza-horizon.json",
+      "sha": "5b0ea3e4c08f66118169d671e8d7ed9a3c05714f"
+    },
+    {
       "path": "repo/games/futbol13.json",
       "sha": "cc93e560a06437b8eabb2069aa6e127249e5acb5"
     },
@@ -374,6 +386,10 @@
     {
       "path": "repo/games/morrowind.json",
       "sha": "8564367f18fabfddf1928dee183d73636b35ca87"
+    },
+    {
+      "path": "repo/games/naruto-rise-of-a-ninja.json",
+      "sha": "3d0887c916368ea560724c450167d6695dab4064"
     },
     {
       "path": "repo/games/nfsblackbox.json",
@@ -430,6 +446,10 @@
     {
       "path": "repo/games/source-port.json",
       "sha": "57217dc369b831d778eafe65513e59f1beff19ae"
+    },
+    {
+      "path": "repo/games/speedbreaker.json",
+      "sha": "6a0af49769d23cdbe43aefcee017afa655195514"
     },
     {
       "path": "repo/games/spidermanedgeoftime.json",

@@ -1,0 +1,17 @@
+{
+  "name": "Naruto: Rise of a Ninja for PS5",
+  "git": "https://github.com/mshivam019/naruto-ps5",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/mshivam019/naruto-ps5/v0.1.0/ps5/sce_sys/icon0.png",
+  "description": "Native PS5 port of Naruto: Rise of a Ninja. Requires game files prepared from your own Xbox 360 disc.",
+  "size_bytes": 8953619,
+  "download_url": "https://github.com/mshivam019/naruto-ps5/releases/download/v0.1.0/PPSA99680.zip",
+  "title_id": "PPSA99680",
+  "version": "0.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mshivam019/naruto-ps5",
+  "sha256": "e37e3c543d62efa6e2de5146244c6f63129efd5658974134fd0cfea1f04b3bff",
+  "author": "mshivam019"
+}
