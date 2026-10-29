@@ -1,0 +1,17 @@
+{
+  "name": "MihawkOS",
+  "git": "https://github.com/mihawk-99/PS5_MihawkOS",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/mihawk-99/PS5_MihawkOS/v4.0.0-alpha-4/ps5/sce_sys/icon0.png",
+  "description": "A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.",
+  "size_bytes": 19769380,
+  "download_url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v4.0.0-alpha-4/PS5_MihawkOS-v4.0.0-alpha-4-PPSA99170.zip",
+  "title_id": "PPSA99170",
+  "version": "4.0.0-alpha-4",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mihawk-99/PS5_MihawkOS",
+  "sha256": "a384be5e3e901a1f81379b9ef0959eda4c2884f4c82eb2ad6cac7735ca9c0ecd",
+  "author": "Mihawk"
+}
