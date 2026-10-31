@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "83eaef481c5dc216604402d1526fb7cc9afca3692c609ac919f91c1a7348476c",
-  "commit": "fa423b49cf71b500d88f5e6bd19be0723e6f3911",
+  "version": "94bb87a24f91056e0405d71aba8c1883acbae14b663f4379252bbcfdae13ea09",
+  "commit": "35a0a4666abd18acb58a93097c47c6ce1047e3c6",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -289,7 +289,7 @@
     },
     {
       "path": "repo/games/apricotgs.json",
-      "sha": "6b62dbf0794ded86a5cde0c823a4d78d0e417aeb"
+      "sha": "38fa1680ace9bf42a934582b225b12ec416c8e49"
     },
     {
       "path": "repo/games/bedlam2.json",
