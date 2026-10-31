@@ -4,14 +4,14 @@
   "type": "emulator",
   "cover_image": "https://raw.githubusercontent.com/MisterTemaki/snes9xPS5/main/ps5/app/sce_sys/icon0.png",
   "description": "Snes9x (Super Nintendo) as a native PS5 app.",
-  "size_bytes": 26992707,
-  "download_url": "https://github.com/MisterTemaki/snes9xPS5/releases/download/v2.9/Snes9xPS5-v2.9-PPSA99922.zip",
+  "size_bytes": 27324243,
+  "download_url": "https://github.com/MisterTemaki/snes9xPS5/releases/download/v2.10/Snes9xPS5-v2.10-PPSA99922.zip",
   "title_id": "PPSA99922",
-  "version": "2.9",
+  "version": "2.10",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/MisterTemaki/snes9xPS5",
-  "sha256": "04f4c47242f2e1e8df908ed379007b86b2622d3594a95c1522f27d3d3f22b239",
+  "sha256": "8ebb25c608903f8cd5ab90316c751cb9e16aa38fed0e7190777d4f4fd4816341",
   "author": "MisterTemaki"
 }
