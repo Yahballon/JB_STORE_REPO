@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "a220ed5ca96a5a46ff6095029e6c0861d53e5baf9c9685c76c4d5d08af6efa4b",
-  "commit": "81dd4492b2645295ddf979497ec88363eabc40ac",
+  "version": "e0104630a91b3419ed1c7a07279934111f968813030b404aa9728a5d9f87c1c5",
+  "commit": "011429a3874630388db9c4ecbb0ce8b21f906079",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -85,7 +85,7 @@
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "886e6dd24e7dd371bb4e520e571dc5421c045d5a"
+      "sha": "f7964ee706046a73eae005ce315327ee44844f1d"
     },
     {
       "path": "repo/apps/prosperosunshine.json",
@@ -221,7 +221,7 @@
     },
     {
       "path": "repo/emu/ps64.json",
-      "sha": "50cd84fbeb9a3690f60f0ebb7945ce4d35db8e08"
+      "sha": "8a8b13fb967351845b8f373ac94d404f1488e47f"
     },
     {
       "path": "repo/emu/psflycast.json",
