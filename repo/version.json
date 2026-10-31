@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "94bb87a24f91056e0405d71aba8c1883acbae14b663f4379252bbcfdae13ea09",
-  "commit": "35a0a4666abd18acb58a93097c47c6ce1047e3c6",
+  "version": "b135e12f629735b177334f4ae6a0a523435c018044c5df08a15802c1f94bfdc6",
+  "commit": "c4fbfe58b53924a2d2ebe214b72be0c1caf5afb9",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -29,7 +29,7 @@
     },
     {
       "path": "repo/apps/ProsperoWin.json",
-      "sha": "1cb0a03611fbd1e0032756aaa95be2073e0a4279"
+      "sha": "afadbfb28750bd30088e76d6f9ca552865a31cf6"
     },
     {
       "path": "repo/apps/audiobookreader.json",
@@ -609,7 +609,7 @@
     },
     {
       "path": "repo/media/youtubemaxd.json",
-      "sha": "24a7d1a54ff18c440da1f4125e5dbe5f1ee81da2"
+      "sha": "ecc652b99c35cf70eb3bf0d929e20e6e7372fc9f"
     },
     {
       "path": "repo/tools/Avatar Changer PS5.json",
