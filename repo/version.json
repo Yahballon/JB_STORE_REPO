@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "b53e955b6d7b660a921f16f7c94ecec6d996b17d6861d72d3a9e3fd803a08a26",
-  "commit": "2e29bd4fecdb234aacc011bf5fb95b883e4ab439",
+  "version": "a220ed5ca96a5a46ff6095029e6c0861d53e5baf9c9685c76c4d5d08af6efa4b",
+  "commit": "81dd4492b2645295ddf979497ec88363eabc40ac",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -86,6 +86,10 @@
     {
       "path": "repo/apps/playden.json",
       "sha": "886e6dd24e7dd371bb4e520e571dc5421c045d5a"
+    },
+    {
+      "path": "repo/apps/prosperosunshine.json",
+      "sha": "81724e3479cb868793c6d1d0c00b9eb0a411ac5d"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -298,6 +302,10 @@
     {
       "path": "repo/games/ccleste.json",
       "sha": "9b2cb36cb3d3d1e26e0f93f69d3e79f4bf00d590"
+    },
+    {
+      "path": "repo/games/cyberworld-endless.json",
+      "sha": "0b5d0354b8c46c1a4b60e689bd663ce775e52422"
     },
     {
       "path": "repo/games/devilutionx-angelxex.json",
@@ -554,6 +562,10 @@
     {
       "path": "repo/media/olisemusic.json",
       "sha": "f0d826567a135c9144c2fbe2bf71f7e2ea653624"
+    },
+    {
+      "path": "repo/media/prospero-hi-fi.json",
+      "sha": "ce5fe9ede50d8b92811611f2faf9243e4e04c04d"
     },
     {
       "path": "repo/media/prosperotube.json",
