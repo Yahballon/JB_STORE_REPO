@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "e425dab2321bc9aee91d6abe4d815c38eeccf3209d6a8a3da86bdca28a1fd234",
-  "commit": "41c6bd69e2324d6480f9bdeb02fe5a4638c8c128",
+  "version": "6cbab2b87477df48619d1a605e35f69e6e6f72aacfcb5476f3a39a6d5b2809dc",
+  "commit": "ab8a4064c197bd0d5b0be2d818156c772de58892",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -198,6 +198,10 @@
     {
       "path": "repo/emu/crux2.json",
       "sha": "505cf45c6b71336541e2c2b136d28799fe1d72af"
+    },
+    {
+      "path": "repo/emu/dreamxcast.json",
+      "sha": "af4dbe1d454112085e29753c2281ca8362ff4c16"
     },
     {
       "path": "repo/emu/fbneo.json",
