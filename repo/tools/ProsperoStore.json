@@ -1,17 +1,17 @@
 {
   "name": "ProsperoStore",
-  "git": "https://github.com/darkxex/ProsperoStore/",
+  "git": "https://github.com/darkxex/ProsperoStore",
   "type": "tool",
-  "cover_image": "https://raw.githubusercontent.com/darkxex/ProsperoStore/v1.000.106/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/darkxex/ProsperoStore/v1.000.116/sce_sys/icon0.png",
   "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-  "size_bytes": 28857317,
-  "download_url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.106/PPSA99000.zip",
+  "size_bytes": 31830169,
+  "download_url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip",
   "title_id": "PPSA99000",
-  "version": "1.000.106",
+  "version": "1.000.116",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/darkxex/ProsperoStore",
-  "sha256": "72b72b753bcc54e4d8a7b4e74c8f70c97b7804189320b677661d37f0c8262b0c",
+  "sha256": "c2b5d18b9eba3daf1395729dd2b410ea6a6161542b49ce415d4b4c84b986cbb4",
   "author": "BlackBearReloaded"
 }

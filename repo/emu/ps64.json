@@ -1,17 +1,17 @@
 {
   "name": "PS64",
-  "git": "https://github.com/dantaipan/PS64/",
+  "git": "https://github.com/dantaipan/PS64",
   "type": "emu",
-  "cover_image": "https://raw.githubusercontent.com/dantaipan/PS64/01.000.004/ps5/native/sce_sys/icon0.png",
+  "cover_image": "https://raw.githubusercontent.com/dantaipan/PS64/01.000.005/ps5/native/sce_sys/icon0.png",
   "description": "Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.",
-  "size_bytes": 4544135,
-  "download_url": "https://github.com/dantaipan/PS64/releases/download/01.000.004/PPSA06464.zip",
+  "size_bytes": 5572311,
+  "download_url": "https://github.com/dantaipan/PS64/releases/download/01.000.005/PPSA06464.zip",
   "title_id": "PPSA06464",
-  "version": "01.000.004",
+  "version": "01.000.005",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/dantaipan/PS64",
-  "sha256": "e13255f34de8a2dce551855243f8173ca765144c4b49f523dc3fcc113a88fa81",
+  "sha256": "bcff57347d2c7baf6852661e3f2f4648dec1343eab2951b2d3d54cc4f0fd44ce",
   "author": "dantaipan"
 }

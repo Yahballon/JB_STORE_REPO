@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "b53e955b6d7b660a921f16f7c94ecec6d996b17d6861d72d3a9e3fd803a08a26",
-  "commit": "2e29bd4fecdb234aacc011bf5fb95b883e4ab439",
+  "version": "e425dab2321bc9aee91d6abe4d815c38eeccf3209d6a8a3da86bdca28a1fd234",
+  "commit": "41c6bd69e2324d6480f9bdeb02fe5a4638c8c128",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -17,7 +17,7 @@
     },
     {
       "path": "repo/apps/PSBoxCloudGaming.json",
-      "sha": "5d108395a70274a7b705aa42ba3c750f52a71baf"
+      "sha": "e8f9b2326a8b1101d597dcb1f56b66f41a9abcad"
     },
     {
       "path": "repo/apps/ProsperoAI.json",
@@ -29,7 +29,7 @@
     },
     {
       "path": "repo/apps/ProsperoWin.json",
-      "sha": "1cb0a03611fbd1e0032756aaa95be2073e0a4279"
+      "sha": "afadbfb28750bd30088e76d6f9ca552865a31cf6"
     },
     {
       "path": "repo/apps/audiobookreader.json",
@@ -61,7 +61,7 @@
     },
     {
       "path": "repo/apps/mihawkos.json",
-      "sha": "cd256b6ca5b737054ef1ec393af9295d0fb56197"
+      "sha": "da5ef1a869e8da3a46b83a6e731b367f09f3f8a6"
     },
     {
       "path": "repo/apps/opennowps5.json",
@@ -69,7 +69,7 @@
     },
     {
       "path": "repo/apps/orion-media-center.json",
-      "sha": "1e18f39de804f0b2b53f0ccb4b97dffa87e89b04"
+      "sha": "4793055d69608fe19a4fc379d6c05fc640147666"
     },
     {
       "path": "repo/apps/payloadlauncherx.json",
@@ -77,7 +77,7 @@
     },
     {
       "path": "repo/apps/pc5.json",
-      "sha": "390002a2a5ffb07b9d15db0c126db15793315b3a"
+      "sha": "a28b1b2844cc1fcff825169adf12b0b4c120ccd1"
     },
     {
       "path": "repo/apps/photo-splat-vr.json",
@@ -85,7 +85,11 @@
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "886e6dd24e7dd371bb4e520e571dc5421c045d5a"
+      "sha": "f7964ee706046a73eae005ce315327ee44844f1d"
+    },
+    {
+      "path": "repo/apps/prosperosunshine.json",
+      "sha": "81724e3479cb868793c6d1d0c00b9eb0a411ac5d"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -121,7 +125,7 @@
     },
     {
       "path": "repo/apps/rommps.json",
-      "sha": "05ac444aa773c84c057bde49cffb09d1a96f0f0c"
+      "sha": "a9f973b624086e7bd5a7894acc1505c2001f53fe"
     },
     {
       "path": "repo/apps/steamremoteplay.json",
@@ -161,7 +165,7 @@
     },
     {
       "path": "repo/emu/PS5SX2.json",
-      "sha": "6eb319f521aba124f74ff2c6d0db0c85f3a39095"
+      "sha": "0e9feb839330b6cd6c3a7c19d15dc6b54e8b11c1"
     },
     {
       "path": "repo/emu/PS5X360.json",
@@ -181,7 +185,7 @@
     },
     {
       "path": "repo/emu/SwanStationPS5.json",
-      "sha": "6743745a801465ab600ccbdeb1521a8ea452d1f8"
+      "sha": "50acc364cf3da820c788b41239d10bc3bbe20eb7"
     },
     {
       "path": "repo/emu/arcade-gallery.json",
@@ -217,7 +221,7 @@
     },
     {
       "path": "repo/emu/ps64.json",
-      "sha": "50cd84fbeb9a3690f60f0ebb7945ce4d35db8e08"
+      "sha": "8a8b13fb967351845b8f373ac94d404f1488e47f"
     },
     {
       "path": "repo/emu/psflycast.json",
@@ -241,7 +245,11 @@
     },
     {
       "path": "repo/emu/snes9x.json",
-      "sha": "6ec9ae8319c2eb0e16d2ae06ed827309a09b6a29"
+      "sha": "39da028dbe9091e7e0b14b84f0d39ca257358bfd"
+    },
+    {
+      "path": "repo/emu/stella-ps5.json",
+      "sha": "d498f442d48eca543fbf3a196240ee07d9b1e55f"
     },
     {
       "path": "repo/emu/xpsemu.json",
@@ -285,7 +293,7 @@
     },
     {
       "path": "repo/games/apricotgs.json",
-      "sha": "6b62dbf0794ded86a5cde0c823a4d78d0e417aeb"
+      "sha": "38fa1680ace9bf42a934582b225b12ec416c8e49"
     },
     {
       "path": "repo/games/bedlam2.json",
@@ -298,6 +306,10 @@
     {
       "path": "repo/games/ccleste.json",
       "sha": "9b2cb36cb3d3d1e26e0f93f69d3e79f4bf00d590"
+    },
+    {
+      "path": "repo/games/cyberworld-endless.json",
+      "sha": "0b5d0354b8c46c1a4b60e689bd663ce775e52422"
     },
     {
       "path": "repo/games/devilutionx-angelxex.json",
@@ -353,7 +365,7 @@
     },
     {
       "path": "repo/games/halo-ce.json",
-      "sha": "c2b03c9de5fb35e2601d8abefc22ee2dd8c0a2f3"
+      "sha": "02febe18123966ec57a650956801b4ec3f023874"
     },
     {
       "path": "repo/games/iwbtg-tribute.json",
@@ -405,7 +417,7 @@
     },
     {
       "path": "repo/games/prosperocraft.json",
-      "sha": "57dab4f2195d45481e137919554d1e607343327f"
+      "sha": "4512d1951ebd20048b6e401b06a33088ab272c52"
     },
     {
       "path": "repo/games/psteroid5.json",
@@ -425,7 +437,7 @@
     },
     {
       "path": "repo/games/resot-sands-of-time.json",
-      "sha": "babda79ac05f27454732edb8cc2e08b43f841b58"
+      "sha": "e2bd2d6fa344829b5a79339a5897b9a8490f19ea"
     },
     {
       "path": "repo/games/rush2recompiled.json",
@@ -449,7 +461,7 @@
     },
     {
       "path": "repo/games/speedbreaker.json",
-      "sha": "6a0af49769d23cdbe43aefcee017afa655195514"
+      "sha": "2e5962734f46fb2613cb3d6fc635dbc267429731"
     },
     {
       "path": "repo/games/spidermanedgeoftime.json",
@@ -517,7 +529,7 @@
     },
     {
       "path": "repo/media/Kodi.json",
-      "sha": "6aaf353b355fef89f0ff7f0d6021ea5045680b4f"
+      "sha": "0988c5bdb42d24b250156f70fe29b2113f342243"
     },
     {
       "path": "repo/media/ProsperoRadio.json",
@@ -537,7 +549,7 @@
     },
     {
       "path": "repo/media/mediaplayerclassic.json",
-      "sha": "949046d84572f495e62d95d77aa4ef61634a7a2d"
+      "sha": "54df9cb7ba565b6bd612c0a5d7bbdb20e8cccc3b"
     },
     {
       "path": "repo/media/mortalfin.json",
@@ -545,7 +557,7 @@
     },
     {
       "path": "repo/media/nuviomaxd.json",
-      "sha": "901da531c426cc090b5297639e43c8b942c80dfd"
+      "sha": "375fea0becf2e6371d447bc89aef42f4efb7c9e1"
     },
     {
       "path": "repo/media/nuviops5.json",
@@ -554,6 +566,10 @@
     {
       "path": "repo/media/olisemusic.json",
       "sha": "f0d826567a135c9144c2fbe2bf71f7e2ea653624"
+    },
+    {
+      "path": "repo/media/prospero-hi-fi.json",
+      "sha": "ce5fe9ede50d8b92811611f2faf9243e4e04c04d"
     },
     {
       "path": "repo/media/prosperotube.json",
@@ -581,7 +597,7 @@
     },
     {
       "path": "repo/media/tubeblock.json",
-      "sha": "5b13056987d6ad009c8e63a18b1c5d78d961c9e9"
+      "sha": "1abbd8af67ada59740b5b84f20c3d485766a3175"
     },
     {
       "path": "repo/media/twispero.json",
@@ -597,7 +613,7 @@
     },
     {
       "path": "repo/media/youtubemaxd.json",
-      "sha": "24a7d1a54ff18c440da1f4125e5dbe5f1ee81da2"
+      "sha": "ecc652b99c35cf70eb3bf0d929e20e6e7372fc9f"
     },
     {
       "path": "repo/tools/Avatar Changer PS5.json",
@@ -629,7 +645,7 @@
     },
     {
       "path": "repo/tools/ProsperoStore.json",
-      "sha": "26c0b464c080b0f2763a441b1364836b92ee9917"
+      "sha": "cce6816b0fca683e2501c5cef6f61124059a12e8"
     },
     {
       "path": "repo/tools/ScreenTester5.json",
@@ -637,7 +653,7 @@
     },
     {
       "path": "repo/tools/alembic.json",
-      "sha": "844063a834e0c6ce5fa8595f611084a62c856579"
+      "sha": "99980d7c83692a5561eb4abe8159f168a973fa8e"
     },
     {
       "path": "repo/tools/artswap.json",
@@ -677,15 +693,15 @@
     },
     {
       "path": "repo/tools/machete-save-game-manager.json",
-      "sha": "4cb99b8c7c4de9a500692c5844c045a8e3978c69"
+      "sha": "5eb50948f425a77c2087131a199e862b9558b9ea"
     },
     {
       "path": "repo/tools/payloader.json",
-      "sha": "5649a40fd7165f8b3d629a79608c68dcb2a0c01f"
+      "sha": "b8a81fafc19b5285af7cba8f7505723ee5f426f0"
     },
     {
       "path": "repo/tools/pkg-folderizer.json",
-      "sha": "2d3d6baf4ae12158131e983274c7db9a225724d7"
+      "sha": "e2939be7e7ba955c512479cada3aca29c1701377"
     },
     {
       "path": "repo/tools/prosperothemes.json",
