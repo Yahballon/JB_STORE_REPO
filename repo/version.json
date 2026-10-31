@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "b135e12f629735b177334f4ae6a0a523435c018044c5df08a15802c1f94bfdc6",
-  "commit": "c4fbfe58b53924a2d2ebe214b72be0c1caf5afb9",
+  "version": "e425dab2321bc9aee91d6abe4d815c38eeccf3209d6a8a3da86bdca28a1fd234",
+  "commit": "41c6bd69e2324d6480f9bdeb02fe5a4638c8c128",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -246,6 +246,10 @@
     {
       "path": "repo/emu/snes9x.json",
       "sha": "39da028dbe9091e7e0b14b84f0d39ca257358bfd"
+    },
+    {
+      "path": "repo/emu/stella-ps5.json",
+      "sha": "d498f442d48eca543fbf3a196240ee07d9b1e55f"
     },
     {
       "path": "repo/emu/xpsemu.json",
