@@ -1,0 +1,18 @@
+{
+  "name": "PS5Library",
+  "git": "https://github.com/rdiol12/PS5Library",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/rdiol12/PS5Library/v0.2.91/frontend/ps5/assets/icon0.png",
+  "description": "Self-hosted game and homebrew library frontend for a jailbroken PS5. The PKG installs the console app; the matching ps5library-agent.elf must be loaded after each reboot. A separately configured Library Server is needed for network library functions; offline mode is limited.",
+  "size_bytes": 72796148,
+  "download_url": "https://github.com/rdiol12/PS5Library/releases/download/v0.2.91/PS5Library-0.2.91.pkg",
+  "title_id": "BREW05001",
+  "version": "0.2.91",
+  "format": "pkg",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/rdiol12/PS5Library",
+  "sha256": "94a26a500ac3cec5000bf8ffa2494e37828c7a579318ccc32dafacdea6884895",
+  "author": "rdiol12",
+  "license": "GPL-3.0-or-later"
+}
