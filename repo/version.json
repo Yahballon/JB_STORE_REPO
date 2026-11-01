@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "11625e28ec1f425de78b98ed7993cf2f6424985c8f90a648be0be83f0fa0e865",
-  "commit": "f5acaf76b0c0f02cb5ed2b14e6bf930df1e934cb",
+  "version": "a3b7ba7a6dd32e80f1f5f75bd5e386df4a1191360214823d1e14bad6b1a307a7",
+  "commit": "61300abd55e13afd2a70da810bd3b60c130d8067",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -94,6 +94,10 @@
     {
       "path": "repo/apps/ps5-micropython.json",
       "sha": "269b58bfadb7757879c38b3983c39f91a1b97cc7"
+    },
+    {
+      "path": "repo/apps/ps5library.json",
+      "sha": "ac9fe35a5a712ea2287ca67539d84f9198c4498f"
     },
     {
       "path": "repo/apps/ps5lm.json",
