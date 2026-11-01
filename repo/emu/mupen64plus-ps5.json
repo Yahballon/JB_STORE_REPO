@@ -1,0 +1,17 @@
+{
+  "name": "Mupen64Plus PS5",
+  "git": "https://github.com/TheRealRetro/mupen64plus-ps5",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/TheRealRetro/mupen64plus-ps5/0.7.5/ps5/app/sce_sys/icon0.png",
+  "description": "Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates",
+  "size_bytes": 22729542,
+  "download_url": "https://github.com/TheRealRetro/mupen64plus-ps5/releases/download/0.7.5/Mupen64PlusPS5.zip",
+  "title_id": "PPSA99064",
+  "version": "0.7.5",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/TheRealRetro/mupen64plus-ps5",
+  "sha256": "4c6d2fab14c696304527bdf3123647fd543b5b91edbec80607833ee9bf25eaaa",
+  "author": "TheRealRetro"
+}
