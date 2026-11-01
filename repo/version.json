@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "3ddd3588596a65a7c6b9a7f749ab68f2196911dfddd1348dac8c021cab62260d",
-  "commit": "6df121ddf51390c74ad228511ce7642b6e0a1f89",
+  "version": "11625e28ec1f425de78b98ed7993cf2f6424985c8f90a648be0be83f0fa0e865",
+  "commit": "f5acaf76b0c0f02cb5ed2b14e6bf930df1e934cb",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -142,6 +142,10 @@
     {
       "path": "repo/apps/tokenstation5.json",
       "sha": "15886bb541b6ab57c479fbc24c57afd4cf933e03"
+    },
+    {
+      "path": "repo/apps/vita5.json",
+      "sha": "98f33a95207ea5623b2cae19b75462b23bb4e44d"
     },
     {
       "path": "repo/emu/PS5GBA.json",
@@ -370,6 +374,10 @@
     {
       "path": "repo/games/gta-sa-ps5.json",
       "sha": "1d9f3b2a224d7870e2cda28343556a07b03ed977"
+    },
+    {
+      "path": "repo/games/gta4-ps5.json",
+      "sha": "414d4a6e996dd2ca3bdba355f37d0e58f1d95c4c"
     },
     {
       "path": "repo/games/halo-ce.json",
@@ -742,6 +750,10 @@
     {
       "path": "repo/tools/ps5vr.json",
       "sha": "7d00a9aa721dc09fd1edd70bd05b1f44ce346f1a"
+    },
+    {
+      "path": "repo/tools/recompstore.json",
+      "sha": "ac60836569d06a867e6504ed1fba6c89bb8aa07e"
     },
     {
       "path": "repo/tools/runescape-launcher.json",
