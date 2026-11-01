@@ -1,0 +1,17 @@
+{
+  "name": "GTA IV PS5 (LibertyRecomp)",
+  "git": "https://github.com/elripalda/gta4-ps5",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/elripalda/gta4-ps5/v1.0.2/ps5/package/sce_sys/icon0.png",
+  "description": "Native PS5 recompilation of GTA IV and Episodes from Liberty City. Requires separately provided, legally obtained Xbox 360 disc/update or episode data; no commercial game data is included. Early experimental port.",
+  "size_bytes": 118061782,
+  "download_url": "https://github.com/elripalda/gta4-ps5/releases/download/v1.0.2/PPSA94004.zip",
+  "title_id": "PPSA94004",
+  "version": "1.0.2",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/elripalda/gta4-ps5",
+  "sha256": "8e6b1ddf52062f51df3928e237e19e4a3696cf7370168854bc08501ce70d886d",
+  "author": "elripalda"
+}
