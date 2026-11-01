@@ -1,0 +1,17 @@
+{
+  "name": "RecompStore",
+  "git": "https://github.com/elripalda/RecompStore",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/elripalda/RecompStore/v2.7.4/app/sce_sys/icon0.png",
+  "description": "Open-source PS5 homebrew store for game recompilations, emulators, apps and tools. Installs native homebrew and manages updates. Requires a jailbroken PS5 and ShadowMountPlus; original game files are not included.",
+  "size_bytes": 25830650,
+  "download_url": "https://github.com/elripalda/RecompStore/releases/download/v2.7.4/PPSA92000.zip",
+  "title_id": "PPSA92000",
+  "version": "2.7.4",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/elripalda/RecompStore",
+  "sha256": "2c7a58ef65d08974cb43a0045388be457b21a1fde3f98d6ecfd77eae6d309601",
+  "author": "elripalda"
+}
