@@ -1,0 +1,17 @@
+{
+  "name": "Infinity Blade III",
+  "git": "https://github.com/ZiZc3/Infinity-Blade-PS5",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/ZiZc3/Infinity-Blade-PS5/dba6ea10785bd13dad0cbc8f5eeab396bce8e1b7/icons/PPSA26381.png",
+  "description": "Infinity Blade III for PS5 at 60 fps with controller support. Needs your own .ipa (1.4.4).",
+  "size_bytes": 61007677,
+  "download_url": "https://github.com/ZiZc3/Infinity-Blade-PS5/releases/download/1.0.0/PPSA26381.-.Infinity.Blade.III.zip",
+  "title_id": "PPSA26381",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/ZiZc3/Infinity-Blade-PS5",
+  "sha256": "3e578cfa18fab36a182c95865548097f471e1b4e6e47f77ac4b2d9883abd9df7",
+  "author": "AZiZ"
+}
