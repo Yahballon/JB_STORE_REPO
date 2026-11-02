@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "a3b7ba7a6dd32e80f1f5f75bd5e386df4a1191360214823d1e14bad6b1a307a7",
-  "commit": "61300abd55e13afd2a70da810bd3b60c130d8067",
+  "version": "2ba4eef6baa156bc68a7be8fa74cf351b8abca7886984b9b12881ee1f7861522",
+  "commit": "7da85af800a23eb7b98fafe618353241d987ca90",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -130,6 +130,10 @@
     {
       "path": "repo/apps/rommps.json",
       "sha": "a9f973b624086e7bd5a7894acc1505c2001f53fe"
+    },
+    {
+      "path": "repo/apps/standby-clock.json",
+      "sha": "2c8c4142f11ace38df90144ad24e8ac2a6cf37af"
     },
     {
       "path": "repo/apps/steamremoteplay.json",
