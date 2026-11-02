@@ -1,0 +1,17 @@
+{
+  "name": "Standby Clock",
+  "git": "https://github.com/Yahballon/PS5_StandbyClock/",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/Yahballon/PS5_StandbyClock/main/assets/logo.webp",
+  "description": "Native PS5 standby-style clock by YAHBALLON with a large digital clock, analog clock, weekly calendar, alarm and snooze, automatic local weather, OLED pixel-shift/dimming, four themes and persistent settings. Built for DualSense; includes optional network weather lookup.",
+  "size_bytes": 9281430,
+  "download_url": "https://github.com/Yahballon/PS5_StandbyClock/releases/download/v0.1.2/PPSA99876.zip",
+  "title_id": "PPSA99876",
+  "version": "0.1.2",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Yahballon/PS5_StandbyClock/releases/tag/v0.1.2",
+  "sha256": "85bccf64c0ea7a36e2911d3a49d7e4a28a83fc9f7b094b9db4382bd232d099c7",
+  "author": "YAHBALLON"
+}
