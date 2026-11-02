@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "ae1b98fa8fbb770e4a3be42b25509fb3e7e894b1ab10e034829c3f1a938ee21d",
-  "commit": "d40f19d219693d01d2aae011514bd5abd21c56fb",
+  "version": "4e9457c52517cbf1618d5f8893617e8d333ed4a6eced03e480ea92dfdd9fd159",
+  "commit": "51a0292c13663beb9b276d798fec387e4be7e4b5",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -53,7 +53,7 @@
     },
     {
       "path": "repo/apps/forwardermanager.json",
-      "sha": "e5830b2612c3569149ba81e33ae12ad6c8f7fbbb"
+      "sha": "d41393fc6d1f51d4335e519e99e3cddbb94d6cd4"
     },
     {
       "path": "repo/apps/machete-ai-studio.json",
@@ -85,7 +85,7 @@
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "9bd8293de42aa5900854439d5ca0b06006d6837c"
+      "sha": "e6b3a0d382d41abb7716abc2cc3ecf12fb803eea"
     },
     {
       "path": "repo/apps/prosperosunshine.json",
