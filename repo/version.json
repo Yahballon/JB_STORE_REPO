@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2ba4eef6baa156bc68a7be8fa74cf351b8abca7886984b9b12881ee1f7861522",
-  "commit": "7da85af800a23eb7b98fafe618353241d987ca90",
+  "version": "0e7067b65e987d90ad032360a1b5b0ccb2503eb8ab67ee8c67376e1ac82cd147",
+  "commit": "5827c08aa25713260aacc83dd040e9d95eef8909",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -90,6 +90,10 @@
     {
       "path": "repo/apps/prosperosunshine.json",
       "sha": "8597fc6c1b8abe1237cc1bc05cfbff997fcff947"
+    },
+    {
+      "path": "repo/apps/prosperoweb.json",
+      "sha": "8262fe284a6fb1eba5437d6a9b5d95632d60aaec"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -380,6 +384,14 @@
       "sha": "4a71c16667bd41b58cfca7a10f3588b237797692"
     },
     {
+      "path": "repo/games/getsu-raider.json",
+      "sha": "7c4fe5b2684c2608983ea682504fcffa2f5bda26"
+    },
+    {
+      "path": "repo/games/getsu-sotf.json",
+      "sha": "a40e8798bcd4f731339d0b98ba201b7a4f92d0f0"
+    },
+    {
       "path": "repo/games/gta-sa-ps5.json",
       "sha": "1d9f3b2a224d7870e2cda28343556a07b03ed977"
     },
@@ -390,6 +402,18 @@
     {
       "path": "repo/games/halo-ce.json",
       "sha": "eb4cead811fbff95d6b1a4ddd015ea6c063d7682"
+    },
+    {
+      "path": "repo/games/infinity-blade-2.json",
+      "sha": "2b08d60a257025b9c0e88fc19f2a8b4a712e5640"
+    },
+    {
+      "path": "repo/games/infinity-blade-3.json",
+      "sha": "7bcf047422755bf654a0174cf98f0a156f85663a"
+    },
+    {
+      "path": "repo/games/infinity-blade.json",
+      "sha": "ff598993b93f584893e13a72dc2990bfc174ba26"
     },
     {
       "path": "repo/games/iwbtg-tribute.json",
@@ -406,6 +430,10 @@
     {
       "path": "repo/games/linksawakening.json",
       "sha": "a0476627b0423b0bd51683b142020e8cd9d1ed84"
+    },
+    {
+      "path": "repo/games/lost-odyssey.json",
+      "sha": "8da7a1393a2a731606dde9bd978ac6c5389dfd21"
     },
     {
       "path": "repo/games/mario64.json",
@@ -438,6 +466,14 @@
     {
       "path": "repo/games/openrct2.json",
       "sha": "ad824008009074a6277709f6e853383e3408c9b6"
+    },
+    {
+      "path": "repo/games/phazonprime.json",
+      "sha": "2781af5701ee19015ee4bd61766860d0b65c8b97"
+    },
+    {
+      "path": "repo/games/pixel-museum.json",
+      "sha": "386f622565afbef1ea69e88683ed89775fd54813"
     },
     {
       "path": "repo/games/prosperocraft.json",
@@ -474,6 +510,14 @@
     {
       "path": "repo/games/sahin.json",
       "sha": "0786e7107fab7bdf07bff21beacfaf6cf876d508"
+    },
+    {
+      "path": "repo/games/second-coat-london.json",
+      "sha": "0e7189e581830f42a3e77cb2143102b656a80c6d"
+    },
+    {
+      "path": "repo/games/shining-force-iii.json",
+      "sha": "2855faaa8551138506cee5b774e5752b74457c68"
     },
     {
       "path": "repo/games/shipofharkinian.json",
@@ -542,6 +586,10 @@
     {
       "path": "repo/games/xashps5.json",
       "sha": "c117d89475c7c6c9356c4a937cd89080768f01fe"
+    },
+    {
+      "path": "repo/games/xerenge-burnout-revenge.json",
+      "sha": "bfb575c4578512db795a01adbc7a39334cd087ec"
     },
     {
       "path": "repo/media/EVOPlayer.json",
@@ -730,6 +778,10 @@
     {
       "path": "repo/tools/machete-save-game-manager.json",
       "sha": "d60bf14ab4df00fc020b6e57d3b39cfa635e2b84"
+    },
+    {
+      "path": "repo/tools/mkwii-retro-rewind-patcher.json",
+      "sha": "bc3cc33c763f10e07fad81c2133b3dcb87de496b"
     },
     {
       "path": "repo/tools/payloader.json",
