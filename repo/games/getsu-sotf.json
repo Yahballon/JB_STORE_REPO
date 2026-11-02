@@ -1,0 +1,17 @@
+{
+  "name": "GETSU SOTF",
+  "git": "https://github.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew/v0.1.0-beta/source/sce_sys/icon0.png",
+  "description": "Sons of the Forest for PS5 with a bundled Prospero Win runtime and GETSU memory fixes; supply your own Steam copy of the game; tested at 1080p, Low preset, 30 fps.",
+  "size_bytes": 329422650,
+  "download_url": "https://github.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew/releases/download/v0.1.0-beta/GETSU-SOTF-PPSA99605.zip",
+  "title_id": "PPSA99605",
+  "version": "0.1.0-beta",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew",
+  "sha256": "04d2ddd00d7147dd801f6fad15104fe3b14649bf4c29f196d77d49f55970328c",
+  "author": "CHI-GETSU"
+}
