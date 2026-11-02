@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "b36f26b581e8ba0e435b3ff6ad7179b24fb8218c0d63cf869765828dc7360b67",
-  "commit": "d1b67021fc7e4f406f7a922571d097c0db1ae0ce",
+  "version": "2f8f7a96cbe2a9413348ce108004a586005b50247893f3c186b5e54d01ddb3a8",
+  "commit": "4c6d99a9a0165214ecd43945fbca26ff363dcff4",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -213,7 +213,7 @@
     },
     {
       "path": "repo/emu/crux2.json",
-      "sha": "2dba6104ab8b4f123ce7d191a594e977aebdbd7c"
+      "sha": "95bd6a2431765c0bb9a3c1058111689125f2e4c6"
     },
     {
       "path": "repo/emu/dreamxcast.json",
@@ -317,7 +317,7 @@
     },
     {
       "path": "repo/games/apricotgs.json",
-      "sha": "38fa1680ace9bf42a934582b225b12ec416c8e49"
+      "sha": "5a9cd27951b93cd8639027dd5f50fde1aa96fc18"
     },
     {
       "path": "repo/games/bedlam2.json",
@@ -641,7 +641,7 @@
     },
     {
       "path": "repo/media/nuviomaxd.json",
-      "sha": "375fea0becf2e6371d447bc89aef42f4efb7c9e1"
+      "sha": "cd76c8680565a3e687261b814230ae9530477a74"
     },
     {
       "path": "repo/media/nuviops5.json",
@@ -653,7 +653,7 @@
     },
     {
       "path": "repo/media/prospero-hi-fi.json",
-      "sha": "bc26768264a73308191d5864a9eb91623bce30d3"
+      "sha": "9252f8c5ad0f5a949f138c0e37c6b16ba621e8ab"
     },
     {
       "path": "repo/media/prosperotube.json",
