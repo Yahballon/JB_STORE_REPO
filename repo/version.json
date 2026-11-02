@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "dcc3d37d6c61a8b6c67f3c8fec397bc944ff8ba6d1f05d8efe9f587599278716",
-  "commit": "27118f33ffffa347e5df26e52549432886cefcb9",
+  "version": "b36f26b581e8ba0e435b3ff6ad7179b24fb8218c0d63cf869765828dc7360b67",
+  "commit": "d1b67021fc7e4f406f7a922571d097c0db1ae0ce",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -61,7 +61,7 @@
     },
     {
       "path": "repo/apps/mihawkos.json",
-      "sha": "da5ef1a869e8da3a46b83a6e731b367f09f3f8a6"
+      "sha": "333fec67c302101438c85910547a3e2e726ab305"
     },
     {
       "path": "repo/apps/opennowps5.json",
@@ -249,7 +249,7 @@
     },
     {
       "path": "repo/emu/psflycast.json",
-      "sha": "a7483ae682478c0410797c3e78a6a146daf67779"
+      "sha": "294c4c430a7f905e8329ad2f6ff02c7e60acd044"
     },
     {
       "path": "repo/emu/psp5.json",
@@ -257,7 +257,7 @@
     },
     {
       "path": "repo/emu/psswanstation.json",
-      "sha": "2fbb758cca98a21138e347c15575c2bfeccbdd1a"
+      "sha": "ef44d409738a6cc87f205c6dc73d653e2ef2d4a7"
     },
     {
       "path": "repo/emu/psxs5.json",
@@ -789,7 +789,7 @@
     },
     {
       "path": "repo/tools/pkg-folderizer.json",
-      "sha": "e2939be7e7ba955c512479cada3aca29c1701377"
+      "sha": "056a2853dd9c5a81c758e4ab7c09834a6b5c43ac"
     },
     {
       "path": "repo/tools/prosperothemes.json",
