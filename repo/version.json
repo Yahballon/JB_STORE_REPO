@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "4e9457c52517cbf1618d5f8893617e8d333ed4a6eced03e480ea92dfdd9fd159",
-  "commit": "51a0292c13663beb9b276d798fec387e4be7e4b5",
+  "version": "2e639b86081e119ba7ab41f262a371b1e8bbf344cff1ded289435eab45b7c1b8",
+  "commit": "00f0b66e2990fdb487aa6806280ebfeb78320e71",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -402,6 +402,46 @@
     {
       "path": "repo/games/halo-ce.json",
       "sha": "eb4cead811fbff95d6b1a4ddd015ea6c063d7682"
+    },
+    {
+      "path": "repo/games/hydroid-crossy-road.json",
+      "sha": "6dd805ee93ffd97ff89af97aa1a4685213850167"
+    },
+    {
+      "path": "repo/games/hydroid-cut-the-rope.json",
+      "sha": "aca1cd300fa0096c077bec5c0f8cc3b679cbd313"
+    },
+    {
+      "path": "repo/games/hydroid-fruit-ninja.json",
+      "sha": "0eecb610f76f14d3fbeb659d003aec4b46cff328"
+    },
+    {
+      "path": "repo/games/hydroid-geometry-dash-lite.json",
+      "sha": "363321b36d5449672de4929f87e4246b59a0a6eb"
+    },
+    {
+      "path": "repo/games/hydroid-jetpack-joyride.json",
+      "sha": "6e3aeead3e8d31a032304f754ec7ce8963e30431"
+    },
+    {
+      "path": "repo/games/hydroid-shadow-fight-2.json",
+      "sha": "0e9c2d75f7adca8a35b6e7dc52f8679cc552cd19"
+    },
+    {
+      "path": "repo/games/hydroid-sonic-boom.json",
+      "sha": "acb8d4992f2a17c87c26c5dd66ba3d98eb334bd1"
+    },
+    {
+      "path": "repo/games/hydroid-sonic-dash.json",
+      "sha": "7fd0a6198a5badbcb1e06fb4e9ce4d80ef27c988"
+    },
+    {
+      "path": "repo/games/hydroid-subway-surfers.json",
+      "sha": "b8412fe4c9f43aab3654e9409b275acd8d1d52e3"
+    },
+    {
+      "path": "repo/games/hydroid-temple-run-2.json",
+      "sha": "3f2cd8778e6cda87b3c83f4068f732c08c4b8247"
     },
     {
       "path": "repo/games/infinity-blade-2.json",
