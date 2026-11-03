@@ -1,0 +1,17 @@
+{
+  "name": "Crossy Road (Hydroid)",
+  "git": "https://github.com/ZiZc3/Hydroid",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/ZiZc3/Hydroid/main/games/crossy-road/icon0.png",
+  "description": "Hydroid PS5 port of Crossy Road. Uses an ARM64 Android compatibility runtime. Original game files may be required; see developer instructions.",
+  "size_bytes": 53726010,
+  "download_url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26372.-.Crossy.Road.zip",
+  "title_id": "PPSA26372",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/ZiZc3/Hydroid/releases/tag/1.0.0",
+  "sha256": "1dd06944335f53f9c1a0130be8a38133fe6ec8618d40c83492294c6dfdccfe3e",
+  "author": "ZiZc3"
+}

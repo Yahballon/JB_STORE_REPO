@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "4e9457c52517cbf1618d5f8893617e8d333ed4a6eced03e480ea92dfdd9fd159",
-  "commit": "51a0292c13663beb9b276d798fec387e4be7e4b5",
+  "version": "6605d9f87a2af0278049b5621006c811cc7dfe896d919da5296579db93dfc15c",
+  "commit": "c619549f68397cfe347487c2a8bc6a316f82120c",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -61,7 +61,7 @@
     },
     {
       "path": "repo/apps/mihawkos.json",
-      "sha": "333fec67c302101438c85910547a3e2e726ab305"
+      "sha": "4689c20afeccd7e361e8946c0b407844a05980fb"
     },
     {
       "path": "repo/apps/opennowps5.json",
@@ -69,7 +69,7 @@
     },
     {
       "path": "repo/apps/orion-media-center.json",
-      "sha": "4793055d69608fe19a4fc379d6c05fc640147666"
+      "sha": "7eb2ca94adf8d2be4d476182ec77d5e950a39908"
     },
     {
       "path": "repo/apps/payloadlauncherx.json",
@@ -77,7 +77,7 @@
     },
     {
       "path": "repo/apps/pc5.json",
-      "sha": "38166baa780dcbbf42d6d300b865e513b2d33162"
+      "sha": "2ab1a3041adcd9bde234c20bafc12b52767eca34"
     },
     {
       "path": "repo/apps/photo-splat-vr.json",
@@ -85,15 +85,15 @@
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "e6b3a0d382d41abb7716abc2cc3ecf12fb803eea"
+      "sha": "635d7e76b54313edc62ece2e94bb26d95dbcdec4"
     },
     {
       "path": "repo/apps/prosperosunshine.json",
-      "sha": "27b6a436ef77f7f7bc97e74de3142491bb696e12"
+      "sha": "8f5d8f5ca432b07fdd154e4ea1cfb65cf1582059"
     },
     {
       "path": "repo/apps/prosperoweb.json",
-      "sha": "8262fe284a6fb1eba5437d6a9b5d95632d60aaec"
+      "sha": "56acfc1cb25b0f81654d30d89aceebc9d4df2a63"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -105,7 +105,7 @@
     },
     {
       "path": "repo/apps/ps5lm.json",
-      "sha": "fc83cf124cb56ff1a2fe61fa12c120503722a034"
+      "sha": "eaa5830d478c3d52b48aa2e51b9b187630717a6f"
     },
     {
       "path": "repo/apps/ps5lmplus.json",
@@ -401,7 +401,47 @@
     },
     {
       "path": "repo/games/halo-ce.json",
-      "sha": "eb4cead811fbff95d6b1a4ddd015ea6c063d7682"
+      "sha": "4f5db8835f61effd695f7e7d6ff6b985ee02267c"
+    },
+    {
+      "path": "repo/games/hydroid-crossy-road.json",
+      "sha": "6dd805ee93ffd97ff89af97aa1a4685213850167"
+    },
+    {
+      "path": "repo/games/hydroid-cut-the-rope.json",
+      "sha": "aca1cd300fa0096c077bec5c0f8cc3b679cbd313"
+    },
+    {
+      "path": "repo/games/hydroid-fruit-ninja.json",
+      "sha": "0eecb610f76f14d3fbeb659d003aec4b46cff328"
+    },
+    {
+      "path": "repo/games/hydroid-geometry-dash-lite.json",
+      "sha": "363321b36d5449672de4929f87e4246b59a0a6eb"
+    },
+    {
+      "path": "repo/games/hydroid-jetpack-joyride.json",
+      "sha": "6e3aeead3e8d31a032304f754ec7ce8963e30431"
+    },
+    {
+      "path": "repo/games/hydroid-shadow-fight-2.json",
+      "sha": "0e9c2d75f7adca8a35b6e7dc52f8679cc552cd19"
+    },
+    {
+      "path": "repo/games/hydroid-sonic-boom.json",
+      "sha": "acb8d4992f2a17c87c26c5dd66ba3d98eb334bd1"
+    },
+    {
+      "path": "repo/games/hydroid-sonic-dash.json",
+      "sha": "7fd0a6198a5badbcb1e06fb4e9ce4d80ef27c988"
+    },
+    {
+      "path": "repo/games/hydroid-subway-surfers.json",
+      "sha": "b8412fe4c9f43aab3654e9409b275acd8d1d52e3"
+    },
+    {
+      "path": "repo/games/hydroid-temple-run-2.json",
+      "sha": "3f2cd8778e6cda87b3c83f4068f732c08c4b8247"
     },
     {
       "path": "repo/games/infinity-blade-2.json",
@@ -473,7 +513,7 @@
     },
     {
       "path": "repo/games/pixel-museum.json",
-      "sha": "386f622565afbef1ea69e88683ed89775fd54813"
+      "sha": "a4d37d238cd5799556dd5e83206b75d08c2e7f56"
     },
     {
       "path": "repo/games/prosperocraft.json",
@@ -501,7 +541,7 @@
     },
     {
       "path": "repo/games/reundr.json",
-      "sha": "989021cf09b203fb733179fdfe4d73a9a40a6088"
+      "sha": "9d0ec22ee4caa2ce9922330bab690ed9a861e4e2"
     },
     {
       "path": "repo/games/rush2recompiled.json",
@@ -513,7 +553,7 @@
     },
     {
       "path": "repo/games/second-coat-london.json",
-      "sha": "0e7189e581830f42a3e77cb2143102b656a80c6d"
+      "sha": "780e91fe0f1f55a3a11a33844f2a84f613124fa8"
     },
     {
       "path": "repo/games/shining-force-iii.json",
@@ -589,7 +629,7 @@
     },
     {
       "path": "repo/games/xerenge-burnout-revenge.json",
-      "sha": "bfb575c4578512db795a01adbc7a39334cd087ec"
+      "sha": "c54b36c11e3a01d565cadec161b2dfd94c57fd6d"
     },
     {
       "path": "repo/media/EVOPlayer.json",
@@ -597,7 +637,7 @@
     },
     {
       "path": "repo/media/Emby5.json",
-      "sha": "329066119f51dbe028ed1e9c9bb24ae1b5f2ea2b"
+      "sha": "9d96d488d0d5730da295f2c288dfb986e9878db5"
     },
     {
       "path": "repo/media/Jelly5.json",
@@ -629,7 +669,7 @@
     },
     {
       "path": "repo/media/mediathek.json",
-      "sha": "614d87e5794133679e5b990cc1b297dfae73ab5a"
+      "sha": "3268d5519146b6ad893f6c25d51de394520911c0"
     },
     {
       "path": "repo/media/mortalfin.json",
@@ -653,7 +693,7 @@
     },
     {
       "path": "repo/media/prospero-hi-fi.json",
-      "sha": "9252f8c5ad0f5a949f138c0e37c6b16ba621e8ab"
+      "sha": "76ab94d92cffb85d7ac9c219aee9ad5f8af1b344"
     },
     {
       "path": "repo/media/prosperotube.json",
@@ -673,7 +713,7 @@
     },
     {
       "path": "repo/media/stremioplus.json",
-      "sha": "788812f250b57f7fb5a1766f388d88fa2fc92a8b"
+      "sha": "fc6fc99eb9c8a452c8cc191896322e7b17445eef"
     },
     {
       "path": "repo/media/symphonystation5.json",
@@ -681,7 +721,7 @@
     },
     {
       "path": "repo/media/tubeblock.json",
-      "sha": "1abbd8af67ada59740b5b84f20c3d485766a3175"
+      "sha": "7c1fd246f117786b6ff7bf2a705c24a2fc80249b"
     },
     {
       "path": "repo/media/twispero.json",
@@ -737,7 +777,7 @@
     },
     {
       "path": "repo/tools/alembic.json",
-      "sha": "9069a0df71b471677a30a26f1c6b57d78e04ff07"
+      "sha": "a7e2344ea45f45f155a7febee280bb2f0e733ec7"
     },
     {
       "path": "repo/tools/artswap.json",
@@ -781,7 +821,7 @@
     },
     {
       "path": "repo/tools/mkwii-retro-rewind-patcher.json",
-      "sha": "bc3cc33c763f10e07fad81c2133b3dcb87de496b"
+      "sha": "d86706bf2020313547ff91e9ec65c9e5521cc2f5"
     },
     {
       "path": "repo/tools/payloader.json",
@@ -789,7 +829,7 @@
     },
     {
       "path": "repo/tools/pkg-folderizer.json",
-      "sha": "056a2853dd9c5a81c758e4ab7c09834a6b5c43ac"
+      "sha": "58cadf56e5a6cf6b5f7c56f1c28daf91214df87a"
     },
     {
       "path": "repo/tools/prosperothemes.json",

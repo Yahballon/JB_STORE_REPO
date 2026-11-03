@@ -1,0 +1,17 @@
+{
+  "name": "Cut the Rope (Hydroid)",
+  "git": "https://github.com/ZiZc3/Hydroid",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/ZiZc3/Hydroid/main/games/cut-the-rope/icon0.png",
+  "description": "Hydroid PS5 port of Cut the Rope. Uses an ARM64 Android compatibility runtime. Original game files may be required; see developer instructions.",
+  "size_bytes": 59047395,
+  "download_url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26385.-.Cut.the.Rope.zip",
+  "title_id": "PPSA26385",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/ZiZc3/Hydroid/releases/tag/1.0.0",
+  "sha256": "152184adcec6cb5780146e43d88607eb27cc65259b0a6e758fb73c7dce86e101",
+  "author": "ZiZc3"
+}
