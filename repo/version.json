@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "62226485eb3ecaf03f0f7268a4f9e51f652785ac8adce39a2d532ab94cc1f7cf",
-  "commit": "623d22065eb61fa8ed6f8f1f269f616212ba8466",
+  "version": "6605d9f87a2af0278049b5621006c811cc7dfe896d919da5296579db93dfc15c",
+  "commit": "c619549f68397cfe347487c2a8bc6a316f82120c",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -85,7 +85,7 @@
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "e6b3a0d382d41abb7716abc2cc3ecf12fb803eea"
+      "sha": "635d7e76b54313edc62ece2e94bb26d95dbcdec4"
     },
     {
       "path": "repo/apps/prosperosunshine.json",
@@ -93,7 +93,7 @@
     },
     {
       "path": "repo/apps/prosperoweb.json",
-      "sha": "8262fe284a6fb1eba5437d6a9b5d95632d60aaec"
+      "sha": "56acfc1cb25b0f81654d30d89aceebc9d4df2a63"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -713,7 +713,7 @@
     },
     {
       "path": "repo/media/stremioplus.json",
-      "sha": "788812f250b57f7fb5a1766f388d88fa2fc92a8b"
+      "sha": "fc6fc99eb9c8a452c8cc191896322e7b17445eef"
     },
     {
       "path": "repo/media/symphonystation5.json",
@@ -777,7 +777,7 @@
     },
     {
       "path": "repo/tools/alembic.json",
-      "sha": "9069a0df71b471677a30a26f1c6b57d78e04ff07"
+      "sha": "a7e2344ea45f45f155a7febee280bb2f0e733ec7"
     },
     {
       "path": "repo/tools/artswap.json",
