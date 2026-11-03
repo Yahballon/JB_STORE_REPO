@@ -1,0 +1,17 @@
+{
+  "name": "Subway Surfers (Hydroid)",
+  "git": "https://github.com/ZiZc3/Hydroid",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/ZiZc3/Hydroid/main/games/subway-surfers/icon0.png",
+  "description": "Hydroid PS5 port of Subway Surfers. Uses an ARM64 Android compatibility runtime. Original game files may be required; see developer instructions.",
+  "size_bytes": 63268222,
+  "download_url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26370.-.Subway.Surfers.v2.zip",
+  "title_id": "PPSA26370",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/ZiZc3/Hydroid/releases/tag/1.0.0",
+  "sha256": "9ebec59650e915a98a0ce83ee5466edce29dd805a8700c176ca44020ed7955d8",
+  "author": "ZiZc3"
+}
