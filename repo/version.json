@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "320eb06d5d26e9d35533e5979501acd38cb864cb1b1a96c840ac1ed2dc6e6789",
-  "commit": "a2732299c3545c792794fd629818757f9c420b6a",
+  "version": "3debe0a1164ef7d5561229efdb64d274cac2e9550cb8b33a3fc7a2979b801f46",
+  "commit": "8b9d33c3bae4ec5f0b63f461352196f37ac3f447",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -236,6 +236,10 @@
       "sha": "d8aff3d7f8b4c12612bdda4796c07c431a95d529"
     },
     {
+      "path": "repo/emu/ogbox.json",
+      "sha": "ca476da67a31d30028a8ffdd1d13b409fc1b701d"
+    },
+    {
       "path": "repo/emu/pico8.json",
       "sha": "8d192a0fba3bc1788b041e7aa0cf4e8290eaa069"
     },
@@ -322,6 +326,10 @@
     {
       "path": "repo/games/bedlam2.json",
       "sha": "4a294cbbf525928b7b47cdf2826a4d441d8c1861"
+    },
+    {
+      "path": "repo/games/blue-dragon.json",
+      "sha": "afc0c6e130a1848bda915bff3ec752a7b49deb55"
     },
     {
       "path": "repo/games/burnout3.json",
