@@ -1,0 +1,17 @@
+{
+  "name": "OGBox",
+  "git": "https://github.com/Press5elect/OGBox",
+  "type": "emu",
+  "cover_image": "https://raw.githubusercontent.com/Press5elect/OGBox/v0.0.3/ps5/sce_sys/icon0.png",
+  "description": "XBOX emulator for PS5",
+  "size_bytes": 14077113,
+  "download_url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.3/OGBox-v0.0.3.zip",
+  "title_id": "PPSA99251",
+  "version": "0.0.3",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Press5elect/OGBox",
+  "sha256": "2965821a8bc8c5f7acfaffc1ecc1f2033405aa3f409a0d3d173b2c4accd4a799",
+  "author": "Press5elect"
+}
