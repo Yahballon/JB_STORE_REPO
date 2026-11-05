@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "60e8fda41a69d551c0532ea53874f3ac3d56d11e70fe7970105c9c61bfd9a05c",
-  "commit": "ae1e240dc488ed4b14d927a70b0924c4da3cd86c",
+  "version": "c1d6a24b520a5ec864a305df25bd6fdce99a7d08731b8ac5d4d8dcff0473ef3d",
+  "commit": "aa4b7139fa060f52cb049c5f4fc99437a07af373",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -218,6 +218,10 @@
     {
       "path": "repo/emu/dreamxcast.json",
       "sha": "af4dbe1d454112085e29753c2281ca8362ff4c16"
+    },
+    {
+      "path": "repo/emu/eglantineps5.json",
+      "sha": "790d62fe215a1a2454079915a989969c97d577dd"
     },
     {
       "path": "repo/emu/fbneo.json",
