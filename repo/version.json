@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "c60eebc0edbb469418c5c8bc5ae4bbb376ecaacf45dd72e6cb53c0fb31fbb2ea",
-  "commit": "15f4ddcba9182cb9581c4d22253e993360bae344",
+  "version": "60e8fda41a69d551c0532ea53874f3ac3d56d11e70fe7970105c9c61bfd9a05c",
+  "commit": "ae1e240dc488ed4b14d927a70b0924c4da3cd86c",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -17,7 +17,7 @@
     },
     {
       "path": "repo/apps/PSBoxCloudGaming.json",
-      "sha": "2fb2d9bc495064f11f629be7685a7872ea2ae12c"
+      "sha": "464e89edbcdcd1335579feadc59207514a590d1f"
     },
     {
       "path": "repo/apps/ProsperoAI.json",
@@ -181,7 +181,7 @@
     },
     {
       "path": "repo/emu/PS5SX2.json",
-      "sha": "fcfeaad32cb3d3b9c4390c0d1c6bc5643c3648ae"
+      "sha": "d5830c369d0cf3f885714db9bdd172f0e124b0f4"
     },
     {
       "path": "repo/emu/PS5X360.json",
@@ -221,7 +221,7 @@
     },
     {
       "path": "repo/emu/fbneo.json",
-      "sha": "8acdbf3f77296f9852241e15f43832e7495ff907"
+      "sha": "bc6f25a2923d4493c0a52cc8e693f3557fd2f11f"
     },
     {
       "path": "repo/emu/forgenx.json",
