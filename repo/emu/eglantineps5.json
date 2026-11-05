@@ -1,0 +1,17 @@
+{
+  "name": "EglantinePS5",
+  "git": "https://github.com/heydemoura/EglantinePS5",
+  "type": "emu",
+  "cover_image": "https://raw.githubusercontent.com/heydemoura/EglantinePS5/main/sce_sys/icon0.png",
+  "description": "Experimental Nintendo Switch / Switch 2-capable Eglantine (Eden fork) emulator port for PS5. Requires your own legally obtained keys, firmware and games. This ZIP is an unofficial build published by the independent mucahidkambur fork; upstream heydemoura/EglantinePS5 has no GitHub release yet. Compatibility varies.",
+  "size_bytes": 36229881,
+  "download_url": "https://github.com/mucahidkambur/EglantinePS5/releases/download/v1.000.000/EglantinePS5-v1.000.000.zip",
+  "title_id": "PPSA98515",
+  "version": "1.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/mucahidkambur/EglantinePS5/releases/tag/v1.000.000",
+  "sha256": "a5cb5fadc05519083da66b66fab347d3c29e8c429a9d67b6d3d6bd9781b02da0",
+  "author": "heydemoura / community fork build by mucahidkambur"
+}
