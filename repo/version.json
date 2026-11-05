@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "320eb06d5d26e9d35533e5979501acd38cb864cb1b1a96c840ac1ed2dc6e6789",
-  "commit": "a2732299c3545c792794fd629818757f9c420b6a",
+  "version": "60e8fda41a69d551c0532ea53874f3ac3d56d11e70fe7970105c9c61bfd9a05c",
+  "commit": "ae1e240dc488ed4b14d927a70b0924c4da3cd86c",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -17,7 +17,7 @@
     },
     {
       "path": "repo/apps/PSBoxCloudGaming.json",
-      "sha": "2fb2d9bc495064f11f629be7685a7872ea2ae12c"
+      "sha": "464e89edbcdcd1335579feadc59207514a590d1f"
     },
     {
       "path": "repo/apps/ProsperoAI.json",
@@ -77,7 +77,7 @@
     },
     {
       "path": "repo/apps/pc5.json",
-      "sha": "3957a3c137fddf1d9ca603dee1e08d00ef0320f2"
+      "sha": "21bd095a88fade10fda3ea123c2345faeb983fa2"
     },
     {
       "path": "repo/apps/photo-splat-vr.json",
@@ -85,11 +85,11 @@
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "635d7e76b54313edc62ece2e94bb26d95dbcdec4"
+      "sha": "712ea02e2afe38a891758df91db05326a40387c8"
     },
     {
       "path": "repo/apps/prosperosunshine.json",
-      "sha": "56d9b44a567bff4a145174c94d08a6f3609fc4ff"
+      "sha": "42dc676ecf6306ef576d9106f1f80e3feb0a5c54"
     },
     {
       "path": "repo/apps/prosperoweb.json",
@@ -181,7 +181,7 @@
     },
     {
       "path": "repo/emu/PS5SX2.json",
-      "sha": "fcfeaad32cb3d3b9c4390c0d1c6bc5643c3648ae"
+      "sha": "d5830c369d0cf3f885714db9bdd172f0e124b0f4"
     },
     {
       "path": "repo/emu/PS5X360.json",
@@ -221,7 +221,7 @@
     },
     {
       "path": "repo/emu/fbneo.json",
-      "sha": "8acdbf3f77296f9852241e15f43832e7495ff907"
+      "sha": "bc6f25a2923d4493c0a52cc8e693f3557fd2f11f"
     },
     {
       "path": "repo/emu/forgenx.json",
@@ -234,6 +234,10 @@
     {
       "path": "repo/emu/mupen64plus-ps5.json",
       "sha": "d8aff3d7f8b4c12612bdda4796c07c431a95d529"
+    },
+    {
+      "path": "repo/emu/ogbox.json",
+      "sha": "ca476da67a31d30028a8ffdd1d13b409fc1b701d"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -322,6 +326,10 @@
     {
       "path": "repo/games/bedlam2.json",
       "sha": "4a294cbbf525928b7b47cdf2826a4d441d8c1861"
+    },
+    {
+      "path": "repo/games/blue-dragon.json",
+      "sha": "afc0c6e130a1848bda915bff3ec752a7b49deb55"
     },
     {
       "path": "repo/games/burnout3.json",
@@ -513,7 +521,7 @@
     },
     {
       "path": "repo/games/parasite-eve.json",
-      "sha": "e59f2bad63a3118d7c4e1a7088a670343008f86a"
+      "sha": "04ddbe349ae5c7fc15c3a00fd44975deeb89234d"
     },
     {
       "path": "repo/games/phazonprime.json",
@@ -681,7 +689,7 @@
     },
     {
       "path": "repo/media/mediathek.json",
-      "sha": "78ae2dfe0f0e9d6d0a8aefd9048ad15d37aedd74"
+      "sha": "ae9643739d01fdc67be05609283c8556c2304954"
     },
     {
       "path": "repo/media/mortalfin.json",
@@ -733,7 +741,7 @@
     },
     {
       "path": "repo/media/tubeblock.json",
-      "sha": "16c636e764fdcbd3fe94c75d65189b826ea45a6e"
+      "sha": "240c15690b4ccc305296a6f07ebb1b797721a00a"
     },
     {
       "path": "repo/media/twispero.json",
