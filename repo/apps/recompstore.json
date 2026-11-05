@@ -1,0 +1,17 @@
+{
+  "name": "RecompStore",
+  "git": "https://github.com/elripalda/RecompStore",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/elripalda/RecompStore/v2.7.4/app/sce_sys/icon0.png",
+  "description": "RecompStore: the free homebrew app store for jailbroken PS5. Installs and updates recompiled game ports, emulators, apps and tools from the console. Bring your own disc.",
+  "size_bytes": 25830650,
+  "download_url": "https://github.com/elripalda/RecompStore/releases/download/v2.7.4/PPSA92000.zip",
+  "title_id": "PPSA92000",
+  "version": "2.7.4",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/elripalda/RecompStore",
+  "sha256": "2c7a58ef65d08974cb43a0045388be457b21a1fde3f98d6ecfd77eae6d309601",
+  "author": "Ripalda"
+}
