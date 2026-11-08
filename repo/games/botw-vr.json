@@ -1,0 +1,17 @@
+{
+  "name": "Breath of the Wild VR",
+  "git": "https://github.com/Papyszoo/botw-bettervr-ps5",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/Papyszoo/botw-bettervr-ps5/v0.1.1/sce_sys/icon0.png",
+  "description": "Plays your own Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR mod in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).",
+  "size_bytes": 45443380,
+  "download_url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.1.1/BotW-VR-v0.1.1.zip",
+  "title_id": "PPSA98720",
+  "version": "0.1.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Papyszoo/botw-bettervr-ps5",
+  "sha256": "8130bd87df4f8fd9ecf0b900b419b69c97b0a71abf0ea51c26eae172b7fa39d3",
+  "author": "Papyszoo"
+}

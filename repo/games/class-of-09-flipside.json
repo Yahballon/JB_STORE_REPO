@@ -1,0 +1,17 @@
+{
+  "name": "Class of '09: The Flip Side",
+  "git": "https://github.com/dannyboyjaros/ps5classof09theflipside",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/dannyboyjaros/ps5classof09theflipside/16d6b518e9c0f17388fd4ebaa6439dac2c788d80/sce_sys/icon0.png",
+  "description": "Unofficial PS5 homebrew runtime for Class of '09: The Flip Side (PPSA09011)",
+  "size_bytes": 1301412,
+  "download_url": "https://github.com/dannyboyjaros/ps5classof09theflipside/releases/download/v1.0.1/PPSA09011.zip",
+  "title_id": "PPSA09011",
+  "version": "1.0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/dannyboyjaros/ps5classof09theflipside",
+  "sha256": "27a5f02f0048763a56ad747fd2ba969a03df179d270e3b9a128f5af7e00a5534",
+  "author": "dannyboyjaros"
+}

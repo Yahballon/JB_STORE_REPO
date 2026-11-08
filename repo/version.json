@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "c1d6a24b520a5ec864a305df25bd6fdce99a7d08731b8ac5d4d8dcff0473ef3d",
-  "commit": "aa4b7139fa060f52cb049c5f4fc99437a07af373",
+  "version": "86f8423b3594974252c7cbdf93275b21ed07865080655164ba6b973ba13f5ebd",
+  "commit": "77c79939709a02c9f74014fef54b1baef049d64d",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -77,23 +77,27 @@
     },
     {
       "path": "repo/apps/pc5.json",
-      "sha": "21bd095a88fade10fda3ea123c2345faeb983fa2"
+      "sha": "0f071cd9b5f9c1a7a3b40a01907e8d07154dfe77"
     },
     {
       "path": "repo/apps/photo-splat-vr.json",
-      "sha": "14b1fedc8d9da467873d26eb299c47fd82500d74"
+      "sha": "40558b026d4f707b1baeb572d78870e2d623b205"
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "712ea02e2afe38a891758df91db05326a40387c8"
+      "sha": "81d29971eb3db902619d1cf7bf2f504a404e4f70"
     },
     {
       "path": "repo/apps/prosperosunshine.json",
-      "sha": "42dc676ecf6306ef576d9106f1f80e3feb0a5c54"
+      "sha": "1e41196f3da922236a1cef4bc0c53787c0006c73"
     },
     {
       "path": "repo/apps/prosperoweb.json",
       "sha": "56acfc1cb25b0f81654d30d89aceebc9d4df2a63"
+    },
+    {
+      "path": "repo/apps/ps5-browser.json",
+      "sha": "575c38243e933707d743fc02dda43caa1dd2df09"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -241,7 +245,7 @@
     },
     {
       "path": "repo/emu/ogbox.json",
-      "sha": "ca476da67a31d30028a8ffdd1d13b409fc1b701d"
+      "sha": "370cd17d259faf01427ca3c35a86041688b4a0aa"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -285,7 +289,7 @@
     },
     {
       "path": "repo/emu/xpsemu.json",
-      "sha": "88663812346c11448a21452de7ee618a6883a23a"
+      "sha": "b8811a49c75d1b718dc62a5efcdb679809c39030"
     },
     {
       "path": "repo/games/4wins.json",
@@ -328,6 +332,10 @@
       "sha": "5a9cd27951b93cd8639027dd5f50fde1aa96fc18"
     },
     {
+      "path": "repo/games/battleship-remix.json",
+      "sha": "f4978ec0a27c9d65f63c215f321f5421aaf0ee56"
+    },
+    {
       "path": "repo/games/bedlam2.json",
       "sha": "4a294cbbf525928b7b47cdf2826a4d441d8c1861"
     },
@@ -336,12 +344,32 @@
       "sha": "afc0c6e130a1848bda915bff3ec752a7b49deb55"
     },
     {
+      "path": "repo/games/botw-vr.json",
+      "sha": "0e2d6a833752617908f96064a9b478356a30e9f0"
+    },
+    {
+      "path": "repo/games/bounce-tales.json",
+      "sha": "9d7fee9497ed80db5f6380b859b7b3c090a3e10b"
+    },
+    {
       "path": "repo/games/burnout3.json",
       "sha": "100cdbfc17bd1978df3baaaa66614b26200b291c"
     },
     {
       "path": "repo/games/ccleste.json",
       "sha": "9b2cb36cb3d3d1e26e0f93f69d3e79f4bf00d590"
+    },
+    {
+      "path": "repo/games/class-of-09-flipside.json",
+      "sha": "55eda1f7a848b341d272525214a7164e5002782c"
+    },
+    {
+      "path": "repo/games/class-of-09-reup.json",
+      "sha": "10a3f2943bf3705293bf7b87d733af035e79fc72"
+    },
+    {
+      "path": "repo/games/class-of-09.json",
+      "sha": "392c30f37c6f9322184d929d431866fd4846156f"
     },
     {
       "path": "repo/games/cyberworld-endless.json",
@@ -354,6 +382,10 @@
     {
       "path": "repo/games/devilutionx-griches.json",
       "sha": "e2a3c6972f561927b130d55c5be409c4f14e49db"
+    },
+    {
+      "path": "repo/games/dk64-rekongpiled.json",
+      "sha": "be2ef6871260e44fe3ba2d1092b651c1bb1cc71a"
     },
     {
       "path": "repo/games/doom.json",
@@ -385,7 +417,7 @@
     },
     {
       "path": "repo/games/forgotten-warrior-remastered.json",
-      "sha": "61667fc36ebe7e4f5967a2cd04686d5109bb3507"
+      "sha": "538748226a8d4f22e1ef21aea9b3b20985a11ff6"
     },
     {
       "path": "repo/games/forza-horizon.json",
@@ -417,7 +449,7 @@
     },
     {
       "path": "repo/games/halo-ce.json",
-      "sha": "278699b37c3c48d01ffc1a09c29d5b0d6017643f"
+      "sha": "552567933fa76f152707e8de49a539636d66dcab"
     },
     {
       "path": "repo/games/hydroid-crossy-road.json",
@@ -433,7 +465,7 @@
     },
     {
       "path": "repo/games/hydroid-geometry-dash-lite.json",
-      "sha": "363321b36d5449672de4929f87e4246b59a0a6eb"
+      "sha": "a1e8bd282c063468a4a94d91fe4c2128ec0682ca"
     },
     {
       "path": "repo/games/hydroid-jetpack-joyride.json",
@@ -513,7 +545,7 @@
     },
     {
       "path": "repo/games/nfsblackbox.json",
-      "sha": "a3533103d41b5402c2850488625d82fb8fc8f6f5"
+      "sha": "e4cfa67ff2b1d8922930e6ed72f08509960d0e32"
     },
     {
       "path": "repo/games/oot64native.json",
@@ -525,7 +557,7 @@
     },
     {
       "path": "repo/games/parasite-eve.json",
-      "sha": "04ddbe349ae5c7fc15c3a00fd44975deeb89234d"
+      "sha": "fb27a2fa419827dbb34ee0b3ad15a481095950a7"
     },
     {
       "path": "repo/games/phazonprime.json",
@@ -537,7 +569,7 @@
     },
     {
       "path": "repo/games/prosperocraft.json",
-      "sha": "eb0c646f24e208e33a2aa72d2052da64077d981e"
+      "sha": "592e6a96c405de7b6b3c29337b5463c554212205"
     },
     {
       "path": "repo/games/psteroid5.json",
@@ -669,7 +701,7 @@
     },
     {
       "path": "repo/media/Kodi.json",
-      "sha": "0988c5bdb42d24b250156f70fe29b2113f342243"
+      "sha": "52913eec37fd809629ee87b61a2a3e517baeddb4"
     },
     {
       "path": "repo/media/ProsperoRadio.json",
@@ -677,7 +709,7 @@
     },
     {
       "path": "repo/media/ProsperoTV.json",
-      "sha": "8b90f5f37abb4e840e6bf3a35a5ca601053c9a79"
+      "sha": "7b044ef387c587e7aeb8d9e51e5b3e600533bdcd"
     },
     {
       "path": "repo/media/afterglow.json",
@@ -693,7 +725,7 @@
     },
     {
       "path": "repo/media/mediathek.json",
-      "sha": "ae9643739d01fdc67be05609283c8556c2304954"
+      "sha": "014e65f62a7390ef2aaaf2a37b3b72fe048ed0a9"
     },
     {
       "path": "repo/media/mortalfin.json",
@@ -705,7 +737,7 @@
     },
     {
       "path": "repo/media/nuviomaxd.json",
-      "sha": "a463b74941f8fe5ce3e9f1037ff1f64b6a067cf4"
+      "sha": "af61445f22d3692b338d6db0ac03c826fd36e30c"
     },
     {
       "path": "repo/media/nuviops5.json",
@@ -745,7 +777,7 @@
     },
     {
       "path": "repo/media/tubeblock.json",
-      "sha": "240c15690b4ccc305296a6f07ebb1b797721a00a"
+      "sha": "56d4a2713723107afbcdc20043743285e10c16d7"
     },
     {
       "path": "repo/media/twispero.json",
@@ -757,7 +789,7 @@
     },
     {
       "path": "repo/media/wiliwili.json",
-      "sha": "f927917a88c47b3eb7812cce09e529d473bf797c"
+      "sha": "2498a1e6a041a7efc037bfe65ea984189299df2d"
     },
     {
       "path": "repo/media/youtubemaxd.json",
@@ -801,7 +833,7 @@
     },
     {
       "path": "repo/tools/alembic.json",
-      "sha": "6afb24523c462fc044718f364813bc08f30fd2c6"
+      "sha": "48790f7703c5cdd6659cd6f4f0a7156b7b0c6fe0"
     },
     {
       "path": "repo/tools/artswap.json",
@@ -874,6 +906,10 @@
     {
       "path": "repo/tools/ps5clean.json",
       "sha": "3bab6a4f52f13587f187b040f0464ac2f66b5561"
+    },
+    {
+      "path": "repo/tools/ps5term.json",
+      "sha": "751bf10db16ea4fd2e34a18f6557d0937f10da6e"
     },
     {
       "path": "repo/tools/ps5vr.json",
