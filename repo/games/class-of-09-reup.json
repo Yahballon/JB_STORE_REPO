@@ -1,0 +1,17 @@
+{
+  "name": "Class of '09: The Re-Up",
+  "git": "https://github.com/dannyboyjaros/ps5classof09thereup",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/dannyboyjaros/ps5classof09thereup/4f5bd1fc4638b524b7403f4060c4bd0e739dd414/kit/sce_sys/icon0.png",
+  "description": "Class of '09: The Re-Up - unofficial PS5 homebrew runtime",
+  "size_bytes": 1423058,
+  "download_url": "https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.1/PPSA09010.zip",
+  "title_id": "PPSA09010",
+  "version": "1.0.1",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/dannyboyjaros/ps5classof09thereup",
+  "sha256": "c79e476faee262c487ae5726deadf65db3a4af77d0d228228f7a9a6030ae086d",
+  "author": "dannyboyjaros"
+}
