@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "675af453b1f5c10d5711a9b86ba5d81d8129258d3e93eb0c9e2761b0460930ac",
-  "commit": "8a4ff5334ef1e53005e603ba22a6aeec9e93a3fb",
+  "version": "86f8423b3594974252c7cbdf93275b21ed07865080655164ba6b973ba13f5ebd",
+  "commit": "77c79939709a02c9f74014fef54b1baef049d64d",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -569,7 +569,7 @@
     },
     {
       "path": "repo/games/prosperocraft.json",
-      "sha": "eb0c646f24e208e33a2aa72d2052da64077d981e"
+      "sha": "592e6a96c405de7b6b3c29337b5463c554212205"
     },
     {
       "path": "repo/games/psteroid5.json",
@@ -709,7 +709,7 @@
     },
     {
       "path": "repo/media/ProsperoTV.json",
-      "sha": "8b90f5f37abb4e840e6bf3a35a5ca601053c9a79"
+      "sha": "7b044ef387c587e7aeb8d9e51e5b3e600533bdcd"
     },
     {
       "path": "repo/media/afterglow.json",
