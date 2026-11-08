@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "9261655cf77bac2e9201abaa19cfa26c70c30bbcc60eaa5e9a63597f64631086",
-  "commit": "d8c7e431fb40a3e14e9c5de58fa89c08f88ce92f",
+  "version": "10f43d22895e8af80a29907b3933774992e0fa871afe902afd75cf3bf7343092",
+  "commit": "95f182e5c0ddca8f3f4a53292f3b70d2fb457c12",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -94,6 +94,10 @@
     {
       "path": "repo/apps/prosperoweb.json",
       "sha": "56acfc1cb25b0f81654d30d89aceebc9d4df2a63"
+    },
+    {
+      "path": "repo/apps/ps5-browser.json",
+      "sha": "575c38243e933707d743fc02dda43caa1dd2df09"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -328,12 +332,20 @@
       "sha": "5a9cd27951b93cd8639027dd5f50fde1aa96fc18"
     },
     {
+      "path": "repo/games/battleship-remix.json",
+      "sha": "f4978ec0a27c9d65f63c215f321f5421aaf0ee56"
+    },
+    {
       "path": "repo/games/bedlam2.json",
       "sha": "4a294cbbf525928b7b47cdf2826a4d441d8c1861"
     },
     {
       "path": "repo/games/blue-dragon.json",
       "sha": "afc0c6e130a1848bda915bff3ec752a7b49deb55"
+    },
+    {
+      "path": "repo/games/botw-vr.json",
+      "sha": "0e2d6a833752617908f96064a9b478356a30e9f0"
     },
     {
       "path": "repo/games/bounce-tales.json",
@@ -370,6 +382,10 @@
     {
       "path": "repo/games/devilutionx-griches.json",
       "sha": "e2a3c6972f561927b130d55c5be409c4f14e49db"
+    },
+    {
+      "path": "repo/games/dk64-rekongpiled.json",
+      "sha": "be2ef6871260e44fe3ba2d1092b651c1bb1cc71a"
     },
     {
       "path": "repo/games/doom.json",
@@ -890,6 +906,10 @@
     {
       "path": "repo/tools/ps5clean.json",
       "sha": "3bab6a4f52f13587f187b040f0464ac2f66b5561"
+    },
+    {
+      "path": "repo/tools/ps5term.json",
+      "sha": "751bf10db16ea4fd2e34a18f6557d0937f10da6e"
     },
     {
       "path": "repo/tools/ps5vr.json",
