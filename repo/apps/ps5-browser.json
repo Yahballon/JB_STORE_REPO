@@ -1,0 +1,17 @@
+{
+  "name": "PS5 Browser",
+  "git": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases",
+  "type": "app",
+  "cover_image": "https://raw.githubusercontent.com/Vibe-Code-Jesus/PS5Browser-Releases/703c083de9574ea596819f073cf4707948d27d80/catalog-icon.png",
+  "description": "A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.",
+  "size_bytes": 22628212,
+  "download_url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.009/PS5Browser-Native-01.000.009-Preview.zip",
+  "title_id": "PPSA99257",
+  "version": "native-v01.000.009",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases",
+  "sha256": "b127e7e3ffb8386fcd2f613a6d3d8bf57d067bc55820f074346f699d75a67e80",
+  "author": "Vibe-Code-Jesus"
+}
