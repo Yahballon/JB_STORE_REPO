@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "c1d6a24b520a5ec864a305df25bd6fdce99a7d08731b8ac5d4d8dcff0473ef3d",
-  "commit": "aa4b7139fa060f52cb049c5f4fc99437a07af373",
+  "version": "9261655cf77bac2e9201abaa19cfa26c70c30bbcc60eaa5e9a63597f64631086",
+  "commit": "d8c7e431fb40a3e14e9c5de58fa89c08f88ce92f",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -336,12 +336,28 @@
       "sha": "afc0c6e130a1848bda915bff3ec752a7b49deb55"
     },
     {
+      "path": "repo/games/bounce-tales.json",
+      "sha": "9d7fee9497ed80db5f6380b859b7b3c090a3e10b"
+    },
+    {
       "path": "repo/games/burnout3.json",
       "sha": "100cdbfc17bd1978df3baaaa66614b26200b291c"
     },
     {
       "path": "repo/games/ccleste.json",
       "sha": "9b2cb36cb3d3d1e26e0f93f69d3e79f4bf00d590"
+    },
+    {
+      "path": "repo/games/class-of-09-flipside.json",
+      "sha": "55eda1f7a848b341d272525214a7164e5002782c"
+    },
+    {
+      "path": "repo/games/class-of-09-reup.json",
+      "sha": "10a3f2943bf3705293bf7b87d733af035e79fc72"
+    },
+    {
+      "path": "repo/games/class-of-09.json",
+      "sha": "392c30f37c6f9322184d929d431866fd4846156f"
     },
     {
       "path": "repo/games/cyberworld-endless.json",
