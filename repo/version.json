@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "91fb4ad6726630e0badda508e7ceacabdf433cbd5992e407f5914e867a16cbc0",
-  "commit": "462332dec662ab5fff8c41cd776be7762d9f497e",
+  "version": "72953b30434909d8ca5b7553f0081c3b6e54e8ba60e98acc5e40c84149c40c84",
+  "commit": "40390441fe5a6d65ca05e6646978dc02d3069de4",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -713,7 +713,7 @@
     },
     {
       "path": "repo/media/EVOPlayer.json",
-      "sha": "a0ca7bb2a496c00ed2cfd6519d39e4c40f1b8cb1"
+      "sha": "1be3f4fada49deaa596ec3e1e524bbdd9032af71"
     },
     {
       "path": "repo/media/Emby5.json",
@@ -725,7 +725,7 @@
     },
     {
       "path": "repo/media/Kodi.json",
-      "sha": "52913eec37fd809629ee87b61a2a3e517baeddb4"
+      "sha": "aa6b39326f6a08fe14d794c2ae41dbc3f4c205e2"
     },
     {
       "path": "repo/media/ProsperoRadio.json",
