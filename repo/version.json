@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "8ced574d15b5104d523531679e60cc618ac37b3006e2f93028bcedb0dfb55a5a",
-  "commit": "a31a00d6f75698b8b6cbb087d5e5000fd6662e2b",
+  "version": "132bbaf4c5f4d2a7971e215c83ccc723a245ef981eacf1da46da5d201123e2c5",
+  "commit": "14fc0165097ca145f56fb8bf2dc34dfcb457a6f7",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -133,11 +133,11 @@
     },
     {
       "path": "repo/apps/pulse.json",
-      "sha": "cff72e2eba8a3a2afb5410d2260779b58f2935c9"
+      "sha": "b10ee8360bdfb52ef41a4d12484bd5ed341082c4"
     },
     {
       "path": "repo/apps/rommps.json",
-      "sha": "a9f973b624086e7bd5a7894acc1505c2001f53fe"
+      "sha": "4d569b8634128c168328cc47012c0e21242d2c30"
     },
     {
       "path": "repo/apps/standby-clock.json",
@@ -373,7 +373,7 @@
     },
     {
       "path": "repo/games/cyberworld-endless.json",
-      "sha": "f24ef2d70da3d01483e2ef00c970f6ca998e85c8"
+      "sha": "0703adb1c0a272fcab67686048873cf2ec9f2785"
     },
     {
       "path": "repo/games/devilutionx-angelxex.json",
