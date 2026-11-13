@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "bf400326259f56de10963a182860a2962cb39c9f6e03e263248ba096254d4d60",
-  "commit": "338cfd7d00dbdc1bc4b0b90db3091216769e2368",
+  "version": "91fb4ad6726630e0badda508e7ceacabdf433cbd5992e407f5914e867a16cbc0",
+  "commit": "462332dec662ab5fff8c41cd776be7762d9f497e",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -21,7 +21,7 @@
     },
     {
       "path": "repo/apps/ProsperoAI.json",
-      "sha": "11502e1be228c8ceb36a541cfa0f7910440c0a6c"
+      "sha": "859e5a94a7b7ac52564cccd724fed4b80a4dcdc9"
     },
     {
       "path": "repo/apps/ProsperoLight.json",
@@ -337,7 +337,7 @@
     },
     {
       "path": "repo/games/apricotgs.json",
-      "sha": "5a9cd27951b93cd8639027dd5f50fde1aa96fc18"
+      "sha": "7ccea14424a24031f94fc895bc3c9f223de0ba79"
     },
     {
       "path": "repo/games/battleship-remix.json",
