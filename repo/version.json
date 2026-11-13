@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "132bbaf4c5f4d2a7971e215c83ccc723a245ef981eacf1da46da5d201123e2c5",
-  "commit": "14fc0165097ca145f56fb8bf2dc34dfcb457a6f7",
+  "version": "8ed50bb2ff447186ebd55cb51f1adef18f44d29781a0b55e175ca0940d9d843d",
+  "commit": "4b1419cfe54a0663756a113c536bcda57a455dd0",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -70,6 +70,10 @@
     {
       "path": "repo/apps/orion-media-center.json",
       "sha": "7eb2ca94adf8d2be4d476182ec77d5e950a39908"
+    },
+    {
+      "path": "repo/apps/parallax-browser.json",
+      "sha": "16cf10ec99612e358e37f6103716082f15b299ea"
     },
     {
       "path": "repo/apps/payloadlauncherx.json",
@@ -162,6 +166,10 @@
     {
       "path": "repo/apps/vita5.json",
       "sha": "98f33a95207ea5623b2cae19b75462b23bb4e44d"
+    },
+    {
+      "path": "repo/apps/vitrine.json",
+      "sha": "b02b7cb1586fb93b6f5baab200fc9992fd7aa98f"
     },
     {
       "path": "repo/emu/PS5GBA.json",
@@ -350,6 +358,10 @@
     {
       "path": "repo/games/bounce-tales.json",
       "sha": "9d7fee9497ed80db5f6380b859b7b3c090a3e10b"
+    },
+    {
+      "path": "repo/games/brogue-ce.json",
+      "sha": "c5f0bc02f2d1cf73711a29d789ab756d7d3d5d2f"
     },
     {
       "path": "repo/games/burnout3.json",
@@ -542,6 +554,10 @@
     {
       "path": "repo/games/naruto-rise-of-a-ninja.json",
       "sha": "3d0887c916368ea560724c450167d6695dab4064"
+    },
+    {
+      "path": "repo/games/nethack.json",
+      "sha": "11ddb3d58f3a757a4187bf748bc9414a29acf713"
     },
     {
       "path": "repo/games/nfsblackbox.json",
