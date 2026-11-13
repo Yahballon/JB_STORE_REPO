@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "8ed50bb2ff447186ebd55cb51f1adef18f44d29781a0b55e175ca0940d9d843d",
-  "commit": "4b1419cfe54a0663756a113c536bcda57a455dd0",
+  "version": "8cf8e7d2e93acaa167ca32cd0fc044c875a876237272c1c145552e4e6a12a7fe",
+  "commit": "fa63059cf788e4985711dd40028ed230c7960f1a",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -384,6 +384,10 @@
       "sha": "392c30f37c6f9322184d929d431866fd4846156f"
     },
     {
+      "path": "repo/games/conkers-bad-fur-day.json",
+      "sha": "9f0072154ca6c3dea40ee74f98075d5fdd28789d"
+    },
+    {
       "path": "repo/games/cyberworld-endless.json",
       "sha": "0703adb1c0a272fcab67686048873cf2ec9f2785"
     },
@@ -410,6 +414,10 @@
     {
       "path": "repo/games/drinkroulette.json",
       "sha": "e687145992e7b183a42a443c38efbf7867dd8cb7"
+    },
+    {
+      "path": "repo/games/dungeon-crawl-stone-soup.json",
+      "sha": "44220627ba162a3e35480dd2eeeb630ebe889c7d"
     },
     {
       "path": "repo/games/dusklight.json",
@@ -910,6 +918,10 @@
     {
       "path": "repo/tools/prosperothemes.json",
       "sha": "07a3ee6e720fda78afac98c87e89efec54323755"
+    },
+    {
+      "path": "repo/tools/ps5-backup-center.json",
+      "sha": "867bfb9a83542ce6dbaac61c8b0aab857e300fc6"
     },
     {
       "path": "repo/tools/ps5-devbridge.json",
