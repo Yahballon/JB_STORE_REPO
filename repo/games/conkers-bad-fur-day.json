@@ -1,0 +1,16 @@
+{
+  "name": "Conker's Bad Fur Day",
+  "git": "https://github.com/Samclay8/CBFD-Recompiled-PS5",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/Samclay8/CBFD-Recompiled-PS5/01.000.000/docs/icon.png",
+  "description": "Conker’s Bad Fur Day: Recompiled as a native PS5 homebrew title: 4K, 60 fps, texture packs. Requires the user's legally obtained original game ROM; no game assets included.",
+  "download_url": "https://github.com/Samclay8/CBFD-Recompiled-PS5/releases/download/01.000.000/PPSA64065.zip",
+  "title_id": "PPSA64065",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Samclay8/CBFD-Recompiled-PS5",
+  "sha256": "2ff35e404fbc8f0ad7e48cba063fbf54172308a950a11ee328e0dd75a1999c05",
+  "author": "Sam"
+}

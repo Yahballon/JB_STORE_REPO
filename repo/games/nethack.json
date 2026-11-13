@@ -1,0 +1,16 @@
+{
+  "name": "NetHack",
+  "git": "https://github.com/plutobox/ps5-NetHack",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/plutobox/ps5-NetHack/01.001.000/sce_sys/icon0.png",
+  "description": "The classic open-source roguelike NetHack 5.0, played with the DualSense: button menus, a hint bar and the system keyboard.",
+  "download_url": "https://github.com/plutobox/ps5-NetHack/releases/download/01.001.000/PPSA92042.zip",
+  "title_id": "PPSA92042",
+  "version": "01.001.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/plutobox/ps5-NetHack",
+  "sha256": "67e43ec07df12091fe0ff931031d1edc61830ec01be390956a97b906bfed0c01",
+  "author": "plutobox"
+}
