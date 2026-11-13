@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "58b07193983266d1c43b6d34735d604a44e8dfad231129a17a143c5c4c3a1202",
-  "commit": "1eddaa9acecf627962a6fa5f90f32a51f3c5c8b0",
+  "version": "e188dbb7985a7534337bdf73c396996f4385a3160e1b0e77c2f13dd9e80517c9",
+  "commit": "7bb1ea8ca6e1213378d32135cb71d3fc3a1fe85a",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -225,7 +225,7 @@
     },
     {
       "path": "repo/emu/eglantineps5.json",
-      "sha": "790d62fe215a1a2454079915a989969c97d577dd"
+      "sha": "6161804a415081d097a5f5add75d51d6f96f847c"
     },
     {
       "path": "repo/emu/fbneo.json",
@@ -449,7 +449,7 @@
     },
     {
       "path": "repo/games/halo-ce.json",
-      "sha": "552567933fa76f152707e8de49a539636d66dcab"
+      "sha": "0a231971328d396ddb2af3f000510bedc9e4c9a3"
     },
     {
       "path": "repo/games/hydroid-crossy-road.json",
@@ -833,7 +833,7 @@
     },
     {
       "path": "repo/tools/alembic.json",
-      "sha": "48790f7703c5cdd6659cd6f4f0a7156b7b0c6fe0"
+      "sha": "27a9dc4054deac48c833c60ebbe1b45666ee1656"
     },
     {
       "path": "repo/tools/artswap.json",
@@ -885,7 +885,7 @@
     },
     {
       "path": "repo/tools/payloader.json",
-      "sha": "753f9df73ab498562f3154d612d6b214edf4dd61"
+      "sha": "c4bc9e82df1826f6001cbaefa7afa2e0996bfd25"
     },
     {
       "path": "repo/tools/pkg-folderizer.json",
@@ -909,7 +909,7 @@
     },
     {
       "path": "repo/tools/ps5term.json",
-      "sha": "751bf10db16ea4fd2e34a18f6557d0937f10da6e"
+      "sha": "b586a8393edf1065ef53509de06b7c9c28d8a99b"
     },
     {
       "path": "repo/tools/ps5vr.json",
