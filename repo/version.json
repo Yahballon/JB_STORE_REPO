@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "8c7363cd1455b3bea526c8e58389e2391adfa417cdffd3fbae2c7a8346fa0afb",
-  "commit": "13e553ba29572e7debb1685fbb755691011228cc",
+  "version": "58b07193983266d1c43b6d34735d604a44e8dfad231129a17a143c5c4c3a1202",
+  "commit": "1eddaa9acecf627962a6fa5f90f32a51f3c5c8b0",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -77,7 +77,7 @@
     },
     {
       "path": "repo/apps/pc5.json",
-      "sha": "29e36471803f8149767eca62f40976de299e44fb"
+      "sha": "7b4f77a9c309b50bab3d852a9ae30801bfa184b3"
     },
     {
       "path": "repo/apps/photo-splat-vr.json",
@@ -85,11 +85,11 @@
     },
     {
       "path": "repo/apps/playden.json",
-      "sha": "f22bb8fea83a332f9e8d1494b705d8deeb215fe6"
+      "sha": "26e526c400c9798d75ddd7dfe2682235d261ba24"
     },
     {
       "path": "repo/apps/prosperosunshine.json",
-      "sha": "1e41196f3da922236a1cef4bc0c53787c0006c73"
+      "sha": "3568ccc3465d448aff991f7a18828320da27daf6"
     },
     {
       "path": "repo/apps/prosperoweb.json",
@@ -245,7 +245,7 @@
     },
     {
       "path": "repo/emu/ogbox.json",
-      "sha": "370cd17d259faf01427ca3c35a86041688b4a0aa"
+      "sha": "1e7a97b71814e1b11d890f9d8b4ac863766dc81f"
     },
     {
       "path": "repo/emu/pico8.json",
@@ -289,7 +289,7 @@
     },
     {
       "path": "repo/emu/xpsemu.json",
-      "sha": "b8811a49c75d1b718dc62a5efcdb679809c39030"
+      "sha": "727258938427e649eaa70af241b916157a99e8a4"
     },
     {
       "path": "repo/games/4wins.json",
@@ -333,7 +333,7 @@
     },
     {
       "path": "repo/games/battleship-remix.json",
-      "sha": "f4978ec0a27c9d65f63c215f321f5421aaf0ee56"
+      "sha": "d3dd599763bf1b4a37cea6a283a6a051af62985c"
     },
     {
       "path": "repo/games/bedlam2.json",
