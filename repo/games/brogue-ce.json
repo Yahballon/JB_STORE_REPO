@@ -1,0 +1,16 @@
+{
+  "name": "Brogue CE",
+  "git": "https://github.com/plutobox/ps5-BrogueCE",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/plutobox/ps5-BrogueCE/d50d13fcaf9f67d311c992ca0821b98d2f0790a5/sce_sys/icon0.png",
+  "description": "Brogue is a single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.",
+  "download_url": "https://github.com/plutobox/ps5-BrogueCE/releases/download/01.000.000/PPSA92043.zip",
+  "title_id": "PPSA92043",
+  "version": "01.000.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/plutobox/ps5-BrogueCE",
+  "sha256": "8c5801eb8c22c1ec497d5b21736845c005b1daa46b3fff3cec766b379a964536",
+  "author": "plutobox"
+}
