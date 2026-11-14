@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "909c92ac5b60a4d5451fc24a71f4eb3693465d232247a057ff16b5cdac558544",
-  "commit": "0380946b2146971eb489cc1e53c737874b9865ce",
+  "version": "fb89806b8a71218fbfa41e5b729237d725c71251bb494acae63696722ee1893c",
+  "commit": "1a1824c1e83f8c3180e89d65af2c813549423714",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -382,6 +382,10 @@
     {
       "path": "repo/games/class-of-09.json",
       "sha": "392c30f37c6f9322184d929d431866fd4846156f"
+    },
+    {
+      "path": "repo/games/conker-devoldschool-recompiled.json",
+      "sha": "632a7c3e2782eb8a5ba95d8a9880e3847a3bde6c"
     },
     {
       "path": "repo/games/conkers-bad-fur-day.json",
