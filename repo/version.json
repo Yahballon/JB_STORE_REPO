@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "9b4d9f0691d30df1b8b0b8398350b6a29a49de6d5135efa8f0decf4a7eb7f413",
-  "commit": "89edf29970babb399ac31725f72f65159d3ea9d3",
+  "version": "d1b010a08858777111f3731d901634ad4a78f5e848338aa110d235337bca2354",
+  "commit": "862ec637410c5add0d1da9a4b9bd134d772bea7a",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -17,7 +17,7 @@
     },
     {
       "path": "repo/apps/PSBoxCloudGaming.json",
-      "sha": "d015d321dd7c90ceada5bb9a84e948b8c1788231"
+      "sha": "f4205bdf3fd6f73b6a379630d9ada4a00947e70b"
     },
     {
       "path": "repo/apps/ProsperoAI.json",
@@ -389,7 +389,7 @@
     },
     {
       "path": "repo/games/cyberworld-endless.json",
-      "sha": "0703adb1c0a272fcab67686048873cf2ec9f2785"
+      "sha": "e0f33688c6d572c302871a9ab034f6353440380b"
     },
     {
       "path": "repo/games/devilutionx-angelxex.json",
@@ -593,7 +593,7 @@
     },
     {
       "path": "repo/games/prosperocraft.json",
-      "sha": "592e6a96c405de7b6b3c29337b5463c554212205"
+      "sha": "968d487e81cff1144d613d8289e42063b2c07540"
     },
     {
       "path": "repo/games/psteroid5.json",
