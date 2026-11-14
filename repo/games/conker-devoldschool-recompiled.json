@@ -1,0 +1,16 @@
+{
+  "name": "Conker's Bad Fur Day (DevOldSchool Recompiled)",
+  "git": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/DevOldSchool/conkers-bfd-recomp-ps/f4d9d24269998c71701e5b5368a8287f9d8f04c6/tools/ps5/sce_sys/icon0.png",
+  "description": "Alternative native PS5 recompilation by DevOldSchool, distinct from Samclay8's PPSA64065 build. Widescreen and multiplayer; requires a legally obtained original US ROM. No commercial game assets included.",
+  "download_url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.000/PPSA92064.zip",
+  "title_id": "PPSA92064",
+  "version": "00.001.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps",
+  "sha256": "86906fcba6a59b45c1cdbc724aa28f8f1c5c640376b455cc034c29857b4cddc4",
+  "author": "DevOldSchool"
+}
