@@ -4,13 +4,13 @@
   "type": "emu",
   "cover_image": "https://raw.githubusercontent.com/heydemoura/EglantinePS5/268d43a28d0d363fb449d291238514527567383e/sce_sys/icon0.png",
   "description": "VERY experimental Nintendo Switch 2 emulator port for PS5; requires your own legally obtained keys, firmware and games.",
-  "download_url": "https://github.com/heydemoura/EglantinePS5/releases/download/v1.000.002/EglantinePS5-v1.000.002.zip",
+  "download_url": "https://github.com/heydemoura/EglantinePS5/releases/download/v1.000.004/EglantinePS5-v1.000.004.zip",
   "title_id": "PPSA98515",
-  "version": "1.000.002",
+  "version": "1.000.004",
   "format": "zip",
   "status": "available",
   "supported_by_store": true,
   "source_page": "https://github.com/heydemoura/EglantinePS5",
-  "sha256": "780c170e6a24f6321fe2d0311ddb8eb2d03d1017181fddfcf87fbf47b1bb88cb",
+  "sha256": "8b7c5121858b19c5142ac67639bf3e91e741370b99617caa2efd1bda77502f79",
   "author": "Heyde Moura"
 }
