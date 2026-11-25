@@ -1,0 +1,17 @@
+{
+  "name": "Pokémon Prosperous Platinum",
+  "git": "https://github.com/cybervisi0n/pokeplatinum",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/cybervisi0n/pokeplatinum/f983c87a547023a79df2d04833e45804456ae454/prospero/sce_sys/icon0.png",
+  "description": "Native PS5 port of the Pokémon Platinum decompilation. Requires a legally obtained original ROM; extract assets with the PC version before use on PS5.",
+  "size_bytes": 19285922,
+  "download_url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.4/release_ps5.zip",
+  "title_id": "PPSA92008",
+  "version": "0.2.4",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/cybervisi0n/pokeplatinum",
+  "sha256": "67d5e99a12bae64aa2de647e456c5a096d200e93bbf5ee16ec7781bba5dd217c",
+  "author": "cybervisi0n"
+}
