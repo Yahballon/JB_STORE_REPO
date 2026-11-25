@@ -1,0 +1,16 @@
+{
+  "name": "Home Screen Manager",
+  "git": "https://github.com/lazyboy6791/PS5HomeScreenManager",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/lazyboy6791/PS5HomeScreenManager/refs/heads/main/assets/icon0.png",
+  "description": "It only does everything you want with your PS5 home screen. Create Folders, Wallpapers, Edit & Modify App/Game Icons & Backgrounds, Change App/Game Names, Hide Apps/Games, Rearrange Tiles and much mor",
+  "download_url": "https://github.com/lazyboy6791/PS5HomeScreenManager/releases/download/v2.2.5/PPSA97979.zip",
+  "title_id": "PPSA97979",
+  "version": "2.2.5",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/lazyboy6791/PS5HomeScreenManager",
+  "sha256": "2dcbece3f048b69e7de26a04149c726a5dc3678398a2fd4e8fdfa10e877cce85",
+  "author": "lazyboy6791"
+}

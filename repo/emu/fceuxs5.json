@@ -1,0 +1,16 @@
+{
+  "name": "fceuxs5",
+  "git": "https://github.com/Richie133/fceuxs5",
+  "type": "emulator",
+  "cover_image": "https://raw.githubusercontent.com/Richie133/fceuxs5/88244393d0fceb05fc99e1fdb7883173034b3ad8/sce_sys/icon0.png",
+  "description": "Nes emulator for ps5. Based on fceux",
+  "download_url": "https://github.com/Richie133/fceuxs5/releases/download/01.001.000/fceuxs5-v1.1-PPSA51855.zip",
+  "title_id": "PPSA51855",
+  "version": "01.001.000",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/Richie133/fceuxs5",
+  "sha256": "b3bd749cd3bd2c4df9cbb5e1c86a73844acf878ba5f41cbc070bd7b28e77b1d3",
+  "author": "Richie133"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "OutRunners PS5",
+  "git": "https://github.com/JJBurtenshaw/OutRunners-PS5",
+  "type": "game",
+  "cover_image": "https://raw.githubusercontent.com/JJBurtenshaw/OutRunners-PS5/2bd0f47e37956787747af75e649a72f99a07be13/sce_sys/icon0.png",
+  "description": "Native PlayStation 5 homebrew port of the OutRunners arcade game.",
+  "download_url": "https://github.com/JJBurtenshaw/OutRunners-PS5/releases/download/v1.0.0/OutRunners-PS5-v1.0.0.zip",
+  "title_id": "PPSA98538",
+  "version": "1.0.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/JJBurtenshaw/OutRunners-PS5",
+  "sha256": "ac82dc34a5e0d52b64c6568794134797f183f48c027639b8919ca9aa24df886b",
+  "author": "Jonathan Burtenshaw"
+}

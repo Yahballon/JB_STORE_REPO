@@ -1,0 +1,16 @@
+{
+  "name": "RipperPS",
+  "git": "https://github.com/s0liton/RipperPS",
+  "type": "tool",
+  "cover_image": "https://raw.githubusercontent.com/s0liton/RipperPS/v0.1.0/platform/ps5/app/ripper/ps5/sce_sys/icon0.png",
+  "description": "Rip your game, movie and music discs right on your PS5. Still experimental and getting better over time, and you can help by running the drive test in Settings with different kinds of discs.",
+  "download_url": "https://github.com/s0liton/RipperPS/releases/download/v0.1.0/PPSA76700.zip",
+  "title_id": "PPSA76700",
+  "version": "0.1.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/s0liton/RipperPS",
+  "sha256": "75dcdd48ab936c9f4c97e50cddb5112c75884a9fe76bef33033e7ae9d5050d70",
+  "author": "s0liton"
+}
