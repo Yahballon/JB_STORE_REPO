@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "a5dc0b40f0baa288e0076af1042959d5bc795d3a279d75febabea183b4531617",
-  "commit": "a09dfa0999cdb33bff47ad953aed56763054f0af",
+  "version": "c6bfc519c650a37fcbb5e88e6d55acc857ad72e9958fa3bb410434dcf54f3e11",
+  "commit": "62f7787e4c2140c4cda154791958033dc0745e8b",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -101,7 +101,7 @@
     },
     {
       "path": "repo/apps/ps5-browser.json",
-      "sha": "575c38243e933707d743fc02dda43caa1dd2df09"
+      "sha": "da4911ee44baccf83b11512aa4c54832412f3eae"
     },
     {
       "path": "repo/apps/ps5-micropython.json",
@@ -969,7 +969,7 @@
     },
     {
       "path": "repo/tools/ps5-backup-center.json",
-      "sha": "8c99b3a1c2a04f3f6f9b15d2c8147744486d0664"
+      "sha": "2e915794cb7a27aad409901057bc7f130b2b3494"
     },
     {
       "path": "repo/tools/ps5-devbridge.json",
