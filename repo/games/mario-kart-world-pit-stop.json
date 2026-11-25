@@ -1,0 +1,17 @@
+{
+  "name": "Mario Kart World: Pit Stop",
+  "git": "https://github.com/exploitizm/mkw-pit-stop",
+  "type": "game",
+  "cover_image": "https://github.com/exploitizm/mkw-pit-stop/releases/download/ps5-0.3.0/icon0.png",
+  "description": "PS5 installation placeholder for the Mario Kart World recompilation project. The original game is not included; a legally obtained game dump and the separate PC builder are required.",
+  "size_bytes": 8800950,
+  "download_url": "https://github.com/exploitizm/mkw-pit-stop/releases/download/ps5-0.3.0/mkw-pit-stop-0.3.0-ps5-placeholder-PPSA99193.zip",
+  "title_id": "PPSA99193",
+  "version": "ps5-0.3.0",
+  "format": "zip",
+  "status": "available",
+  "supported_by_store": true,
+  "source_page": "https://github.com/exploitizm/mkw-pit-stop",
+  "sha256": "bb3a2ceb51782d5c449dc13c0f6cab5f8f9cac949b9921003b82d6fd79243162",
+  "author": "exploitizm"
+}
