@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "fb89806b8a71218fbfa41e5b729237d725c71251bb494acae63696722ee1893c",
-  "commit": "1a1824c1e83f8c3180e89d65af2c813549423714",
+  "version": "45649e72ab655aeeea01de3875d5d8e21b1ae7b90f058ad2cbd6deb0b45871f1",
+  "commit": "e922e5fd1cf3407ea5a34dfe7b89607b93a1df63",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -240,6 +240,10 @@
       "sha": "bc6f25a2923d4493c0a52cc8e693f3557fd2f11f"
     },
     {
+      "path": "repo/emu/fceuxs5.json",
+      "sha": "5699a428e32514390ed84278c9af25a6330aada4"
+    },
+    {
       "path": "repo/emu/forgenx.json",
       "sha": "b04b0782eec9f0fb971a21c1c4f0c20aa67197ae"
     },
@@ -296,8 +300,16 @@
       "sha": "d498f442d48eca543fbf3a196240ee07d9b1e55f"
     },
     {
+      "path": "repo/emu/trinityx360.json",
+      "sha": "ec980469ea74ee64266a3af0bc35673e91e52402"
+    },
+    {
       "path": "repo/emu/xpsemu.json",
       "sha": "727258938427e649eaa70af241b916157a99e8a4"
+    },
+    {
+      "path": "repo/emu/ymirps5.json",
+      "sha": "097a8d2b81c23e9492cd28d4282b3ad62842241e"
     },
     {
       "path": "repo/games/4wins.json",
@@ -366,6 +378,10 @@
     {
       "path": "repo/games/burnout3.json",
       "sha": "100cdbfc17bd1978df3baaaa66614b26200b291c"
+    },
+    {
+      "path": "repo/games/cannonball.json",
+      "sha": "ff055a33d0d929fc5e0ed4f4fcec3e57d283366e"
     },
     {
       "path": "repo/games/ccleste.json",
@@ -584,6 +600,10 @@
       "sha": "ad824008009074a6277709f6e853383e3408c9b6"
     },
     {
+      "path": "repo/games/outrunners.json",
+      "sha": "f7aab7ae2785dc4a181e21d6f5644b3c74c3fcd7"
+    },
+    {
       "path": "repo/games/parasite-eve.json",
       "sha": "fb27a2fa419827dbb34ee0b3ad15a481095950a7"
     },
@@ -748,6 +768,10 @@
       "sha": "90346f34f8fd50295751247c80258dae64c12684"
     },
     {
+      "path": "repo/media/kamtape.json",
+      "sha": "dbb84e8f95cace40a38a1ebc6566a1b3195a680c"
+    },
+    {
       "path": "repo/media/mediaplayerclassic.json",
       "sha": "4bd21e2da9f154f615554e6d4af3abb276b4ceca"
     },
@@ -884,12 +908,20 @@
       "sha": "b78114a2cc39748e940f9e6ac0204beb32ffaead"
     },
     {
+      "path": "repo/tools/elivier-explorer.json",
+      "sha": "1f0f823f390c7847b72205f810d36f950359a3ec"
+    },
+    {
       "path": "repo/tools/fileden.json",
       "sha": "311586679e2ac506f3a6df7ed16a7077a961f410"
     },
     {
       "path": "repo/tools/gyroaim.json",
       "sha": "6f206cc2bc96938aec45f52989d40102f10e21c6"
+    },
+    {
+      "path": "repo/tools/home-screen-manager.json",
+      "sha": "d021f5fa35ea32076fe0e76b674c1bb353def56c"
     },
     {
       "path": "repo/tools/home5.json",
@@ -950,6 +982,10 @@
     {
       "path": "repo/tools/recompstore.json",
       "sha": "ac60836569d06a867e6504ed1fba6c89bb8aa07e"
+    },
+    {
+      "path": "repo/tools/ripperps.json",
+      "sha": "3364c5a482a75f666a0f5a04d80c91125fbdc602"
     },
     {
       "path": "repo/tools/runescape-launcher.json",
