@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "fbf65833e32b6f80ce4f1061595953cbf047ad4306c52cf381f3cf5b9420b0b1",
-  "commit": "51fa790e8f4e20ee0a598a0fb381cdba28c996aa",
+  "version": "a5dc0b40f0baa288e0076af1042959d5bc795d3a279d75febabea183b4531617",
+  "commit": "a09dfa0999cdb33bff47ad953aed56763054f0af",
   "files": [
     {
       "path": "repo/apps/FPKGi.json",
@@ -388,6 +388,10 @@
       "sha": "9b2cb36cb3d3d1e26e0f93f69d3e79f4bf00d590"
     },
     {
+      "path": "repo/games/clan-bomber.json",
+      "sha": "345feef05969f529b0934c9ca613d4cafde3902d"
+    },
+    {
       "path": "repo/games/class-of-09-flipside.json",
       "sha": "55eda1f7a848b341d272525214a7164e5002782c"
     },
@@ -564,6 +568,10 @@
       "sha": "efd17ac7e7d07c9581207906d29977eeaf887bae"
     },
     {
+      "path": "repo/games/mario-kart-world-pit-stop.json",
+      "sha": "94650b5fc3c502b779c767f6f95373d37678d914"
+    },
+    {
       "path": "repo/games/mario64.json",
       "sha": "de4820ca7056e7d8889da1125df898d6509900c7"
     },
@@ -614,6 +622,10 @@
     {
       "path": "repo/games/pixel-museum.json",
       "sha": "22697bfc01bb232291a9c12d4984fee0bdee5c4a"
+    },
+    {
+      "path": "repo/games/pokemon-prosperous-platinum.json",
+      "sha": "894da700265966c8ff7387ba2e1e2f687c960dac"
     },
     {
       "path": "repo/games/prosperocraft.json",
